@@ -1,0 +1,29 @@
+2026-03-28 12:31:00,865  INFO  Scraping season 2023…
+2026-03-28 12:31:01,828  INFO    2023: 2476 completed games found via MLB API
+2026-03-28 12:31:01,829  INFO    2023: processing game 0/2476
+2026-03-28 12:32:16,383  INFO    2023: processing game 100/2476
+2026-03-28 12:33:32,423  INFO    2023: processing game 200/2476
+2026-03-28 12:34:50,063  INFO    2023: processing game 300/2476
+2026-03-28 12:36:14,977  INFO    2023: processing game 400/2476
+2026-03-28 12:37:32,167  INFO    2023: processing game 500/2476
+2026-03-28 12:38:48,635  INFO    2023: processing game 600/2476
+2026-03-28 12:40:05,458  INFO    2023: processing game 700/2476
+2026-03-28 12:41:22,109  INFO    2023: processing game 800/2476
+2026-03-28 12:42:38,671  INFO    2023: processing game 900/2476
+2026-03-28 12:43:56,090  INFO    2023: processing game 1000/2476
+2026-03-28 12:45:14,071  INFO    2023: processing game 1100/2476
+2026-03-28 12:46:31,964  INFO    2023: processing game 1200/2476
+2026-03-28 12:47:49,650  INFO    2023: processing game 1300/2476
+2026-03-28 12:49:07,955  INFO    2023: processing game 1400/2476
+2026-03-28 12:50:25,227  INFO    2023: processing game 1500/2476
+2026-03-28 12:51:46,964  INFO    2023: processing game 1600/2476
+2026-03-28 12:53:05,155  INFO    2023: processing game 1700/2476
+2026-03-28 12:54:24,011  INFO    2023: processing game 1800/2476
+2026-03-28 12:55:42,922  INFO    2023: processing game 1900/2476
+2026-03-28 12:57:01,154  INFO    2023: processing game 2000/2476
+2026-03-28 12:58:18,935  INFO    2023: processing game 2100/2476
+2026-03-28 12:59:37,260  INFO    2023: processing game 2200/2476
+2026-03-28 13:00:55,877  INFO    2023: processing game 2300/2476
+2026-03-28 13:02:15,928  INFO    2023: processing game 2400/2476
+2026-03-28 13:03:16,323  INFO  Season 2023 done: 4948 outings inserted
+2026-03-28 13:03:19,324  INFO  Build complete. Total outings in DB: 4,948 (4,948 new)

@@ -70,9 +70,7 @@ jobs:
             DATE_ARG="--date ${{ github.event.inputs.date }}"
           fi
 
-          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
-            DRY_ARG="--dry-run"
-          fi
+          DRY_ARG="--dry-run"
 
           python daily_runner.py $DATE_ARG $DRY_ARG
 

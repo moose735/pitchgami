@@ -1,0 +1,52 @@
+2026-03-28 13:05:16,417  INFO  === Pitcher Scorigami Daily Run | 2023-07-04 | dry_run=True ===
+2026-03-28 13:05:16,418  INFO  Fetching completed games from MLB Stats API…
+2026-03-28 13:05:17,193  INFO  Found 15 completed game(s)
+2026-03-28 13:05:18,071  INFO    Game 717507: ['Patrick Corbin', 'Brett Kennedy']
+2026-03-28 13:05:18,992  INFO    Game 717508: ['Clarke Schmidt', 'Kyle Gibson']
+2026-03-28 13:05:20,000  INFO    Game 717502: ['Jesús Luzardo', 'Adam Wainwright']
+2026-03-28 13:05:20,887  INFO    Game 717501: ['Brennan Bernardino', 'Dane Dunning']
+2026-03-28 13:05:21,837  INFO    Game 717500: ['Kenta Maeda', 'Zack Greinke']
+2026-03-28 13:05:22,720  INFO    Game 717504: ['Brandon Bielak', 'Kyle Freeland']
+2026-03-28 13:05:23,627  INFO    Game 717498: ['Zach Davies', 'Max Scherzer']
+2026-03-28 13:05:24,541  INFO    Game 717499: ['Zach Eflin', 'Aaron Nola']
+2026-03-28 13:05:25,444  INFO    Game 717503: ['Wade Miley', 'Kyle Hendricks']
+2026-03-28 13:05:26,320  INFO    Game 717509: ['Keaton Winn', 'Logan Gilbert']
+2026-03-28 13:05:27,267  INFO    Game 717494: ['Tarik Skubal', 'JP Sears']
+2026-03-28 13:05:28,209  INFO    Game 717497: ['Joe Musgrove', 'Shohei Ohtani']
+2026-03-28 13:05:29,108  INFO    Game 717495: ['Shane Bieber', 'Kolby Allard']
+2026-03-28 13:05:30,059  INFO    Game 717496: ['Lucas Giolito', 'Chris Bassitt']
+2026-03-28 13:05:30,990  INFO    Game 717492: ['Emmet Sheehan', 'Luis Ortiz']
+2026-03-28 13:05:31,192  INFO  
+Running Scorigami lookups for 30 starter(s)…
+2026-03-28 13:05:31,201  INFO  DB: 4,948 outings | 3,668 unique statlines | 2023-03-30 – 2023-10-02
+2026-03-28 13:05:31,202  INFO    Patrick Corbin: 5 IP 10 H 6 ER 3 BB 2 K | count=0 scorigami=True
+2026-03-28 13:05:31,203  INFO    Brett Kennedy: 5 IP 5 H 4 ER 2 BB 3 K | count=1 scorigami=False
+2026-03-28 13:05:31,204  INFO    Clarke Schmidt: 5 IP 5 H 3 ER 0 BB 7 K | count=1 scorigami=False
+2026-03-28 13:05:31,204  INFO    Kyle Gibson: 6 IP 3 H 4 ER 4 BB 4 K | count=0 scorigami=True
+2026-03-28 13:05:31,205  INFO    Jesús Luzardo: 6 IP 5 H 0 ER 2 BB 8 K | count=0 scorigami=True
+2026-03-28 13:05:31,206  INFO    Adam Wainwright: 3 IP 7 H 4 ER 2 BB 3 K | count=0 scorigami=True
+2026-03-28 13:05:31,207  INFO    Brennan Bernardino: 1 IP 1 H 1 ER 0 BB 2 K | count=1 scorigami=False
+2026-03-28 13:05:31,207  INFO    Dane Dunning: 6 IP 6 H 1 ER 1 BB 4 K | count=2 scorigami=False
+2026-03-28 13:05:31,208  INFO    Kenta Maeda: 7 IP 3 H 1 ER 1 BB 9 K | count=0 scorigami=True
+2026-03-28 13:05:31,209  INFO    Zack Greinke: 5 IP 7 H 6 ER 0 BB 3 K | count=0 scorigami=True
+2026-03-28 13:05:31,211  INFO    Brandon Bielak: 7 IP 2 H 0 ER 4 BB 4 K | count=0 scorigami=True
+2026-03-28 13:05:31,215  INFO    Kyle Freeland: 6 IP 9 H 4 ER 2 BB 3 K | count=0 scorigami=True
+2026-03-28 13:05:31,262  INFO    Max Scherzer: 6 IP 5 H 4 ER 2 BB 9 K | count=0 scorigami=True
+2026-03-28 13:05:31,262  INFO    Zach Eflin: 7 IP 4 H 2 ER 0 BB 9 K | count=0 scorigami=True
+2026-03-28 13:05:31,263  INFO    Aaron Nola: 7 IP 5 H 1 ER 1 BB 12 K | count=0 scorigami=True
+2026-03-28 13:05:31,265  INFO    Wade Miley: 5 IP 9 H 4 ER 2 BB 4 K | count=1 scorigami=False
+2026-03-28 13:05:31,269  INFO    Kyle Hendricks: 6 IP 4 H 1 ER 1 BB 5 K | count=1 scorigami=False
+2026-03-28 13:05:31,269  INFO    Keaton Winn: 4 IP 6 H 3 ER 1 BB 2 K | count=0 scorigami=True
+2026-03-28 13:05:31,270  INFO    Logan Gilbert: 9 IP 5 H 0 ER 0 BB 7 K | count=0 scorigami=True
+2026-03-28 13:05:31,270  INFO    Tarik Skubal: 4 IP 0 H 0 ER 0 BB 6 K | count=0 scorigami=True
+2026-03-28 13:05:31,271  INFO    JP Sears: 7 IP 5 H 0 ER 0 BB 4 K | count=0 scorigami=True
+2026-03-28 13:05:31,272  INFO    Joe Musgrove: 7 IP 3 H 1 ER 1 BB 11 K | count=1 scorigami=False
+2026-03-28 13:05:31,272  INFO    Shohei Ohtani: 5 IP 7 H 5 ER 4 BB 5 K | count=0 scorigami=True
+2026-03-28 13:05:31,285  INFO    Kolby Allard: 5 IP 4 H 3 ER 1 BB 3 K | count=1 scorigami=False
+2026-03-28 13:05:31,285  INFO    Lucas Giolito: 6 IP 4 H 2 ER 2 BB 4 K | count=1 scorigami=False
+2026-03-28 13:05:31,286  INFO    Chris Bassitt: 6 IP 6 H 3 ER 1 BB 5 K | count=3 scorigami=False
+2026-03-28 13:05:31,299  INFO    Luis Ortiz: 3 IP 9 H 6 ER 1 BB 3 K | count=0 scorigami=True
+2026-03-28 13:05:31,638  INFO  
+Dry-run output written to data/dry_run_2023-07-04.json
+2026-03-28 13:05:31,638  INFO  
+Done. Processed 30 starter(s).
