@@ -1,0 +1,103 @@
+name: Pitcher Scorigami — Daily Post
+
+on:
+  # Runs at 1:00 AM ET (06:00 UTC) every day during baseball season
+  # This is after West Coast night games finish (~11 PM PT = 2 AM ET)
+  schedule:
+    - cron: "0 6 * * *"
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Date to process (YYYY-MM-DD). Leave blank for yesterday."
+        required: false
+        default: ""
+      dry_run:
+        description: "Dry run? (true/false)"
+        required: false
+        default: "false"
+
+jobs:
+  daily-scorigami:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # ── 1. Checkout repo ────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Set up Python ────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      # ── 3. Install dependencies ─────────────────────────────────────────────
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 4. Download database from release assets ────────────────────────────
+      # The SQLite DB is too large for Git. We store it as a GitHub Release asset.
+      # On first run, you must upload pitcher_scorigami.db manually as a release asset.
+      - name: Download historical database
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p data
+          # Download the latest release asset named pitcher_scorigami.db
+          gh release download latest \
+            --pattern "pitcher_scorigami.db" \
+            --dir data \
+            --clobber \
+            --repo ${{ github.repository }} || echo "No existing DB found — starting fresh"
+
+      # ── 5. Run the daily Scorigami job ──────────────────────────────────────
+      - name: Run daily Scorigami
+        env:
+          SCORIGAMI_DB_PATH: data/pitcher_scorigami.db
+          X_API_KEY:              ${{ secrets.X_API_KEY }}
+          X_API_SECRET:           ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN:         ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET:  ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: |
+          DATE_ARG=""
+          DRY_ARG=""
+
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            DATE_ARG="--date ${{ github.event.inputs.date }}"
+          fi
+
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            DRY_ARG="--dry-run"
+          fi
+
+          python daily_runner.py $DATE_ARG $DRY_ARG
+
+      # ── 6. Upload updated database back as release asset ────────────────────
+      - name: Upload updated database to release
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Delete old asset and re-upload the updated DB
+          gh release upload latest \
+            data/pitcher_scorigami.db \
+            --clobber \
+            --repo ${{ github.repository }} || \
+          gh release create latest \
+            data/pitcher_scorigami.db \
+            --title "Database" \
+            --notes "Auto-updated pitcher Scorigami database" \
+            --repo ${{ github.repository }}
+
+      # ── 7. Upload logs as artifact for debugging ────────────────────────────
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scorigami-logs-${{ github.run_id }}
+          path: logs/
+          retention-days: 14

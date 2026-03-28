@@ -1,0 +1,4 @@
+pybaseball
+requests
+requests-oauthlib
+pandas
