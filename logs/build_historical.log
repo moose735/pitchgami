@@ -27,3 +27,8 @@
 2026-03-28 13:02:15,928  INFO    2023: processing game 2400/2476
 2026-03-28 13:03:16,323  INFO  Season 2023 done: 4948 outings inserted
 2026-03-28 13:03:19,324  INFO  Build complete. Total outings in DB: 4,948 (4,948 new)
+2026-03-28 13:07:48,418  INFO  Scraping season 1913…
+2026-03-28 13:07:48,420  ERROR    BBRef season 1913 failed: Year must be 2008 or later
+2026-03-28 13:07:49,450  INFO    1913: 1235 completed games found via MLB API
+2026-03-28 13:07:49,451  INFO    1913: processing game 0/1235
+2026-03-28 13:10:05,886  INFO    1913: processing game 100/1235
