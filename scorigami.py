@@ -33,6 +33,8 @@ class ScorigamiResult:
     last_pitcher: Optional[str]
     last_date: Optional[str]
     is_scorigami: bool
+    total_unique: int = 0   # total unique statlines in MLB history
+    season_unique: int = 0  # unique statlines so far this season
 
     def ip_display(self) -> str:
         """Return '6.1' as '6⅓', '6.2' as '6⅔', etc."""
@@ -46,36 +48,33 @@ class ScorigamiResult:
             return f"{full}⅔"
 
     def format_tweet(self) -> str:
-        """
-        Format the tweet text for this outing.
-        Stays under 280 characters.
-        """
-        ip_str = self.ip_display()
+        """Format the tweet text. Stays under 280 characters."""
+        ip_str  = self.ip_display()
         statline = f"{ip_str} IP, {self.h} H, {self.er} ER, {self.bb} BB, {self.so} K"
+        header   = f"{self.pitcher_name} ({self.team}): {statline}"
 
         if self.is_scorigami:
             return (
-                f"⚾ PITCHER SCORIGAMI! ⚾\n\n"
-                f"{self.pitcher_name} ({self.team}) just threw a statline NEVER seen before in MLB history!\n\n"
-                f"📊 {statline}\n\n"
+                f"🚨 PITCHGAMI 🚨\n\n"
+                f"{header}\n\n"
                 f"This combination of IP/H/ER/BB/K has NEVER been recorded by a starting pitcher. Ever. 🔥\n\n"
-                f"#PitcherScorigami #MLB #Baseball"
-            )
-        elif self.count == 1:
-            return (
-                f"⚾ Pitcher Scorigami Check\n\n"
-                f"{self.pitcher_name} ({self.team}): {statline}\n\n"
-                f"This statline has been done just 1 time before in MLB history.\n"
-                f"Last: {self.last_pitcher} on {self._fmt_date(self.last_date)}\n\n"
-                f"#PitcherScorigami #MLB"
+                f"It's the {self.total_unique:,}th unique SP statline in MLB history, "
+                f"and the {self.season_unique:,}th unique combination of the {self.game_date[:4]} season.\n\n"
+                f"#Pitchgami #MLB #Baseball"
             )
         else:
-            return (
-                f"⚾ Pitcher Scorigami Check\n\n"
-                f"{self.pitcher_name} ({self.team}): {statline}\n\n"
+            recency = (
+                f"This statline has been done just 1 time before in MLB history.\n"
+                f"Most recent: {self.last_pitcher} ({self._fmt_date(self.last_date)})"
+                if self.count == 1 else
                 f"This statline has been recorded {self.count:,} times in MLB history.\n"
-                f"Most recent: {self.last_pitcher} ({self._fmt_date(self.last_date)})\n\n"
-                f"#PitcherScorigami #MLB"
+                f"Most recent: {self.last_pitcher} ({self._fmt_date(self.last_date)})"
+            )
+            return (
+                f"No Pitchgami.\n\n"
+                f"{header}\n\n"
+                f"{recency}\n\n"
+                f"#Pitchgami #MLB"
             )
 
     @staticmethod
@@ -154,6 +153,25 @@ class ScorigamiEngine:
         last_pitcher = last_row["pitcher_name"] if last_row else None
         last_date    = last_row["game_date"]    if last_row else None
 
+        # Total unique statlines in MLB history (before today)
+        total_unique = self._conn.execute(
+            "SELECT COUNT(*) FROM (SELECT DISTINCT ip,h,er,bb,so FROM outings WHERE game_date < ?)",
+            (game_date,),
+        ).fetchone()[0]
+
+        # Unique statlines this season so far (before today)
+        season = game_date[:4]
+        season_unique = self._conn.execute(
+            "SELECT COUNT(*) FROM (SELECT DISTINCT ip,h,er,bb,so FROM outings "
+            "WHERE season=? AND game_date < ?)",
+            (season, game_date),
+        ).fetchone()[0]
+
+        # If this is a scorigami, bump counts by 1 to include this outing
+        if count == 0:
+            total_unique  += 1
+            season_unique += 1
+
         return ScorigamiResult(
             pitcher_name=pitcher_name,
             game_date=game_date,
@@ -167,6 +185,8 @@ class ScorigamiEngine:
             last_pitcher=last_pitcher,
             last_date=last_date,
             is_scorigami=(count == 0),
+            total_unique=total_unique,
+            season_unique=season_unique,
         )
 
     def bulk_lookup(self, outings: list[dict]) -> list[ScorigamiResult]:
