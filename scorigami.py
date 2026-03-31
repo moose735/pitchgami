@@ -49,17 +49,17 @@ class ScorigamiResult:
 
     def format_tweet(self) -> str:
         """Format the tweet text. Stays under 280 characters."""
-        ip_str  = self.ip_display()
+        ip_str   = self.ip_display()
         statline = f"{ip_str} IP, {self.h} H, {self.er} ER, {self.bb} BB, {self.so} K"
         header   = f"{self.pitcher_name} ({self.team}): {statline}"
 
         if self.is_scorigami:
             return (
-                f"🚨 PITCHGAMI 🚨\n\n"
                 f"{header}\n\n"
-                f"This combination of IP/H/ER/BB/K has NEVER been recorded by a starting pitcher. Ever. 🔥\n\n"
-                f"It's the {self.total_unique:,}th unique SP statline in MLB history, "
-                f"and the {self.season_unique:,}th unique combination of the {self.game_date[:4]} season.\n\n"
+                f"🚨 PITCHGAMI 🚨\n\n"
+                f"This combination of IP/H/ER/BB/K has NEVER been recorded by a starting pitcher. Ever. 🔥\n"
+                f"It's the {self._ordinal(self.total_unique)} unique SP statline in MLB history, "
+                f"and the {self._ordinal(self.season_unique)} unique combination of the {self.game_date[:4]} season.\n\n"
                 f"#Pitchgami #MLB #Baseball"
             )
         else:
@@ -71,22 +71,20 @@ class ScorigamiResult:
                 f"Most recent: {self.last_pitcher} ({self._fmt_date(self.last_date)})"
             )
             return (
-                f"No Pitchgami.\n\n"
                 f"{header}\n\n"
+                f"No Pitchgami.\n\n"
                 f"{recency}\n\n"
                 f"#Pitchgami #MLB"
             )
 
     @staticmethod
-    def _fmt_date(date_str: Optional[str]) -> str:
-        if not date_str:
-            return "unknown"
-        try:
-            d = date.fromisoformat(date_str)
-            return d.strftime("%B %-d, %Y")
-        except Exception:
-            return date_str
-
+    def _ordinal(n: int) -> str:
+        """Return 1st, 2nd, 3rd, 4th, etc."""
+        if 11 <= (n % 100) <= 13:
+            suffix = "th"
+        else:
+            suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+        return f"{n:,}{suffix}"
 
 class ScorigamiEngine:
     def __init__(self, db_path: str = DB_PATH):
