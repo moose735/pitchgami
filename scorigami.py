@@ -1,13 +1,5 @@
 """
 scorigami.py
-------------
-Core lookup engine for Pitcher Scorigami.
-
-Given a statline (IP, H, ER, BB, SO), queries the historical database
-and returns:
-  - count: how many times this exact statline has been recorded
-  - last_occurrence: the most recent prior date + pitcher name
-  - is_scorigami: True if count == 0 (never seen before)
 """
 
 import sqlite3
@@ -22,44 +14,44 @@ DB_PATH = os.environ.get("SCORIGAMI_DB_PATH", "data/pitcher_scorigami.db")
 @dataclass
 class ScorigamiResult:
     pitcher_name: str
-    game_date: str          # YYYY-MM-DD (today's game)
+    game_date: str
     team: str
     ip: float
     h: int
     er: int
     bb: int
     so: int
-    count: int              # number of times this statline has occurred (historically)
+    count: int
     last_pitcher: Optional[str]
     last_date: Optional[str]
     is_scorigami: bool
-    total_unique: int = 0   # total unique statlines in MLB history
-    season_unique: int = 0  # unique statlines so far this season
+    total_unique: int = 0
+    season_unique: int = 0
 
     def ip_display(self) -> str:
-        """Return '6.1' as '6⅓', '6.2' as '6⅔', etc."""
         frac = round(self.ip % 1, 1)
         full = int(self.ip)
         if frac == 0.0:
             return f"{full}"
         elif frac == 0.1:
-            return f"{full}⅓"
+            return f"{full}\u2153"
         else:
-            return f"{full}⅔"
+            return f"{full}\u2154"
 
-    def format_tweet(self) -> str:
-        """Format the tweet text. Stays under 280 characters."""
+    def format_tweet(self, season_rank: int = 0, total_rank: int = 0) -> str:
         ip_str   = self.ip_display()
         statline = f"{ip_str} IP, {self.h} H, {self.er} ER, {self.bb} BB, {self.so} K"
         header   = f"{self.pitcher_name} ({self.team}): {statline}"
 
         if self.is_scorigami:
+            t = total_rank if total_rank else self.total_unique
+            s = season_rank if season_rank else self.season_unique
             return (
                 f"{header}\n\n"
-                f"🚨 PITCHGAMI 🚨\n\n"
-                f"This combination of IP/H/ER/BB/K has NEVER been recorded by a starting pitcher. Ever. 🔥\n"
-                f"It's the {self._ordinal(self.total_unique)} unique SP statline in MLB history, "
-                f"and the {self._ordinal(self.season_unique)} unique combination of the {self.game_date[:4]} season.\n\n"
+                f"\U0001f6a8 PITCHGAMI \U0001f6a8\n\n"
+                f"This combination of IP/H/ER/BB/K has NEVER been recorded by a starting pitcher. Ever. \U0001f525\n"
+                f"It's the {self._ordinal(t)} unique SP statline in MLB history, "
+                f"and the {self._ordinal(s)} unique combination of the {self.game_date[:4]} season.\n\n"
                 f"#Pitchgami #MLB #Baseball"
             )
         else:
@@ -79,12 +71,22 @@ class ScorigamiResult:
 
     @staticmethod
     def _ordinal(n: int) -> str:
-        """Return 1st, 2nd, 3rd, 4th, etc."""
         if 11 <= (n % 100) <= 13:
             suffix = "th"
         else:
             suffix = {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
         return f"{n:,}{suffix}"
+
+    @staticmethod
+    def _fmt_date(date_str: Optional[str]) -> str:
+        if not date_str:
+            return "unknown"
+        try:
+            d = date.fromisoformat(date_str)
+            return d.strftime("%B %-d, %Y")
+        except Exception:
+            return date_str
+
 
 class ScorigamiEngine:
     def __init__(self, db_path: str = DB_PATH):
@@ -117,47 +119,30 @@ class ScorigamiEngine:
         bb: int,
         so: int,
     ) -> ScorigamiResult:
-        """
-        Look up a statline against all historical data.
-        game_date is excluded from the count (we only compare to prior games).
-        """
         assert self._conn, "Call connect() first"
 
-        # Count all historical occurrences BEFORE today
         count_row = self._conn.execute(
-            """
-            SELECT COUNT(*) as cnt
-            FROM outings
-            WHERE ip=? AND h=? AND er=? AND bb=? AND so=?
-              AND game_date < ?
-            """,
+            "SELECT COUNT(*) as cnt FROM outings "
+            "WHERE ip=? AND h=? AND er=? AND bb=? AND so=? AND game_date < ?",
             (ip, h, er, bb, so, game_date),
         ).fetchone()
         count = count_row["cnt"] if count_row else 0
 
-        # Find the most recent prior occurrence
         last_row = self._conn.execute(
-            """
-            SELECT pitcher_name, game_date
-            FROM outings
-            WHERE ip=? AND h=? AND er=? AND bb=? AND so=?
-              AND game_date < ?
-            ORDER BY game_date DESC
-            LIMIT 1
-            """,
+            "SELECT pitcher_name, game_date FROM outings "
+            "WHERE ip=? AND h=? AND er=? AND bb=? AND so=? AND game_date < ? "
+            "ORDER BY game_date DESC LIMIT 1",
             (ip, h, er, bb, so, game_date),
         ).fetchone()
 
         last_pitcher = last_row["pitcher_name"] if last_row else None
         last_date    = last_row["game_date"]    if last_row else None
 
-        # Total unique statlines in MLB history (before today)
         total_unique = self._conn.execute(
             "SELECT COUNT(*) FROM (SELECT DISTINCT ip,h,er,bb,so FROM outings WHERE game_date < ?)",
             (game_date,),
         ).fetchone()[0]
 
-        # Unique statlines this season so far (before today)
         season = game_date[:4]
         season_unique = self._conn.execute(
             "SELECT COUNT(*) FROM (SELECT DISTINCT ip,h,er,bb,so FROM outings "
@@ -165,7 +150,6 @@ class ScorigamiEngine:
             (season, game_date),
         ).fetchone()[0]
 
-        # If this is a scorigami, bump counts by 1 to include this outing
         if count == 0:
             total_unique  += 1
             season_unique += 1
@@ -188,7 +172,6 @@ class ScorigamiEngine:
         )
 
     def bulk_lookup(self, outings: list[dict]) -> list[ScorigamiResult]:
-        """Look up multiple outings at once."""
         return [self.lookup(**o) for o in outings]
 
     def insert_outing(
@@ -203,7 +186,6 @@ class ScorigamiEngine:
         so: int,
         season: int,
     ):
-        """Add a new outing to the database after posting."""
         self._conn.execute(
             "INSERT OR IGNORE INTO outings "
             "(pitcher_name, game_date, team, ip, h, er, bb, so, season) "
@@ -213,7 +195,6 @@ class ScorigamiEngine:
         self._conn.commit()
 
     def db_stats(self) -> dict:
-        """Return summary stats about the database."""
         row = self._conn.execute(
             "SELECT COUNT(*) as total, MIN(game_date) as earliest, MAX(game_date) as latest "
             "FROM outings"

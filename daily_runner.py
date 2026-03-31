@@ -266,9 +266,22 @@ def run(game_date: str, dry_run: bool):
         # 5. Post tweets (scorigamis first, then by rarity)
         results.sort(key=lambda r: (not r.is_scorigami, r.count))
 
+        # Calculate sequential ranks for multiple Pitchgamis on same day
+        total_scorigamis = sum(1 for r in results if r.is_scorigami)
+        base_total  = results[0].total_unique  - total_scorigamis if results else 0
+        base_season = results[0].season_unique - total_scorigamis if results else 0
+        scorigami_counter = 0
+
         tweet_output = []
         for result in results:
-            tweet_text = format_tweet(result)
+            if result.is_scorigami:
+                scorigami_counter += 1
+                tweet_text = result.format_tweet(
+                    total_rank=base_total + scorigami_counter,
+                    season_rank=base_season + scorigami_counter,
+                )
+            else:
+                tweet_text = result.format_tweet()
             tweet_output.append({"pitcher": result.pitcher_name, "tweet": tweet_text})
 
             if dry_run:
