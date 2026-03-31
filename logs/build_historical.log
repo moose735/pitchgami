@@ -32,3 +32,2543 @@
 2026-03-28 13:07:49,450  INFO    1913: 1235 completed games found via MLB API
 2026-03-28 13:07:49,451  INFO    1913: processing game 0/1235
 2026-03-28 13:10:05,886  INFO    1913: processing game 100/1235
+2026-03-28 13:17:18,750  INFO    1913: processing game 200/1235
+2026-03-28 13:19:39,973  INFO    1913: processing game 300/1235
+2026-03-28 13:22:03,861  INFO    1913: processing game 400/1235
+2026-03-28 13:24:26,517  INFO    1913: processing game 500/1235
+2026-03-28 13:26:47,028  INFO    1913: processing game 600/1235
+2026-03-28 13:29:14,343  INFO    1913: processing game 700/1235
+2026-03-28 13:31:39,821  INFO    1913: processing game 800/1235
+2026-03-28 13:34:05,161  INFO    1913: processing game 900/1235
+2026-03-28 13:36:31,966  INFO    1913: processing game 1000/1235
+2026-03-28 13:38:53,053  INFO    1913: processing game 1100/1235
+2026-03-28 13:41:23,414  INFO    1913: processing game 1200/1235
+2026-03-28 13:42:14,609  INFO  Season 1913 done: 2443 outings inserted
+2026-03-28 13:42:17,610  INFO  Scraping season 1914…
+2026-03-28 13:42:17,611  ERROR    BBRef season 1914 failed: Year must be 2008 or later
+2026-03-28 13:42:18,451  INFO    1914: 1256 completed games found via MLB API
+2026-03-28 13:42:18,452  INFO    1914: processing game 0/1256
+2026-03-28 13:43:52,360  INFO    1914: processing game 100/1256
+2026-03-28 13:46:16,599  INFO    1914: processing game 200/1256
+2026-03-28 13:48:35,294  INFO    1914: processing game 300/1256
+2026-03-28 13:50:53,569  INFO    1914: processing game 400/1256
+2026-03-28 13:53:08,423  INFO    1914: processing game 500/1256
+2026-03-28 13:55:13,665  INFO    1914: processing game 600/1256
+2026-03-28 13:57:27,323  INFO    1914: processing game 700/1256
+2026-03-28 13:58:55,885  INFO    1914: processing game 800/1256
+2026-03-28 14:00:15,896  INFO    1914: processing game 900/1256
+2026-03-28 14:02:35,584  INFO    1914: processing game 1000/1256
+2026-03-28 14:04:56,786  INFO    1914: processing game 1100/1256
+2026-03-28 14:06:28,941  INFO    1914: processing game 1200/1256
+2026-03-28 14:07:15,694  INFO  Season 1914 done: 2498 outings inserted
+2026-03-28 14:07:18,695  INFO  Scraping season 1915…
+2026-03-28 14:07:18,697  ERROR    BBRef season 1915 failed: Year must be 2008 or later
+2026-03-28 14:07:19,692  INFO    1915: 1245 completed games found via MLB API
+2026-03-28 14:07:19,693  INFO    1915: processing game 0/1245
+2026-03-28 14:09:27,209  INFO    1915: processing game 100/1245
+2026-03-28 14:11:45,127  INFO    1915: processing game 200/1245
+2026-03-28 14:14:02,415  INFO    1915: processing game 300/1245
+2026-03-28 14:16:31,404  INFO    1915: processing game 400/1245
+2026-03-28 14:18:38,965  INFO    1915: processing game 500/1245
+2026-03-28 14:20:44,455  INFO    1915: processing game 600/1245
+2026-03-28 14:23:03,233  INFO    1915: processing game 700/1245
+2026-03-28 14:24:28,684  INFO    1915: processing game 800/1245
+2026-03-28 14:26:16,728  INFO    1915: processing game 900/1245
+2026-03-28 14:28:17,137  INFO    1915: processing game 1000/1245
+2026-03-28 14:30:18,209  INFO    1915: processing game 1100/1245
+2026-03-28 14:32:07,825  INFO    1915: processing game 1200/1245
+2026-03-28 14:32:41,862  INFO  Season 1915 done: 2478 outings inserted
+2026-03-28 14:32:44,863  INFO  Scraping season 1916…
+2026-03-28 14:32:44,865  ERROR    BBRef season 1916 failed: Year must be 2008 or later
+2026-03-28 14:32:45,777  INFO    1916: 1247 completed games found via MLB API
+2026-03-28 14:32:45,777  INFO    1916: processing game 0/1247
+2026-03-28 14:34:40,333  INFO    1916: processing game 100/1247
+2026-03-28 14:36:55,451  INFO    1916: processing game 200/1247
+2026-03-28 14:38:57,948  INFO    1916: processing game 300/1247
+2026-03-28 14:41:21,223  INFO    1916: processing game 400/1247
+2026-03-28 14:43:42,787  INFO    1916: processing game 500/1247
+2026-03-28 14:45:59,596  INFO    1916: processing game 600/1247
+2026-03-28 14:48:12,964  INFO    1916: processing game 700/1247
+2026-03-28 14:50:22,269  INFO    1916: processing game 800/1247
+2026-03-28 14:52:47,429  INFO    1916: processing game 900/1247
+2026-03-28 14:55:06,874  INFO    1916: processing game 1000/1247
+2026-03-28 14:57:30,519  INFO    1916: processing game 1100/1247
+2026-03-28 14:59:49,799  INFO    1916: processing game 1200/1247
+2026-03-28 15:00:57,446  INFO  Season 1916 done: 2468 outings inserted
+2026-03-28 15:01:00,448  INFO  Scraping season 1917…
+2026-03-28 15:01:00,450  ERROR    BBRef season 1917 failed: Year must be 2008 or later
+2026-03-28 15:01:01,443  INFO    1917: 1247 completed games found via MLB API
+2026-03-28 15:01:01,444  INFO    1917: processing game 0/1247
+2026-03-28 15:03:00,973  INFO    1917: processing game 100/1247
+2026-03-28 15:05:18,736  INFO    1917: processing game 200/1247
+2026-03-28 15:07:41,179  INFO    1917: processing game 300/1247
+2026-03-28 15:09:54,273  INFO    1917: processing game 400/1247
+2026-03-28 15:12:05,933  INFO    1917: processing game 500/1247
+2026-03-28 15:14:21,754  INFO    1917: processing game 600/1247
+2026-03-28 15:16:36,597  INFO    1917: processing game 700/1247
+2026-03-28 15:18:24,386  INFO    1917: processing game 800/1247
+2026-03-28 15:20:07,308  INFO    1917: processing game 900/1247
+2026-03-28 15:22:19,565  INFO    1917: processing game 1000/1247
+2026-03-28 15:24:38,943  INFO    1917: processing game 1100/1247
+2026-03-28 15:26:21,493  INFO    1917: processing game 1200/1247
+2026-03-28 15:27:15,807  INFO  Season 1917 done: 2470 outings inserted
+2026-03-28 15:27:18,808  INFO  Scraping season 1918…
+2026-03-28 15:27:18,810  ERROR    BBRef season 1918 failed: Year must be 2008 or later
+2026-03-28 15:27:19,777  INFO    1918: 1016 completed games found via MLB API
+2026-03-28 15:27:19,778  INFO    1918: processing game 0/1016
+2026-03-28 15:28:31,434  INFO    1918: processing game 100/1016
+2026-03-28 15:30:01,144  INFO    1918: processing game 200/1016
+2026-03-28 15:32:18,645  INFO    1918: processing game 300/1016
+2026-03-28 15:33:40,928  INFO    1918: processing game 400/1016
+2026-03-28 15:34:58,446  INFO    1918: processing game 500/1016
+2026-03-28 15:36:30,856  INFO    1918: processing game 600/1016
+2026-03-28 15:38:18,773  INFO    1918: processing game 700/1016
+2026-03-28 15:40:13,699  INFO    1918: processing game 800/1016
+2026-03-28 15:42:33,115  INFO    1918: processing game 900/1016
+2026-03-28 15:43:46,232  INFO    1918: processing game 1000/1016
+2026-03-28 15:43:58,624  INFO  Season 1918 done: 2011 outings inserted
+2026-03-28 15:44:01,626  INFO  Scraping season 1919…
+2026-03-28 15:44:01,628  ERROR    BBRef season 1919 failed: Year must be 2008 or later
+2026-03-28 15:44:02,526  INFO    1919: 1119 completed games found via MLB API
+2026-03-28 15:44:02,527  INFO    1919: processing game 0/1119
+2026-03-28 15:46:00,928  INFO    1919: processing game 100/1119
+2026-03-28 15:48:12,648  INFO    1919: processing game 200/1119
+2026-03-28 15:50:20,549  INFO    1919: processing game 300/1119
+2026-03-28 15:51:34,419  INFO    1919: processing game 400/1119
+2026-03-28 15:53:22,057  INFO    1919: processing game 500/1119
+2026-03-28 15:55:35,431  INFO    1919: processing game 600/1119
+2026-03-28 15:57:49,965  INFO    1919: processing game 700/1119
+2026-03-28 16:00:06,326  INFO    1919: processing game 800/1119
+2026-03-28 16:02:18,725  INFO    1919: processing game 900/1119
+2026-03-28 16:04:18,776  INFO    1919: processing game 1000/1119
+2026-03-28 16:05:52,428  INFO    1919: processing game 1100/1119
+2026-03-28 16:06:06,586  INFO  Season 1919 done: 2219 outings inserted
+2026-03-28 16:06:09,587  INFO  Scraping season 1920…
+2026-03-28 16:06:09,588  ERROR    BBRef season 1920 failed: Year must be 2008 or later
+2026-03-28 16:06:10,486  INFO    1920: 1496 completed games found via MLB API
+2026-03-28 16:06:10,487  INFO    1920: processing game 0/1496
+2026-03-28 16:07:24,247  INFO    1920: processing game 100/1496
+2026-03-28 16:08:51,919  INFO    1920: processing game 200/1496
+2026-03-28 16:10:27,136  INFO    1920: processing game 300/1496
+2026-03-28 16:12:39,078  INFO    1920: processing game 400/1496
+2026-03-28 16:14:23,937  INFO    1920: processing game 500/1496
+2026-03-28 16:16:29,677  INFO    1920: processing game 600/1496
+2026-03-28 16:17:57,686  INFO    1920: processing game 700/1496
+2026-03-28 16:19:21,061  INFO    1920: processing game 800/1496
+2026-03-28 16:21:35,250  INFO    1920: processing game 900/1496
+2026-03-28 16:23:54,155  INFO    1920: processing game 1000/1496
+2026-03-28 16:26:08,141  INFO    1920: processing game 1100/1496
+2026-03-28 16:28:12,404  INFO    1920: processing game 1200/1496
+2026-03-28 16:29:25,912  INFO    1920: processing game 1300/1496
+2026-03-28 16:30:40,843  INFO    1920: processing game 1400/1496
+2026-03-28 16:31:51,915  INFO  Season 1920 done: 2868 outings inserted
+2026-03-28 16:31:54,916  INFO  Scraping season 1921…
+2026-03-28 16:31:54,918  ERROR    BBRef season 1921 failed: Year must be 2008 or later
+2026-03-28 16:31:55,655  INFO    1921: 1516 completed games found via MLB API
+2026-03-28 16:31:55,655  INFO    1921: processing game 0/1516
+2026-03-28 16:33:48,347  INFO    1921: processing game 100/1516
+2026-03-28 16:36:02,906  INFO    1921: processing game 200/1516
+2026-03-28 16:38:05,988  INFO    1921: processing game 300/1516
+2026-03-28 16:39:55,576  INFO    1921: processing game 400/1516
+2026-03-28 16:42:02,925  INFO    1921: processing game 500/1516
+2026-03-28 16:44:31,575  INFO    1921: processing game 600/1516
+2026-03-28 16:45:57,328  INFO    1921: processing game 700/1516
+2026-03-28 16:48:07,307  INFO    1921: processing game 800/1516
+2026-03-28 16:50:22,508  INFO    1921: processing game 900/1516
+2026-03-28 16:52:40,437  INFO    1921: processing game 1000/1516
+2026-03-28 16:55:00,265  INFO    1921: processing game 1100/1516
+2026-03-28 16:57:23,303  INFO    1921: processing game 1200/1516
+2026-03-28 16:59:41,285  INFO    1921: processing game 1300/1516
+2026-03-28 17:01:27,622  INFO    1921: processing game 1400/1516
+2026-03-28 17:03:12,812  INFO    1921: processing game 1500/1516
+2026-03-28 17:03:24,673  INFO  Season 1921 done: 2911 outings inserted
+2026-03-28 17:03:27,675  INFO  Scraping season 1922…
+2026-03-28 17:03:27,677  ERROR    BBRef season 1922 failed: Year must be 2008 or later
+2026-03-28 17:03:28,657  INFO    1922: 1491 completed games found via MLB API
+2026-03-28 17:03:28,658  INFO    1922: processing game 0/1491
+2026-03-28 17:04:47,189  INFO    1922: processing game 100/1491
+2026-03-28 17:05:59,870  INFO    1922: processing game 200/1491
+2026-03-28 17:07:56,058  INFO    1922: processing game 300/1491
+2026-03-28 17:10:10,566  INFO    1922: processing game 400/1491
+2026-03-28 17:12:25,851  INFO    1922: processing game 500/1491
+2026-03-28 17:14:42,017  INFO    1922: processing game 600/1491
+2026-03-28 17:16:15,162  INFO    1922: processing game 700/1491
+2026-03-28 17:18:28,982  INFO    1922: processing game 800/1491
+2026-03-28 17:20:44,078  INFO    1922: processing game 900/1491
+2026-03-28 17:22:59,057  INFO    1922: processing game 1000/1491
+2026-03-28 17:24:54,823  INFO    1922: processing game 1100/1491
+2026-03-28 17:26:50,370  INFO    1922: processing game 1200/1491
+2026-03-28 17:28:33,162  INFO    1922: processing game 1300/1491
+2026-03-28 17:30:28,209  INFO    1922: processing game 1400/1491
+2026-03-28 17:31:36,207  INFO  Season 1922 done: 2892 outings inserted
+2026-03-28 17:31:39,209  INFO  Scraping season 1923…
+2026-03-28 17:31:39,210  ERROR    BBRef season 1923 failed: Year must be 2008 or later
+2026-03-28 17:31:40,480  INFO    1923: 1631 completed games found via MLB API
+2026-03-28 17:31:40,480  INFO    1923: processing game 0/1631
+2026-03-28 17:32:52,246  INFO    1923: processing game 100/1631
+2026-03-28 17:34:04,941  INFO    1923: processing game 200/1631
+2026-03-28 17:36:13,930  INFO    1923: processing game 300/1631
+2026-03-28 17:38:19,483  INFO    1923: processing game 400/1631
+2026-03-28 17:39:52,597  INFO    1923: processing game 500/1631
+2026-03-28 17:41:28,783  INFO    1923: processing game 600/1631
+2026-03-28 17:43:26,243  INFO    1923: processing game 700/1631
+2026-03-28 17:44:51,019  INFO    1923: processing game 800/1631
+2026-03-28 17:46:29,152  INFO    1923: processing game 900/1631
+2026-03-28 17:48:43,273  INFO    1923: processing game 1000/1631
+2026-03-28 17:50:39,441  INFO    1923: processing game 1100/1631
+2026-03-28 17:52:56,577  INFO    1923: processing game 1200/1631
+2026-03-28 17:55:03,640  INFO    1923: processing game 1300/1631
+2026-03-28 17:57:19,639  INFO    1923: processing game 1400/1631
+2026-03-28 17:59:02,484  INFO    1923: processing game 1500/1631
+2026-03-28 18:00:18,449  INFO    1923: processing game 1600/1631
+2026-03-28 18:00:42,349  INFO  Season 1923 done: 3207 outings inserted
+2026-03-28 18:00:45,351  INFO  Scraping season 1924…
+2026-03-28 18:00:45,351  ERROR    BBRef season 1924 failed: Year must be 2008 or later
+2026-03-28 18:00:46,582  INFO    1924: 1231 completed games found via MLB API
+2026-03-28 18:00:46,583  INFO    1924: processing game 0/1231
+2026-03-28 18:02:50,411  INFO    1924: processing game 100/1231
+2026-03-28 18:05:02,148  INFO    1924: processing game 200/1231
+2026-03-28 18:06:45,323  INFO    1924: processing game 300/1231
+2026-03-28 18:09:05,293  INFO    1924: processing game 400/1231
+2026-03-28 18:11:24,443  INFO    1924: processing game 500/1231
+2026-03-28 18:13:51,713  INFO    1924: processing game 600/1231
+2026-03-28 18:16:07,497  INFO    1924: processing game 700/1231
+2026-03-28 18:18:30,438  INFO    1924: processing game 800/1231
+2026-03-28 18:20:40,214  INFO    1924: processing game 900/1231
+2026-03-28 18:22:35,412  INFO    1924: processing game 1000/1231
+2026-03-28 18:23:49,786  INFO    1924: processing game 1100/1231
+2026-03-28 18:25:34,223  INFO    1924: processing game 1200/1231
+2026-03-28 18:25:57,689  INFO  Season 1924 done: 2434 outings inserted
+2026-03-28 18:26:00,690  INFO  Scraping season 1925…
+2026-03-28 18:26:00,692  ERROR    BBRef season 1925 failed: Year must be 2008 or later
+2026-03-28 18:26:01,667  INFO    1925: 1228 completed games found via MLB API
+2026-03-28 18:26:01,668  INFO    1925: processing game 0/1228
+2026-03-28 18:27:37,119  INFO    1925: processing game 100/1228
+2026-03-28 18:29:50,373  INFO    1925: processing game 200/1228
+2026-03-28 18:32:16,060  INFO    1925: processing game 300/1228
+2026-03-28 18:34:37,261  INFO    1925: processing game 400/1228
+2026-03-28 18:36:17,990  INFO    1925: processing game 500/1228
+2026-03-28 18:38:36,286  INFO    1925: processing game 600/1228
+2026-03-28 18:40:45,093  INFO    1925: processing game 700/1228
+2026-03-28 18:42:19,402  INFO    1925: processing game 800/1228
+2026-03-28 18:44:02,967  INFO    1925: processing game 900/1228
+2026-03-28 18:45:40,291  INFO    1925: processing game 1000/1228
+2026-03-28 18:47:32,723  INFO    1925: processing game 1100/1228
+2026-03-28 18:49:08,028  INFO    1925: processing game 1200/1228
+2026-03-28 18:49:29,644  INFO  Season 1925 done: 2435 outings inserted
+2026-03-28 18:49:32,646  INFO  Scraping season 1926…
+2026-03-28 18:49:32,648  ERROR    BBRef season 1926 failed: Year must be 2008 or later
+2026-03-28 18:49:33,350  INFO    1926: 1234 completed games found via MLB API
+2026-03-28 18:49:33,351  INFO    1926: processing game 0/1234
+2026-03-28 18:50:50,831  INFO    1926: processing game 100/1234
+2026-03-28 18:52:46,673  INFO    1926: processing game 200/1234
+2026-03-28 18:55:02,471  INFO    1926: processing game 300/1234
+2026-03-28 18:56:43,733  INFO    1926: processing game 400/1234
+2026-03-28 18:58:13,584  INFO    1926: processing game 500/1234
+2026-03-28 19:00:32,473  INFO    1926: processing game 600/1234
+2026-03-28 19:02:56,518  INFO    1926: processing game 700/1234
+2026-03-28 19:04:43,540  INFO    1926: processing game 800/1234
+2026-03-28 19:07:06,459  INFO    1926: processing game 900/1234
+2026-03-28 19:08:54,898  INFO    1926: processing game 1000/1234
+2026-03-28 19:10:55,366  INFO    1926: processing game 1100/1234
+2026-03-28 19:13:12,664  INFO    1926: processing game 1200/1234
+2026-03-28 19:14:00,422  INFO  Season 1926 done: 2454 outings inserted
+2026-03-28 19:14:03,424  INFO  Scraping season 1927…
+2026-03-28 19:14:03,425  ERROR    BBRef season 1927 failed: Year must be 2008 or later
+2026-03-28 19:14:04,376  INFO    1927: 1236 completed games found via MLB API
+2026-03-28 19:14:04,376  INFO    1927: processing game 0/1236
+2026-03-28 19:15:18,653  INFO    1927: processing game 100/1236
+2026-03-28 19:17:24,473  INFO    1927: processing game 200/1236
+2026-03-28 19:19:42,548  INFO    1927: processing game 300/1236
+2026-03-28 19:22:04,672  INFO    1927: processing game 400/1236
+2026-03-28 19:24:19,952  INFO    1927: processing game 500/1236
+2026-03-28 19:26:30,258  INFO    1927: processing game 600/1236
+2026-03-28 19:28:51,855  INFO    1927: processing game 700/1236
+2026-03-28 19:31:15,145  INFO    1927: processing game 800/1236
+2026-03-28 19:33:29,448  INFO    1927: processing game 900/1236
+2026-03-28 19:35:20,604  INFO    1927: processing game 1000/1236
+2026-03-28 19:36:34,874  INFO    1927: processing game 1100/1236
+2026-03-28 19:37:49,159  INFO    1927: processing game 1200/1236
+2026-03-28 19:38:17,536  INFO  Season 1927 done: 2449 outings inserted
+2026-03-28 19:38:20,537  INFO  Scraping season 1928…
+2026-03-28 19:38:20,538  ERROR    BBRef season 1928 failed: Year must be 2008 or later
+2026-03-28 19:38:21,273  INFO    1928: 1231 completed games found via MLB API
+2026-03-28 19:38:21,274  INFO    1928: processing game 0/1231
+2026-03-28 19:39:33,333  INFO    1928: processing game 100/1231
+2026-03-28 19:41:22,775  INFO    1928: processing game 200/1231
+2026-03-28 19:43:33,548  INFO    1928: processing game 300/1231
+2026-03-28 19:45:47,993  INFO    1928: processing game 400/1231
+2026-03-28 19:48:03,909  INFO    1928: processing game 500/1231
+2026-03-28 19:49:21,262  INFO    1928: processing game 600/1231
+2026-03-28 19:51:04,253  INFO    1928: processing game 700/1231
+2026-03-28 19:52:57,077  INFO    1928: processing game 800/1231
+2026-03-28 19:54:37,432  INFO    1928: processing game 900/1231
+2026-03-28 19:55:54,262  INFO    1928: processing game 1000/1231
+2026-03-28 19:57:15,276  INFO    1928: processing game 1100/1231
+2026-03-28 19:58:41,510  INFO    1928: processing game 1200/1231
+2026-03-28 19:59:10,270  INFO  Season 1928 done: 2440 outings inserted
+2026-03-28 19:59:13,271  INFO  Scraping season 1929…
+2026-03-28 19:59:13,272  ERROR    BBRef season 1929 failed: Year must be 2008 or later
+2026-03-28 19:59:14,253  INFO    1929: 1229 completed games found via MLB API
+2026-03-28 19:59:14,254  INFO    1929: processing game 0/1229
+2026-03-28 20:00:30,072  INFO    1929: processing game 100/1229
+2026-03-28 20:02:17,281  INFO    1929: processing game 200/1229
+2026-03-28 20:04:30,075  INFO    1929: processing game 300/1229
+2026-03-28 20:06:51,537  INFO    1929: processing game 400/1229
+2026-03-28 20:09:14,196  INFO    1929: processing game 500/1229
+2026-03-28 20:11:36,046  INFO    1929: processing game 600/1229
+2026-03-28 20:13:52,104  INFO    1929: processing game 700/1229
+2026-03-28 20:16:16,964  INFO    1929: processing game 800/1229
+2026-03-28 20:18:39,426  INFO    1929: processing game 900/1229
+2026-03-28 20:21:07,296  INFO    1929: processing game 1000/1229
+2026-03-28 20:22:27,268  INFO    1929: processing game 1100/1229
+2026-03-28 20:23:42,208  INFO    1929: processing game 1200/1229
+2026-03-28 20:24:03,904  INFO  Season 1929 done: 2436 outings inserted
+2026-03-28 20:24:06,905  INFO  Scraping season 1930…
+2026-03-28 20:24:06,905  ERROR    BBRef season 1930 failed: Year must be 2008 or later
+2026-03-28 20:24:08,161  INFO    1930: 1558 completed games found via MLB API
+2026-03-28 20:24:08,162  INFO    1930: processing game 0/1558
+2026-03-28 20:25:20,368  INFO    1930: processing game 100/1558
+2026-03-28 20:26:34,425  INFO    1930: processing game 200/1558
+2026-03-28 20:28:03,784  INFO    1930: processing game 300/1558
+2026-03-28 20:29:34,335  INFO    1930: processing game 400/1558
+2026-03-28 20:30:58,320  INFO    1930: processing game 500/1558
+2026-03-28 20:32:14,098  INFO    1930: processing game 600/1558
+2026-03-28 20:33:28,768  INFO    1930: processing game 700/1558
+2026-03-28 20:34:57,857  INFO    1930: processing game 800/1558
+2026-03-28 20:36:25,546  INFO    1930: processing game 900/1558
+2026-03-28 20:37:41,160  INFO    1930: processing game 1000/1558
+2026-03-28 20:38:54,652  INFO    1930: processing game 1100/1558
+2026-03-28 20:40:09,073  INFO    1930: processing game 1200/1558
+2026-03-28 20:41:41,580  INFO    1930: processing game 1300/1558
+2026-03-28 20:42:55,984  INFO    1930: processing game 1400/1558
+2026-03-28 20:44:10,771  INFO    1930: processing game 1500/1558
+2026-03-28 20:44:53,666  INFO  Season 1930 done: 2928 outings inserted
+2026-03-28 20:44:56,668  INFO  Scraping season 1931…
+2026-03-28 20:44:56,669  ERROR    BBRef season 1931 failed: Year must be 2008 or later
+2026-03-28 20:44:57,760  INFO    1931: 1389 completed games found via MLB API
+2026-03-28 20:44:57,760  INFO    1931: processing game 0/1389
+2026-03-28 20:46:10,431  INFO    1931: processing game 100/1389
+2026-03-28 20:47:25,928  INFO    1931: processing game 200/1389
+2026-03-28 20:49:21,001  INFO    1931: processing game 300/1389
+2026-03-28 20:50:34,758  INFO    1931: processing game 400/1389
+2026-03-28 20:51:49,680  INFO    1931: processing game 500/1389
+2026-03-28 20:53:04,163  INFO    1931: processing game 600/1389
+2026-03-28 20:54:22,921  INFO    1931: processing game 700/1389
+2026-03-28 20:56:32,515  INFO    1931: processing game 800/1389
+2026-03-28 20:58:37,965  INFO    1931: processing game 900/1389
+2026-03-28 21:00:20,665  INFO    1931: processing game 1000/1389
+2026-03-28 21:02:07,015  INFO    1931: processing game 1100/1389
+2026-03-28 21:03:35,700  INFO    1931: processing game 1200/1389
+2026-03-28 21:04:50,479  INFO    1931: processing game 1300/1389
+2026-03-28 21:05:59,081  INFO  Season 1931 done: 2569 outings inserted
+2026-03-28 21:06:02,083  INFO  Scraping season 1932…
+2026-03-28 21:06:02,084  ERROR    BBRef season 1932 failed: Year must be 2008 or later
+2026-03-28 21:06:02,859  INFO    1932: 1595 completed games found via MLB API
+2026-03-28 21:06:02,860  INFO    1932: processing game 0/1595
+2026-03-28 21:07:18,707  INFO    1932: processing game 100/1595
+2026-03-28 21:08:30,724  INFO    1932: processing game 200/1595
+2026-03-28 21:09:43,229  INFO    1932: processing game 300/1595
+2026-03-28 21:11:48,627  INFO    1932: processing game 400/1595
+2026-03-28 21:13:16,687  INFO    1932: processing game 500/1595
+2026-03-28 21:15:26,742  INFO    1932: processing game 600/1595
+2026-03-28 21:17:00,874  INFO    1932: processing game 700/1595
+2026-03-28 21:19:09,894  INFO    1932: processing game 800/1595
+2026-03-28 21:21:03,123  INFO    1932: processing game 900/1595
+2026-03-28 21:23:09,067  INFO    1932: processing game 1000/1595
+2026-03-28 21:24:57,937  INFO    1932: processing game 1100/1595
+2026-03-28 21:26:55,213  INFO    1932: processing game 1200/1595
+2026-03-28 21:28:17,987  INFO    1932: processing game 1300/1595
+2026-03-28 21:29:52,610  INFO    1932: processing game 1400/1595
+2026-03-28 21:31:08,712  INFO    1932: processing game 1500/1595
+2026-03-28 21:32:18,929  INFO  Season 1932 done: 2916 outings inserted
+2026-03-28 21:32:21,931  INFO  Scraping season 1933…
+2026-03-28 21:32:21,932  ERROR    BBRef season 1933 failed: Year must be 2008 or later
+2026-03-28 21:32:22,865  INFO    1933: 1396 completed games found via MLB API
+2026-03-28 21:32:22,866  INFO    1933: processing game 0/1396
+2026-03-28 21:33:36,447  INFO    1933: processing game 100/1396
+2026-03-28 21:35:45,693  INFO    1933: processing game 200/1396
+2026-03-28 21:37:30,497  INFO    1933: processing game 300/1396
+2026-03-28 21:39:40,603  INFO    1933: processing game 400/1396
+2026-03-28 21:42:02,301  INFO    1933: processing game 500/1396
+2026-03-28 21:43:41,595  INFO    1933: processing game 600/1396
+2026-03-28 21:45:01,211  INFO    1933: processing game 700/1396
+2026-03-28 21:46:22,096  INFO    1933: processing game 800/1396
+2026-03-28 21:48:03,279  INFO    1933: processing game 900/1396
+2026-03-28 21:50:05,503  INFO    1933: processing game 1000/1396
+2026-03-28 21:51:31,722  INFO    1933: processing game 1100/1396
+2026-03-28 21:52:49,858  INFO    1933: processing game 1200/1396
+2026-03-28 21:54:09,112  INFO    1933: processing game 1300/1396
+2026-03-28 21:55:23,453  INFO  Season 1933 done: 2659 outings inserted
+2026-03-28 21:55:26,454  INFO  Scraping season 1934…
+2026-03-28 21:55:26,454  ERROR    BBRef season 1934 failed: Year must be 2008 or later
+2026-03-28 21:55:27,451  INFO    1934: 1385 completed games found via MLB API
+2026-03-28 21:55:27,451  INFO    1934: processing game 0/1385
+2026-03-28 21:56:43,126  INFO    1934: processing game 100/1385
+2026-03-28 21:58:37,876  INFO    1934: processing game 200/1385
+2026-03-28 22:00:10,193  INFO    1934: processing game 300/1385
+2026-03-28 22:01:48,472  INFO    1934: processing game 400/1385
+2026-03-28 22:03:17,199  INFO    1934: processing game 500/1385
+2026-03-28 22:05:00,204  INFO    1934: processing game 600/1385
+2026-03-28 22:06:31,238  INFO    1934: processing game 700/1385
+2026-03-28 22:08:13,551  INFO    1934: processing game 800/1385
+2026-03-28 22:10:14,426  INFO    1934: processing game 900/1385
+2026-03-28 22:12:09,788  INFO    1934: processing game 1000/1385
+2026-03-28 22:14:11,751  INFO    1934: processing game 1100/1385
+2026-03-28 22:15:57,114  INFO    1934: processing game 1200/1385
+2026-03-28 22:17:17,595  INFO    1934: processing game 1300/1385
+2026-03-28 22:18:23,269  INFO  Season 1934 done: 2673 outings inserted
+2026-03-28 22:18:26,270  INFO  Scraping season 1935…
+2026-03-28 22:18:26,272  ERROR    BBRef season 1935 failed: Year must be 2008 or later
+2026-03-28 22:18:26,992  INFO    1935: 1496 completed games found via MLB API
+2026-03-28 22:18:26,992  INFO    1935: processing game 0/1496
+2026-03-28 22:19:42,571  INFO    1935: processing game 100/1496
+2026-03-28 22:20:55,409  INFO    1935: processing game 200/1496
+2026-03-28 22:22:11,301  INFO    1935: processing game 300/1496
+2026-03-28 22:24:22,361  INFO    1935: processing game 400/1496
+2026-03-28 22:26:15,587  INFO    1935: processing game 500/1496
+2026-03-28 22:28:16,780  INFO    1935: processing game 600/1496
+2026-03-28 22:29:30,112  INFO    1935: processing game 700/1496
+2026-03-28 22:30:45,569  INFO    1935: processing game 800/1496
+2026-03-28 22:31:59,634  INFO    1935: processing game 900/1496
+2026-03-28 22:33:51,182  INFO    1935: processing game 1000/1496
+2026-03-28 22:35:05,732  INFO    1935: processing game 1100/1496
+2026-03-28 22:36:20,341  INFO    1935: processing game 1200/1496
+2026-03-28 22:37:35,480  INFO    1935: processing game 1300/1496
+2026-03-28 22:38:50,654  INFO    1935: processing game 1400/1496
+2026-03-28 22:40:02,406  INFO  Season 1935 done: 2813 outings inserted
+2026-03-28 22:40:05,407  INFO  Scraping season 1936…
+2026-03-28 22:40:05,409  ERROR    BBRef season 1936 failed: Year must be 2008 or later
+2026-03-28 22:40:06,637  INFO    1936: 1445 completed games found via MLB API
+2026-03-28 22:40:06,637  INFO    1936: processing game 0/1445
+2026-03-28 22:41:23,197  INFO    1936: processing game 100/1445
+2026-03-28 22:42:48,121  INFO    1936: processing game 200/1445
+2026-03-28 22:44:49,315  INFO    1936: processing game 300/1445
+2026-03-28 22:46:28,428  INFO    1936: processing game 400/1445
+2026-03-28 22:47:42,340  INFO    1936: processing game 500/1445
+2026-03-28 22:48:57,454  INFO    1936: processing game 600/1445
+2026-03-28 22:50:53,509  INFO    1936: processing game 700/1445
+2026-03-28 22:52:12,554  INFO    1936: processing game 800/1445
+2026-03-28 22:53:44,259  INFO    1936: processing game 900/1445
+2026-03-28 22:56:01,020  INFO    1936: processing game 1000/1445
+2026-03-28 22:57:55,559  INFO    1936: processing game 1100/1445
+2026-03-28 22:59:56,342  INFO    1936: processing game 1200/1445
+2026-03-28 23:01:15,193  INFO    1936: processing game 1300/1445
+2026-03-28 23:02:31,228  INFO    1936: processing game 1400/1445
+2026-03-28 23:03:06,058  INFO  Season 1936 done: 2746 outings inserted
+2026-03-28 23:03:09,059  INFO  Scraping season 1937…
+2026-03-28 23:03:09,060  ERROR    BBRef season 1937 failed: Year must be 2008 or later
+2026-03-28 23:03:09,894  INFO    1937: 1609 completed games found via MLB API
+2026-03-28 23:03:09,895  INFO    1937: processing game 0/1609
+2026-03-28 23:04:27,250  INFO    1937: processing game 100/1609
+2026-03-28 23:05:42,208  INFO    1937: processing game 200/1609
+2026-03-28 23:07:40,332  INFO    1937: processing game 300/1609
+2026-03-28 23:09:00,679  INFO    1937: processing game 400/1609
+2026-03-28 23:10:46,865  INFO    1937: processing game 500/1609
+2026-03-28 23:12:44,998  INFO    1937: processing game 600/1609
+2026-03-28 23:14:28,681  INFO    1937: processing game 700/1609
+2026-03-28 23:15:48,599  INFO    1937: processing game 800/1609
+2026-03-28 23:17:24,453  INFO    1937: processing game 900/1609
+2026-03-28 23:19:28,996  INFO    1937: processing game 1000/1609
+2026-03-28 23:21:42,346  INFO    1937: processing game 1100/1609
+2026-03-28 23:23:16,668  INFO    1937: processing game 1200/1609
+2026-03-28 23:25:24,366  INFO    1937: processing game 1300/1609
+2026-03-28 23:26:38,645  INFO    1937: processing game 1400/1609
+2026-03-28 23:27:53,975  INFO    1937: processing game 1500/1609
+2026-03-28 23:29:07,994  INFO    1937: processing game 1600/1609
+2026-03-28 23:29:14,684  INFO  Season 1937 done: 2886 outings inserted
+2026-03-28 23:29:17,685  INFO  Scraping season 1938…
+2026-03-28 23:29:17,687  ERROR    BBRef season 1938 failed: Year must be 2008 or later
+2026-03-28 23:29:18,555  INFO    1938: 1576 completed games found via MLB API
+2026-03-28 23:29:18,556  INFO    1938: processing game 0/1576
+2026-03-28 23:30:36,012  INFO    1938: processing game 100/1576
+2026-03-28 23:31:48,577  INFO    1938: processing game 200/1576
+2026-03-28 23:33:02,570  INFO    1938: processing game 300/1576
+2026-03-28 23:34:18,034  INFO    1938: processing game 400/1576
+2026-03-28 23:35:30,803  INFO    1938: processing game 500/1576
+2026-03-28 23:37:13,191  INFO    1938: processing game 600/1576
+2026-03-28 23:38:32,841  INFO    1938: processing game 700/1576
+2026-03-28 23:39:46,637  INFO    1938: processing game 800/1576
+2026-03-28 23:41:34,675  INFO    1938: processing game 900/1576
+2026-03-28 23:43:20,497  INFO    1938: processing game 1000/1576
+2026-03-28 23:44:41,812  INFO    1938: processing game 1100/1576
+2026-03-28 23:45:58,274  INFO    1938: processing game 1200/1576
+2026-03-28 23:47:11,265  INFO    1938: processing game 1300/1576
+2026-03-28 23:48:24,513  INFO    1938: processing game 1400/1576
+2026-03-28 23:49:38,741  INFO    1938: processing game 1500/1576
+2026-03-28 23:50:35,032  INFO  Season 1938 done: 2838 outings inserted
+2026-03-28 23:50:38,034  INFO  Scraping season 1939…
+2026-03-28 23:50:38,035  ERROR    BBRef season 1939 failed: Year must be 2008 or later
+2026-03-28 23:50:38,872  INFO    1939: 1650 completed games found via MLB API
+2026-03-28 23:50:38,872  INFO    1939: processing game 0/1650
+2026-03-28 23:51:53,613  INFO    1939: processing game 100/1650
+2026-03-28 23:53:07,093  INFO    1939: processing game 200/1650
+2026-03-28 23:54:27,671  INFO    1939: processing game 300/1650
+2026-03-28 23:55:41,535  INFO    1939: processing game 400/1650
+2026-03-28 23:56:55,469  INFO    1939: processing game 500/1650
+2026-03-28 23:58:13,433  INFO    1939: processing game 600/1650
+2026-03-29 00:00:04,322  INFO    1939: processing game 700/1650
+2026-03-29 00:01:19,824  INFO    1939: processing game 800/1650
+2026-03-29 00:02:33,822  INFO    1939: processing game 900/1650
+2026-03-29 00:03:46,736  INFO    1939: processing game 1000/1650
+2026-03-29 00:05:31,911  INFO    1939: processing game 1100/1650
+2026-03-29 00:07:17,794  INFO    1939: processing game 1200/1650
+2026-03-29 00:08:33,951  INFO    1939: processing game 1300/1650
+2026-03-29 00:09:47,438  INFO    1939: processing game 1400/1650
+2026-03-29 00:10:59,691  INFO    1939: processing game 1500/1650
+2026-03-29 00:12:12,594  INFO    1939: processing game 1600/1650
+2026-03-29 00:12:49,292  INFO  Season 1939 done: 2838 outings inserted
+2026-03-29 00:12:52,293  INFO  Scraping season 1940…
+2026-03-29 00:12:52,295  ERROR    BBRef season 1940 failed: Year must be 2008 or later
+2026-03-29 00:12:53,194  INFO    1940: 1627 completed games found via MLB API
+2026-03-29 00:12:53,194  INFO    1940: processing game 0/1627
+2026-03-29 00:14:05,192  INFO    1940: processing game 100/1627
+2026-03-29 00:15:16,630  INFO    1940: processing game 200/1627
+2026-03-29 00:16:29,816  INFO    1940: processing game 300/1627
+2026-03-29 00:17:42,430  INFO    1940: processing game 400/1627
+2026-03-29 00:18:54,355  INFO    1940: processing game 500/1627
+2026-03-29 00:20:06,317  INFO    1940: processing game 600/1627
+2026-03-29 00:21:55,955  INFO    1940: processing game 700/1627
+2026-03-29 00:23:08,258  INFO    1940: processing game 800/1627
+2026-03-29 00:24:21,302  INFO    1940: processing game 900/1627
+2026-03-29 00:25:56,263  INFO    1940: processing game 1000/1627
+2026-03-29 00:27:09,130  INFO    1940: processing game 1100/1627
+2026-03-29 00:28:23,267  INFO    1940: processing game 1200/1627
+2026-03-29 00:30:20,963  INFO    1940: processing game 1300/1627
+2026-03-29 00:32:03,958  INFO    1940: processing game 1400/1627
+2026-03-29 00:33:17,015  INFO    1940: processing game 1500/1627
+2026-03-29 00:34:32,459  INFO    1940: processing game 1600/1627
+2026-03-29 00:34:52,957  INFO  Season 1940 done: 2922 outings inserted
+2026-03-29 00:34:55,958  INFO  Scraping season 1941…
+2026-03-29 00:34:55,959  ERROR    BBRef season 1941 failed: Year must be 2008 or later
+2026-03-29 00:34:56,967  INFO    1941: 1649 completed games found via MLB API
+2026-03-29 00:34:56,968  INFO    1941: processing game 0/1649
+2026-03-29 00:36:09,936  INFO    1941: processing game 100/1649
+2026-03-29 00:37:21,069  INFO    1941: processing game 200/1649
+2026-03-29 00:38:32,645  INFO    1941: processing game 300/1649
+2026-03-29 00:39:43,552  INFO    1941: processing game 400/1649
+2026-03-29 00:40:55,073  INFO    1941: processing game 500/1649
+2026-03-29 00:42:06,816  INFO    1941: processing game 600/1649
+2026-03-29 00:43:18,972  INFO    1941: processing game 700/1649
+2026-03-29 00:44:31,334  INFO    1941: processing game 800/1649
+2026-03-29 00:45:44,086  INFO    1941: processing game 900/1649
+2026-03-29 00:46:56,480  INFO    1941: processing game 1000/1649
+2026-03-29 00:48:08,292  INFO    1941: processing game 1100/1649
+2026-03-29 00:49:21,140  INFO    1941: processing game 1200/1649
+2026-03-29 00:50:34,807  INFO    1941: processing game 1300/1649
+2026-03-29 00:51:48,840  INFO    1941: processing game 1400/1649
+2026-03-29 00:53:00,714  INFO    1941: processing game 1500/1649
+2026-03-29 00:54:16,515  INFO    1941: processing game 1600/1649
+2026-03-29 00:54:53,339  INFO  Season 1941 done: 2913 outings inserted
+2026-03-29 00:54:56,340  INFO  Scraping season 1942…
+2026-03-29 00:54:56,341  ERROR    BBRef season 1942 failed: Year must be 2008 or later
+2026-03-29 00:54:57,321  INFO    1942: 1692 completed games found via MLB API
+2026-03-29 00:54:57,322  INFO    1942: processing game 0/1692
+2026-03-29 00:56:08,174  INFO    1942: processing game 100/1692
+2026-03-29 00:57:23,176  INFO    1942: processing game 200/1692
+2026-03-29 00:58:35,302  INFO    1942: processing game 300/1692
+2026-03-29 00:59:51,292  INFO    1942: processing game 400/1692
+2026-03-29 01:01:03,632  INFO    1942: processing game 500/1692
+2026-03-29 01:02:16,990  INFO    1942: processing game 600/1692
+2026-03-29 01:03:28,773  INFO    1942: processing game 700/1692
+2026-03-29 01:04:43,271  INFO    1942: processing game 800/1692
+2026-03-29 01:05:56,902  INFO    1942: processing game 900/1692
+2026-03-29 01:07:11,117  INFO    1942: processing game 1000/1692
+2026-03-29 01:08:25,827  INFO    1942: processing game 1100/1692
+2026-03-29 01:09:38,168  INFO    1942: processing game 1200/1692
+2026-03-29 01:10:52,010  INFO    1942: processing game 1300/1692
+2026-03-29 01:12:04,549  INFO    1942: processing game 1400/1692
+2026-03-29 01:13:17,100  INFO    1942: processing game 1500/1692
+2026-03-29 01:14:29,981  INFO    1942: processing game 1600/1692
+2026-03-29 01:15:36,709  INFO  Season 1942 done: 2947 outings inserted
+2026-03-29 01:15:39,710  INFO  Scraping season 1943…
+2026-03-29 01:15:39,712  ERROR    BBRef season 1943 failed: Year must be 2008 or later
+2026-03-29 01:15:40,512  INFO    1943: 1763 completed games found via MLB API
+2026-03-29 01:15:40,513  INFO    1943: processing game 0/1763
+2026-03-29 01:16:54,330  INFO    1943: processing game 100/1763
+2026-03-29 01:18:06,736  INFO    1943: processing game 200/1763
+2026-03-29 01:19:17,970  INFO    1943: processing game 300/1763
+2026-03-29 01:20:59,696  INFO    1943: processing game 400/1763
+2026-03-29 01:22:40,106  INFO    1943: processing game 500/1763
+2026-03-29 01:23:53,403  INFO    1943: processing game 600/1763
+2026-03-29 01:25:46,513  INFO    1943: processing game 700/1763
+2026-03-29 01:27:00,603  INFO    1943: processing game 800/1763
+2026-03-29 01:28:14,046  INFO    1943: processing game 900/1763
+2026-03-29 01:29:27,287  INFO    1943: processing game 1000/1763
+2026-03-29 01:30:39,952  INFO    1943: processing game 1100/1763
+2026-03-29 01:31:53,828  INFO    1943: processing game 1200/1763
+2026-03-29 01:33:09,185  INFO    1943: processing game 1300/1763
+2026-03-29 01:34:23,435  INFO    1943: processing game 1400/1763
+2026-03-29 01:35:36,628  INFO    1943: processing game 1500/1763
+2026-03-29 01:36:48,089  INFO    1943: processing game 1600/1763
+2026-03-29 01:38:01,250  INFO    1943: processing game 1700/1763
+2026-03-29 01:38:49,813  INFO  Season 1943 done: 2964 outings inserted
+2026-03-29 01:38:52,815  INFO  Scraping season 1944…
+2026-03-29 01:38:52,816  ERROR    BBRef season 1944 failed: Year must be 2008 or later
+2026-03-29 01:38:53,911  INFO    1944: 1821 completed games found via MLB API
+2026-03-29 01:38:53,912  INFO    1944: processing game 0/1821
+2026-03-29 01:40:06,877  INFO    1944: processing game 100/1821
+2026-03-29 01:41:17,415  INFO    1944: processing game 200/1821
+2026-03-29 01:42:30,375  INFO    1944: processing game 300/1821
+2026-03-29 01:43:42,529  INFO    1944: processing game 400/1821
+2026-03-29 01:44:57,230  INFO    1944: processing game 500/1821
+2026-03-29 01:46:23,394  INFO    1944: processing game 600/1821
+2026-03-29 01:47:51,155  INFO    1944: processing game 700/1821
+2026-03-29 01:49:08,385  INFO    1944: processing game 800/1821
+2026-03-29 01:50:23,150  INFO    1944: processing game 900/1821
+2026-03-29 01:51:37,730  INFO    1944: processing game 1000/1821
+2026-03-29 01:52:51,194  INFO    1944: processing game 1100/1821
+2026-03-29 01:54:04,166  INFO    1944: processing game 1200/1821
+2026-03-29 01:55:17,678  INFO    1944: processing game 1300/1821
+2026-03-29 01:56:30,256  INFO    1944: processing game 1400/1821
+2026-03-29 01:57:43,409  INFO    1944: processing game 1500/1821
+2026-03-29 01:58:55,742  INFO    1944: processing game 1600/1821
+2026-03-29 02:00:07,190  INFO    1944: processing game 1700/1821
+2026-03-29 02:01:20,833  INFO    1944: processing game 1800/1821
+2026-03-29 02:01:35,710  INFO  Season 1944 done: 2908 outings inserted
+2026-03-29 02:01:38,711  INFO  Scraping season 1945…
+2026-03-29 02:01:38,711  ERROR    BBRef season 1945 failed: Year must be 2008 or later
+2026-03-29 02:01:39,654  INFO    1945: 1768 completed games found via MLB API
+2026-03-29 02:01:39,654  INFO    1945: processing game 0/1768
+2026-03-29 02:02:50,744  INFO    1945: processing game 100/1768
+2026-03-29 02:04:08,541  INFO    1945: processing game 200/1768
+2026-03-29 02:05:20,914  INFO    1945: processing game 300/1768
+2026-03-29 02:06:35,458  INFO    1945: processing game 400/1768
+2026-03-29 02:07:53,323  INFO    1945: processing game 500/1768
+2026-03-29 02:09:06,138  INFO    1945: processing game 600/1768
+2026-03-29 02:10:20,658  INFO    1945: processing game 700/1768
+2026-03-29 02:11:34,494  INFO    1945: processing game 800/1768
+2026-03-29 02:12:46,789  INFO    1945: processing game 900/1768
+2026-03-29 02:13:59,133  INFO    1945: processing game 1000/1768
+2026-03-29 02:15:13,049  INFO    1945: processing game 1100/1768
+2026-03-29 02:16:27,653  INFO    1945: processing game 1200/1768
+2026-03-29 02:17:40,598  INFO    1945: processing game 1300/1768
+2026-03-29 02:18:53,482  INFO    1945: processing game 1400/1768
+2026-03-29 02:20:08,101  INFO    1945: processing game 1500/1768
+2026-03-29 02:21:28,927  INFO    1945: processing game 1600/1768
+2026-03-29 02:22:42,456  INFO    1945: processing game 1700/1768
+2026-03-29 02:23:31,147  INFO  Season 1945 done: 2874 outings inserted
+2026-03-29 02:23:34,148  INFO  Scraping season 1946…
+2026-03-29 02:23:34,150  ERROR    BBRef season 1946 failed: Year must be 2008 or later
+2026-03-29 02:23:35,157  INFO    1946: 1773 completed games found via MLB API
+2026-03-29 02:23:35,158  INFO    1946: processing game 0/1773
+2026-03-29 02:24:48,103  INFO    1946: processing game 100/1773
+2026-03-29 02:26:03,589  INFO    1946: processing game 200/1773
+2026-03-29 02:27:16,598  INFO    1946: processing game 300/1773
+2026-03-29 02:28:37,889  INFO    1946: processing game 400/1773
+2026-03-29 02:29:49,811  INFO    1946: processing game 500/1773
+2026-03-29 02:31:06,457  INFO    1946: processing game 600/1773
+2026-03-29 02:32:20,397  INFO    1946: processing game 700/1773
+2026-03-29 02:33:32,482  INFO    1946: processing game 800/1773
+2026-03-29 02:34:45,124  INFO    1946: processing game 900/1773
+2026-03-29 02:35:58,185  INFO    1946: processing game 1000/1773
+2026-03-29 02:37:51,419  INFO    1946: processing game 1100/1773
+2026-03-29 02:39:31,851  INFO    1946: processing game 1200/1773
+2026-03-29 02:40:45,342  INFO    1946: processing game 1300/1773
+2026-03-29 02:41:57,651  INFO    1946: processing game 1400/1773
+2026-03-29 02:43:10,543  INFO    1946: processing game 1500/1773
+2026-03-29 02:44:29,434  INFO    1946: processing game 1600/1773
+2026-03-29 02:45:45,527  INFO    1946: processing game 1700/1773
+2026-03-29 02:46:39,285  INFO  Season 1946 done: 2930 outings inserted
+2026-03-29 02:46:42,286  INFO  Scraping season 1947…
+2026-03-29 02:46:42,287  ERROR    BBRef season 1947 failed: Year must be 2008 or later
+2026-03-29 02:46:43,285  INFO    1947: 1832 completed games found via MLB API
+2026-03-29 02:46:43,286  INFO    1947: processing game 0/1832
+2026-03-29 02:47:56,528  INFO    1947: processing game 100/1832
+2026-03-29 02:49:07,558  INFO    1947: processing game 200/1832
+2026-03-29 02:50:20,993  INFO    1947: processing game 300/1832
+2026-03-29 02:51:34,135  INFO    1947: processing game 400/1832
+2026-03-29 02:52:46,106  INFO    1947: processing game 500/1832
+2026-03-29 02:54:04,357  INFO    1947: processing game 600/1832
+2026-03-29 02:55:15,938  INFO    1947: processing game 700/1832
+2026-03-29 02:56:28,376  INFO    1947: processing game 800/1832
+2026-03-29 02:57:40,326  INFO    1947: processing game 900/1832
+2026-03-29 02:58:53,437  INFO    1947: processing game 1000/1832
+2026-03-29 03:00:06,498  INFO    1947: processing game 1100/1832
+2026-03-29 03:01:17,854  INFO    1947: processing game 1200/1832
+2026-03-29 03:02:29,917  INFO    1947: processing game 1300/1832
+2026-03-29 03:03:43,694  INFO    1947: processing game 1400/1832
+2026-03-29 03:04:57,788  INFO    1947: processing game 1500/1832
+2026-03-29 03:06:10,327  INFO    1947: processing game 1600/1832
+2026-03-29 03:07:22,454  INFO    1947: processing game 1700/1832
+2026-03-29 03:08:36,744  INFO    1947: processing game 1800/1832
+2026-03-29 03:08:59,518  INFO  Season 1947 done: 2957 outings inserted
+2026-03-29 03:09:02,520  INFO  Scraping season 1948…
+2026-03-29 03:09:02,522  ERROR    BBRef season 1948 failed: Year must be 2008 or later
+2026-03-29 03:09:03,512  INFO    1948: 1790 completed games found via MLB API
+2026-03-29 03:09:03,513  INFO    1948: processing game 0/1790
+2026-03-29 03:10:14,263  INFO    1948: processing game 100/1790
+2026-03-29 03:11:25,842  INFO    1948: processing game 200/1790
+2026-03-29 03:12:59,687  INFO    1948: processing game 300/1790
+2026-03-29 03:14:34,982  INFO    1948: processing game 400/1790
+2026-03-29 03:15:45,599  INFO    1948: processing game 500/1790
+2026-03-29 03:16:55,827  INFO    1948: processing game 600/1790
+2026-03-29 03:18:06,923  INFO    1948: processing game 700/1790
+2026-03-29 03:19:18,868  INFO    1948: processing game 800/1790
+2026-03-29 03:20:37,869  INFO    1948: processing game 900/1790
+2026-03-29 03:21:50,836  INFO    1948: processing game 1000/1790
+2026-03-29 03:23:03,557  INFO    1948: processing game 1100/1790
+2026-03-29 03:24:16,696  INFO    1948: processing game 1200/1790
+2026-03-29 03:25:31,075  INFO    1948: processing game 1300/1790
+2026-03-29 03:26:42,808  INFO    1948: processing game 1400/1790
+2026-03-29 03:27:55,545  INFO    1948: processing game 1500/1790
+2026-03-29 03:29:07,526  INFO    1948: processing game 1600/1790
+2026-03-29 03:30:20,883  INFO    1948: processing game 1700/1790
+2026-03-29 03:31:32,492  INFO  Season 1948 done: 2866 outings inserted
+2026-03-29 03:31:35,493  INFO  Scraping season 1949…
+2026-03-29 03:31:35,498  ERROR    BBRef season 1949 failed: Year must be 2008 or later
+2026-03-29 03:31:36,453  INFO    1949: 1241 completed games found via MLB API
+2026-03-29 03:31:36,454  INFO    1949: processing game 0/1241
+2026-03-29 03:32:53,724  INFO    1949: processing game 100/1241
+2026-03-29 03:34:05,505  INFO    1949: processing game 200/1241
+2026-03-29 03:35:25,102  INFO    1949: processing game 300/1241
+2026-03-29 03:37:14,967  INFO    1949: processing game 400/1241
+2026-03-29 03:38:27,973  INFO    1949: processing game 500/1241
+2026-03-29 03:39:40,427  INFO    1949: processing game 600/1241
+2026-03-29 03:40:55,091  INFO    1949: processing game 700/1241
+2026-03-29 03:42:08,277  INFO    1949: processing game 800/1241
+2026-03-29 03:43:23,873  INFO    1949: processing game 900/1241
+2026-03-29 03:44:39,901  INFO    1949: processing game 1000/1241
+2026-03-29 03:45:53,181  INFO    1949: processing game 1100/1241
+2026-03-29 03:47:07,391  INFO    1949: processing game 1200/1241
+2026-03-29 03:47:38,044  INFO  Season 1949 done: 2449 outings inserted
+2026-03-29 03:47:41,045  INFO  Scraping season 1950…
+2026-03-29 03:47:41,046  ERROR    BBRef season 1950 failed: Year must be 2008 or later
+2026-03-29 03:47:41,984  INFO    1950: 1240 completed games found via MLB API
+2026-03-29 03:47:41,985  INFO    1950: processing game 0/1240
+2026-03-29 03:49:01,766  INFO    1950: processing game 100/1240
+2026-03-29 03:50:15,040  INFO    1950: processing game 200/1240
+2026-03-29 03:51:28,660  INFO    1950: processing game 300/1240
+2026-03-29 03:52:42,716  INFO    1950: processing game 400/1240
+2026-03-29 03:53:56,656  INFO    1950: processing game 500/1240
+2026-03-29 03:55:11,116  INFO    1950: processing game 600/1240
+2026-03-29 03:56:25,744  INFO    1950: processing game 700/1240
+2026-03-29 03:57:39,736  INFO    1950: processing game 800/1240
+2026-03-29 03:58:56,544  INFO    1950: processing game 900/1240
+2026-03-29 04:00:11,140  INFO    1950: processing game 1000/1240
+2026-03-29 04:01:26,138  INFO    1950: processing game 1100/1240
+2026-03-29 04:02:41,511  INFO    1950: processing game 1200/1240
+2026-03-29 04:03:11,495  INFO  Season 1950 done: 2448 outings inserted
+2026-03-29 04:03:14,496  INFO  Scraping season 1951…
+2026-03-29 04:03:14,497  ERROR    BBRef season 1951 failed: Year must be 2008 or later
+2026-03-29 04:03:15,436  INFO    1951: 1242 completed games found via MLB API
+2026-03-29 04:03:15,437  INFO    1951: processing game 0/1242
+2026-03-29 04:04:33,062  INFO    1951: processing game 100/1242
+2026-03-29 04:05:50,146  INFO    1951: processing game 200/1242
+2026-03-29 04:07:04,373  INFO    1951: processing game 300/1242
+2026-03-29 04:08:18,488  INFO    1951: processing game 400/1242
+2026-03-29 04:09:31,608  INFO    1951: processing game 500/1242
+2026-03-29 04:10:44,912  INFO    1951: processing game 600/1242
+2026-03-29 04:11:58,445  INFO    1951: processing game 700/1242
+2026-03-29 04:13:18,438  INFO    1951: processing game 800/1242
+2026-03-29 04:14:34,879  INFO    1951: processing game 900/1242
+2026-03-29 04:16:06,776  INFO    1951: processing game 1000/1242
+2026-03-29 04:17:21,860  INFO    1951: processing game 1100/1242
+2026-03-29 04:18:40,183  INFO    1951: processing game 1200/1242
+2026-03-29 04:19:19,326  INFO  Season 1951 done: 2464 outings inserted
+2026-03-29 04:19:22,327  INFO  Scraping season 1952…
+2026-03-29 04:19:22,329  ERROR    BBRef season 1952 failed: Year must be 2008 or later
+2026-03-29 04:19:23,288  INFO    1952: 1242 completed games found via MLB API
+2026-03-29 04:19:23,289  INFO    1952: processing game 0/1242
+2026-03-29 04:20:56,322  INFO    1952: processing game 100/1242
+2026-03-29 04:22:17,746  INFO    1952: processing game 200/1242
+2026-03-29 04:23:32,865  INFO    1952: processing game 300/1242
+2026-03-29 04:24:53,863  INFO    1952: processing game 400/1242
+2026-03-29 04:26:08,225  INFO    1952: processing game 500/1242
+2026-03-29 04:27:22,291  INFO    1952: processing game 600/1242
+2026-03-29 04:28:37,150  INFO    1952: processing game 700/1242
+2026-03-29 04:29:55,172  INFO    1952: processing game 800/1242
+2026-03-29 04:31:12,688  INFO    1952: processing game 900/1242
+2026-03-29 04:32:29,710  INFO    1952: processing game 1000/1242
+2026-03-29 04:33:44,731  INFO    1952: processing game 1100/1242
+2026-03-29 04:35:06,843  INFO    1952: processing game 1200/1242
+2026-03-29 04:35:40,405  INFO  Season 1952 done: 2465 outings inserted
+2026-03-29 04:35:43,406  INFO  Scraping season 1953…
+2026-03-29 04:35:43,408  ERROR    BBRef season 1953 failed: Year must be 2008 or later
+2026-03-29 04:35:44,290  INFO    1953: 1242 completed games found via MLB API
+2026-03-29 04:35:44,290  INFO    1953: processing game 0/1242
+2026-03-29 04:37:01,588  INFO    1953: processing game 100/1242
+2026-03-29 04:38:20,658  INFO    1953: processing game 200/1242
+2026-03-29 04:39:34,287  INFO    1953: processing game 300/1242
+2026-03-29 04:40:52,490  INFO    1953: processing game 400/1242
+2026-03-29 04:42:06,764  INFO    1953: processing game 500/1242
+2026-03-29 04:43:23,711  INFO    1953: processing game 600/1242
+2026-03-29 04:44:40,175  INFO    1953: processing game 700/1242
+2026-03-29 04:45:54,515  INFO    1953: processing game 800/1242
+2026-03-29 04:47:10,173  INFO    1953: processing game 900/1242
+2026-03-29 04:48:24,180  INFO    1953: processing game 1000/1242
+2026-03-29 04:49:38,168  INFO    1953: processing game 1100/1242
+2026-03-29 04:50:54,690  INFO    1953: processing game 1200/1242
+2026-03-29 04:51:27,086  INFO  Season 1953 done: 2471 outings inserted
+2026-03-29 04:51:30,088  INFO  Scraping season 1954…
+2026-03-29 04:51:30,089  ERROR    BBRef season 1954 failed: Year must be 2008 or later
+2026-03-29 04:51:31,122  INFO    1954: 1240 completed games found via MLB API
+2026-03-29 04:51:31,123  INFO    1954: processing game 0/1240
+2026-03-29 04:52:45,838  INFO    1954: processing game 100/1240
+2026-03-29 04:53:58,299  INFO    1954: processing game 200/1240
+2026-03-29 04:57:11,951  INFO    1954: processing game 300/1240
+2026-03-29 04:58:27,866  INFO    1954: processing game 400/1240
+2026-03-29 05:00:09,357  INFO    1954: processing game 500/1240
+2026-03-29 05:01:23,964  INFO    1954: processing game 600/1240
+2026-03-29 05:02:44,188  INFO    1954: processing game 700/1240
+2026-03-29 05:04:02,013  INFO    1954: processing game 800/1240
+2026-03-29 05:05:19,551  INFO    1954: processing game 900/1240
+2026-03-29 05:06:33,753  INFO    1954: processing game 1000/1240
+2026-03-29 05:07:49,496  INFO    1954: processing game 1100/1240
+2026-03-29 05:09:05,316  INFO    1954: processing game 1200/1240
+2026-03-29 05:09:52,531  INFO  Season 1954 done: 2455 outings inserted
+2026-03-29 05:09:55,532  INFO  Scraping season 1955…
+2026-03-29 05:09:55,534  ERROR    BBRef season 1955 failed: Year must be 2008 or later
+2026-03-29 05:09:56,455  INFO    1955: 1240 completed games found via MLB API
+2026-03-29 05:09:56,456  INFO    1955: processing game 0/1240
+2026-03-29 05:11:21,118  INFO    1955: processing game 100/1240
+2026-03-29 05:12:36,753  INFO    1955: processing game 200/1240
+2026-03-29 05:13:50,412  INFO    1955: processing game 300/1240
+2026-03-29 05:15:13,361  INFO    1955: processing game 400/1240
+2026-03-29 05:16:27,090  INFO    1955: processing game 500/1240
+2026-03-29 05:17:41,095  INFO    1955: processing game 600/1240
+2026-03-29 05:19:03,219  INFO    1955: processing game 700/1240
+2026-03-29 05:20:23,827  INFO    1955: processing game 800/1240
+2026-03-29 05:21:43,060  INFO    1955: processing game 900/1240
+2026-03-29 05:23:04,502  INFO    1955: processing game 1000/1240
+2026-03-29 05:24:19,673  INFO    1955: processing game 1100/1240
+2026-03-29 05:25:35,305  INFO    1955: processing game 1200/1240
+2026-03-29 05:26:07,483  INFO  Season 1955 done: 2459 outings inserted
+2026-03-29 05:26:10,485  INFO  Scraping season 1956…
+2026-03-29 05:26:10,486  ERROR    BBRef season 1956 failed: Year must be 2008 or later
+2026-03-29 05:26:11,159  INFO    1956: 1242 completed games found via MLB API
+2026-03-29 05:26:11,159  INFO    1956: processing game 0/1242
+2026-03-29 05:29:07,477  INFO    1956: processing game 100/1242
+2026-03-29 05:30:28,562  INFO    1956: processing game 200/1242
+2026-03-29 05:31:42,269  INFO    1956: processing game 300/1242
+2026-03-29 05:32:57,121  INFO    1956: processing game 400/1242
+2026-03-29 05:34:18,636  INFO    1956: processing game 500/1242
+2026-03-29 05:35:42,275  INFO    1956: processing game 600/1242
+2026-03-29 05:37:21,047  INFO    1956: processing game 700/1242
+2026-03-29 05:38:39,977  INFO    1956: processing game 800/1242
+2026-03-29 05:40:22,356  INFO    1956: processing game 900/1242
+2026-03-29 05:41:39,038  INFO    1956: processing game 1000/1242
+2026-03-29 05:42:57,083  INFO    1956: processing game 1100/1242
+2026-03-29 05:44:35,578  INFO    1956: processing game 1200/1242
+2026-03-29 05:45:07,298  INFO  Season 1956 done: 2463 outings inserted
+2026-03-29 05:45:10,300  INFO  Scraping season 1957…
+2026-03-29 05:45:10,302  ERROR    BBRef season 1957 failed: Year must be 2008 or later
+2026-03-29 05:45:11,239  INFO    1957: 1239 completed games found via MLB API
+2026-03-29 05:45:11,239  INFO    1957: processing game 0/1239
+2026-03-29 05:46:32,951  INFO    1957: processing game 100/1239
+2026-03-29 05:47:46,303  INFO    1957: processing game 200/1239
+2026-03-29 05:49:09,060  INFO    1957: processing game 300/1239
+2026-03-29 05:50:23,123  INFO    1957: processing game 400/1239
+2026-03-29 05:51:42,712  INFO    1957: processing game 500/1239
+2026-03-29 05:53:01,166  INFO    1957: processing game 600/1239
+2026-03-29 05:54:24,327  INFO    1957: processing game 700/1239
+2026-03-29 05:55:47,131  INFO    1957: processing game 800/1239
+2026-03-29 05:57:38,020  INFO    1957: processing game 900/1239
+2026-03-29 05:58:58,683  INFO    1957: processing game 1000/1239
+2026-03-29 06:00:39,883  INFO    1957: processing game 1100/1239
+2026-03-29 06:02:43,824  INFO    1957: processing game 1200/1239
+2026-03-29 06:03:14,896  INFO  Season 1957 done: 2461 outings inserted
+2026-03-29 06:03:17,898  INFO  Scraping season 1958…
+2026-03-29 06:03:17,900  ERROR    BBRef season 1958 failed: Year must be 2008 or later
+2026-03-29 06:03:19,431  INFO    1958: 1241 completed games found via MLB API
+2026-03-29 06:03:19,432  INFO    1958: processing game 0/1241
+2026-03-29 06:04:45,061  INFO    1958: processing game 100/1241
+2026-03-29 06:06:02,448  INFO    1958: processing game 200/1241
+2026-03-29 06:07:30,343  INFO    1958: processing game 300/1241
+2026-03-29 06:08:44,653  INFO    1958: processing game 400/1241
+2026-03-29 06:10:24,796  INFO    1958: processing game 500/1241
+2026-03-29 06:11:58,254  INFO    1958: processing game 600/1241
+2026-03-29 06:13:19,384  INFO    1958: processing game 700/1241
+2026-03-29 06:14:34,567  INFO    1958: processing game 800/1241
+2026-03-29 06:15:54,910  INFO    1958: processing game 900/1241
+2026-03-29 06:17:12,910  INFO    1958: processing game 1000/1241
+2026-03-29 06:18:39,600  INFO    1958: processing game 1100/1241
+2026-03-29 06:20:19,309  INFO    1958: processing game 1200/1241
+2026-03-29 06:20:56,418  INFO  Season 1958 done: 2470 outings inserted
+2026-03-29 06:20:59,420  INFO  Scraping season 1959…
+2026-03-29 06:20:59,421  ERROR    BBRef season 1959 failed: Year must be 2008 or later
+2026-03-29 06:21:01,641  INFO    1959: 1241 completed games found via MLB API
+2026-03-29 06:21:01,641  INFO    1959: processing game 0/1241
+2026-03-29 06:22:45,478  INFO    1959: processing game 100/1241
+2026-03-29 06:23:57,992  INFO    1959: processing game 200/1241
+2026-03-29 06:25:11,084  INFO    1959: processing game 300/1241
+2026-03-29 06:26:34,531  INFO    1959: processing game 400/1241
+2026-03-29 06:28:00,119  INFO    1959: processing game 500/1241
+2026-03-29 06:29:17,390  INFO    1959: processing game 600/1241
+2026-03-29 06:30:55,769  INFO    1959: processing game 700/1241
+2026-03-29 06:32:17,714  INFO    1959: processing game 800/1241
+2026-03-29 06:33:42,611  INFO    1959: processing game 900/1241
+2026-03-29 06:34:57,128  INFO    1959: processing game 1000/1241
+2026-03-29 06:36:16,369  INFO    1959: processing game 1100/1241
+2026-03-29 06:37:41,417  INFO    1959: processing game 1200/1241
+2026-03-29 06:38:16,427  INFO  Season 1959 done: 2460 outings inserted
+2026-03-29 06:38:19,429  INFO  Scraping season 1960…
+2026-03-29 06:38:19,431  ERROR    BBRef season 1960 failed: Year must be 2008 or later
+2026-03-29 06:38:20,409  INFO    1960: 1237 completed games found via MLB API
+2026-03-29 06:38:20,409  INFO    1960: processing game 0/1237
+2026-03-29 06:39:53,992  INFO    1960: processing game 100/1237
+2026-03-29 06:41:07,397  INFO    1960: processing game 200/1237
+2026-03-29 06:42:23,580  INFO    1960: processing game 300/1237
+2026-03-29 06:43:51,877  INFO    1960: processing game 400/1237
+2026-03-29 06:45:12,840  INFO    1960: processing game 500/1237
+2026-03-29 06:47:06,440  INFO    1960: processing game 600/1237
+2026-03-29 06:48:24,439  INFO    1960: processing game 700/1237
+2026-03-29 06:49:45,179  INFO    1960: processing game 800/1237
+2026-03-29 06:51:02,653  INFO    1960: processing game 900/1237
+2026-03-29 06:52:28,754  INFO    1960: processing game 1000/1237
+2026-03-29 06:53:43,664  INFO    1960: processing game 1100/1237
+2026-03-29 06:55:41,717  INFO    1960: processing game 1200/1237
+2026-03-29 06:56:17,670  INFO  Season 1960 done: 2455 outings inserted
+2026-03-29 06:56:20,671  INFO  Scraping season 1961…
+2026-03-29 06:56:20,672  ERROR    BBRef season 1961 failed: Year must be 2008 or later
+2026-03-29 06:56:21,665  INFO    1961: 1431 completed games found via MLB API
+2026-03-29 06:56:21,665  INFO    1961: processing game 0/1431
+2026-03-29 06:58:01,594  INFO    1961: processing game 100/1431
+2026-03-29 06:59:21,661  INFO    1961: processing game 200/1431
+2026-03-29 07:00:50,018  INFO    1961: processing game 300/1431
+2026-03-29 07:02:03,594  INFO    1961: processing game 400/1431
+2026-03-29 07:03:21,217  INFO    1961: processing game 500/1431
+2026-03-29 07:04:50,244  INFO    1961: processing game 600/1431
+2026-03-29 07:06:05,765  INFO    1961: processing game 700/1431
+2026-03-29 07:07:19,683  INFO    1961: processing game 800/1431
+2026-03-29 07:08:33,448  INFO    1961: processing game 900/1431
+2026-03-29 07:09:54,214  INFO    1961: processing game 1000/1431
+2026-03-29 07:11:29,539  INFO    1961: processing game 1100/1431
+2026-03-29 07:12:46,249  INFO    1961: processing game 1200/1431
+2026-03-29 07:14:05,732  INFO    1961: processing game 1300/1431
+2026-03-29 07:15:26,898  INFO    1961: processing game 1400/1431
+2026-03-29 07:15:50,240  INFO  Season 1961 done: 2847 outings inserted
+2026-03-29 07:15:53,241  INFO  Scraping season 1962…
+2026-03-29 07:15:53,243  ERROR    BBRef season 1962 failed: Year must be 2008 or later
+2026-03-29 07:15:54,840  INFO    1962: 1623 completed games found via MLB API
+2026-03-29 07:15:54,840  INFO    1962: processing game 0/1623
+2026-03-29 07:18:07,064  INFO    1962: processing game 100/1623
+2026-03-29 07:19:31,293  INFO    1962: processing game 200/1623
+2026-03-29 07:21:05,218  INFO    1962: processing game 300/1623
+2026-03-29 07:22:24,247  INFO    1962: processing game 400/1623
+2026-03-29 07:24:43,626  INFO    1962: processing game 500/1623
+2026-03-29 07:26:06,928  INFO    1962: processing game 600/1623
+2026-03-29 07:27:21,152  INFO    1962: processing game 700/1623
+2026-03-29 07:28:43,192  INFO    1962: processing game 800/1623
+2026-03-29 07:30:01,361  INFO    1962: processing game 900/1623
+2026-03-29 07:31:22,712  INFO    1962: processing game 1000/1623
+2026-03-29 07:32:38,193  INFO    1962: processing game 1100/1623
+2026-03-29 07:34:05,125  INFO    1962: processing game 1200/1623
+2026-03-29 07:35:28,704  INFO    1962: processing game 1300/1623
+2026-03-29 07:37:06,226  INFO    1962: processing game 1400/1623
+2026-03-29 07:39:00,849  INFO    1962: processing game 1500/1623
+2026-03-29 07:41:43,394  INFO    1962: processing game 1600/1623
+2026-03-29 07:42:15,041  INFO  Season 1962 done: 3233 outings inserted
+2026-03-29 07:42:18,043  INFO  Scraping season 1963…
+2026-03-29 07:42:18,044  ERROR    BBRef season 1963 failed: Year must be 2008 or later
+2026-03-29 07:42:19,612  INFO    1963: 1619 completed games found via MLB API
+2026-03-29 07:42:19,613  INFO    1963: processing game 0/1619
+2026-03-29 07:44:28,844  INFO    1963: processing game 100/1619
+2026-03-29 07:45:41,992  INFO    1963: processing game 200/1619
+2026-03-29 07:47:03,266  INFO    1963: processing game 300/1619
+2026-03-29 07:48:23,970  INFO    1963: processing game 400/1619
+2026-03-29 07:49:42,186  INFO    1963: processing game 500/1619
+2026-03-29 07:51:01,792  INFO    1963: processing game 600/1619
+2026-03-29 07:52:24,971  INFO    1963: processing game 700/1619
+2026-03-29 07:54:03,298  INFO    1963: processing game 800/1619
+2026-03-29 07:55:26,725  INFO    1963: processing game 900/1619
+2026-03-29 07:56:41,780  INFO    1963: processing game 1000/1619
+2026-03-29 07:58:10,565  INFO    1963: processing game 1100/1619
+2026-03-29 07:59:40,179  INFO    1963: processing game 1200/1619
+2026-03-29 08:01:06,241  INFO    1963: processing game 1300/1619
+2026-03-29 08:02:24,578  INFO    1963: processing game 1400/1619
+2026-03-29 08:03:43,987  INFO    1963: processing game 1500/1619
+2026-03-29 08:07:20,188  INFO    1963: processing game 1600/1619
+2026-03-29 08:07:55,214  INFO  Season 1963 done: 3226 outings inserted
+2026-03-29 08:07:58,215  INFO  Scraping season 1964…
+2026-03-29 08:07:58,216  ERROR    BBRef season 1964 failed: Year must be 2008 or later
+2026-03-29 08:07:59,256  INFO    1964: 1626 completed games found via MLB API
+2026-03-29 08:07:59,257  INFO    1964: processing game 0/1626
+2026-03-29 08:10:49,239  INFO    1964: processing game 100/1626
+2026-03-29 08:12:05,205  INFO    1964: processing game 200/1626
+2026-03-29 08:15:07,182  INFO    1964: processing game 300/1626
+2026-03-29 08:17:54,838  INFO    1964: processing game 400/1626
+2026-03-29 08:19:21,839  INFO    1964: processing game 500/1626
+2026-03-29 08:20:55,429  INFO    1964: processing game 600/1626
+2026-03-29 08:22:34,583  INFO    1964: processing game 700/1626
+2026-03-29 08:23:53,156  INFO    1964: processing game 800/1626
+2026-03-29 08:25:11,384  INFO    1964: processing game 900/1626
+2026-03-29 08:26:35,396  INFO    1964: processing game 1000/1626
+2026-03-29 08:27:53,141  INFO    1964: processing game 1100/1626
+2026-03-29 08:29:22,628  INFO    1964: processing game 1200/1626
+2026-03-29 08:30:44,554  INFO    1964: processing game 1300/1626
+2026-03-29 08:33:50,876  INFO    1964: processing game 1400/1626
+2026-03-29 08:35:20,647  INFO    1964: processing game 1500/1626
+2026-03-29 08:36:59,836  INFO    1964: processing game 1600/1626
+2026-03-29 08:37:46,873  INFO  Season 1964 done: 3227 outings inserted
+2026-03-29 08:37:49,874  INFO  Scraping season 1965…
+2026-03-29 08:37:49,875  ERROR    BBRef season 1965 failed: Year must be 2008 or later
+2026-03-29 08:37:50,657  INFO    1965: 1623 completed games found via MLB API
+2026-03-29 08:37:50,657  INFO    1965: processing game 0/1623
+2026-03-29 08:41:04,072  INFO    1965: processing game 100/1623
+2026-03-29 08:42:17,313  INFO    1965: processing game 200/1623
+2026-03-29 08:43:33,777  INFO    1965: processing game 300/1623
+2026-03-29 08:44:47,714  INFO    1965: processing game 400/1623
+2026-03-29 08:46:01,593  INFO    1965: processing game 500/1623
+2026-03-29 08:47:19,569  INFO    1965: processing game 600/1623
+2026-03-29 08:48:36,518  INFO    1965: processing game 700/1623
+2026-03-29 08:49:57,350  INFO    1965: processing game 800/1623
+2026-03-29 08:51:43,746  INFO    1965: processing game 900/1623
+2026-03-29 08:53:03,076  INFO    1965: processing game 1000/1623
+2026-03-29 08:54:25,884  INFO    1965: processing game 1100/1623
+2026-03-29 08:56:17,300  INFO    1965: processing game 1200/1623
+2026-03-29 08:57:35,398  INFO    1965: processing game 1300/1623
+2026-03-29 08:59:52,243  INFO    1965: processing game 1400/1623
+2026-03-29 09:01:26,383  INFO    1965: processing game 1500/1623
+2026-03-29 09:04:38,545  INFO    1965: processing game 1600/1623
+2026-03-29 09:05:38,953  INFO  Season 1965 done: 3229 outings inserted
+2026-03-29 09:05:41,954  INFO  Scraping season 1966…
+2026-03-29 09:05:41,956  ERROR    BBRef season 1966 failed: Year must be 2008 or later
+2026-03-29 09:05:42,894  INFO    1966: 1619 completed games found via MLB API
+2026-03-29 09:05:42,894  INFO    1966: processing game 0/1619
+2026-03-29 09:08:17,607  INFO    1966: processing game 100/1619
+2026-03-29 09:09:33,274  INFO    1966: processing game 200/1619
+2026-03-29 09:10:51,969  INFO    1966: processing game 300/1619
+2026-03-29 09:12:05,555  INFO    1966: processing game 400/1619
+2026-03-29 09:13:18,801  INFO    1966: processing game 500/1619
+2026-03-29 09:14:46,034  INFO    1966: processing game 600/1619
+2026-03-29 09:17:03,618  INFO    1966: processing game 700/1619
+2026-03-29 09:18:36,388  INFO    1966: processing game 800/1619
+2026-03-29 09:20:02,172  INFO    1966: processing game 900/1619
+2026-03-29 09:21:25,735  INFO    1966: processing game 1000/1619
+2026-03-29 09:22:43,797  INFO    1966: processing game 1100/1619
+2026-03-29 09:24:39,954  INFO    1966: processing game 1200/1619
+2026-03-29 09:26:07,346  INFO    1966: processing game 1300/1619
+2026-03-29 09:27:24,303  INFO    1966: processing game 1400/1619
+2026-03-29 09:29:42,351  INFO    1966: processing game 1500/1619
+2026-03-29 09:32:25,537  INFO    1966: processing game 1600/1619
+2026-03-29 09:33:13,890  INFO  Season 1966 done: 3229 outings inserted
+2026-03-29 09:33:16,891  INFO  Scraping season 1967…
+2026-03-29 09:33:16,892  ERROR    BBRef season 1967 failed: Year must be 2008 or later
+2026-03-29 09:33:18,028  INFO    1967: 1622 completed games found via MLB API
+2026-03-29 09:33:18,028  INFO    1967: processing game 0/1622
+2026-03-29 09:36:06,188  INFO    1967: processing game 100/1622
+2026-03-29 09:38:28,103  INFO    1967: processing game 200/1622
+2026-03-29 09:40:32,491  INFO    1967: processing game 300/1622
+2026-03-29 09:42:02,103  INFO    1967: processing game 400/1622
+2026-03-29 09:44:19,007  INFO    1967: processing game 500/1622
+2026-03-29 09:45:56,607  INFO    1967: processing game 600/1622
+2026-03-29 09:47:44,006  INFO    1967: processing game 700/1622
+2026-03-29 09:49:32,323  INFO    1967: processing game 800/1622
+2026-03-29 09:50:56,333  INFO    1967: processing game 900/1622
+2026-03-29 09:52:49,447  INFO    1967: processing game 1000/1622
+2026-03-29 09:54:38,386  INFO    1967: processing game 1100/1622
+2026-03-29 09:56:25,560  INFO    1967: processing game 1200/1622
+2026-03-29 09:58:08,520  INFO    1967: processing game 1300/1622
+2026-03-29 10:00:07,446  INFO    1967: processing game 1400/1622
+2026-03-29 10:02:09,619  INFO    1967: processing game 1500/1622
+2026-03-29 10:04:08,768  INFO    1967: processing game 1600/1622
+2026-03-29 10:04:28,407  INFO  Season 1967 done: 3229 outings inserted
+2026-03-29 10:04:31,408  INFO  Scraping season 1968…
+2026-03-29 10:04:31,410  ERROR    BBRef season 1968 failed: Year must be 2008 or later
+2026-03-29 10:04:32,140  INFO    1968: 1627 completed games found via MLB API
+2026-03-29 10:04:32,141  INFO    1968: processing game 0/1627
+2026-03-29 10:07:33,846  INFO    1968: processing game 100/1627
+2026-03-29 10:09:10,487  INFO    1968: processing game 200/1627
+2026-03-29 10:10:38,222  INFO    1968: processing game 300/1627
+2026-03-29 10:12:09,108  INFO    1968: processing game 400/1627
+2026-03-29 10:13:30,193  INFO    1968: processing game 500/1627
+2026-03-29 10:15:12,124  INFO    1968: processing game 600/1627
+2026-03-29 10:18:08,921  INFO    1968: processing game 700/1627
+2026-03-29 10:21:58,258  INFO    1968: processing game 800/1627
+2026-03-29 10:24:43,266  INFO    1968: processing game 900/1627
+2026-03-29 10:26:16,956  INFO    1968: processing game 1000/1627
+2026-03-29 10:27:39,712  INFO    1968: processing game 1100/1627
+2026-03-29 10:29:38,694  INFO    1968: processing game 1200/1627
+2026-03-29 10:32:01,997  INFO    1968: processing game 1300/1627
+2026-03-29 10:34:22,612  INFO    1968: processing game 1400/1627
+2026-03-29 10:37:08,053  INFO    1968: processing game 1500/1627
+2026-03-29 10:39:52,596  INFO    1968: processing game 1600/1627
+2026-03-29 10:41:06,440  INFO  Season 1968 done: 3241 outings inserted
+2026-03-29 10:41:09,442  INFO  Scraping season 1969…
+2026-03-29 10:41:09,443  ERROR    BBRef season 1969 failed: Year must be 2008 or later
+2026-03-29 10:41:10,284  INFO    1969: 1948 completed games found via MLB API
+2026-03-29 10:41:10,284  INFO    1969: processing game 0/1948
+2026-03-29 10:43:21,304  INFO    1969: processing game 100/1948
+2026-03-29 10:45:10,518  INFO    1969: processing game 200/1948
+2026-03-29 10:46:57,893  INFO    1969: processing game 300/1948
+2026-03-29 10:49:12,889  INFO    1969: processing game 400/1948
+2026-03-29 10:51:02,861  INFO    1969: processing game 500/1948
+2026-03-29 10:52:46,024  INFO    1969: processing game 600/1948
+2026-03-29 10:54:18,320  INFO    1969: processing game 700/1948
+2026-03-29 10:56:03,326  INFO    1969: processing game 800/1948
+2026-03-29 10:57:23,876  INFO    1969: processing game 900/1948
+2026-03-29 10:58:48,603  INFO    1969: processing game 1000/1948
+2026-03-29 11:00:07,569  INFO    1969: processing game 1100/1948
+2026-03-29 11:01:26,185  INFO    1969: processing game 1200/1948
+2026-03-29 11:03:13,467  INFO    1969: processing game 1300/1948
+2026-03-29 11:05:22,500  INFO    1969: processing game 1400/1948
+2026-03-29 11:06:45,945  INFO    1969: processing game 1500/1948
+2026-03-29 11:08:19,690  INFO    1969: processing game 1600/1948
+2026-03-29 11:12:28,345  INFO    1969: processing game 1700/1948
+2026-03-29 11:15:27,108  INFO    1969: processing game 1800/1948
+2026-03-29 11:16:49,911  INFO    1969: processing game 1900/1948
+2026-03-29 11:17:30,695  INFO  Season 1969 done: 3879 outings inserted
+2026-03-29 11:17:33,696  INFO  Scraping season 1970…
+2026-03-29 11:17:33,698  ERROR    BBRef season 1970 failed: Year must be 2008 or later
+2026-03-29 11:17:34,866  INFO    1970: 1945 completed games found via MLB API
+2026-03-29 11:17:34,867  INFO    1970: processing game 0/1945
+2026-03-29 11:19:09,542  INFO    1970: processing game 100/1945
+2026-03-29 11:20:38,359  INFO    1970: processing game 200/1945
+2026-03-29 11:23:14,716  INFO    1970: processing game 300/1945
+2026-03-29 11:24:51,530  INFO    1970: processing game 400/1945
+2026-03-29 11:26:19,445  INFO    1970: processing game 500/1945
+2026-03-29 11:27:40,830  INFO    1970: processing game 600/1945
+2026-03-29 11:30:10,176  INFO    1970: processing game 700/1945
+2026-03-29 11:31:40,856  INFO    1970: processing game 800/1945
+2026-03-29 11:33:05,683  INFO    1970: processing game 900/1945
+2026-03-29 11:36:32,748  INFO    1970: processing game 1000/1945
+2026-03-29 11:39:21,201  INFO    1970: processing game 1100/1945
+2026-03-29 11:40:41,613  INFO    1970: processing game 1200/1945
+2026-03-29 11:42:15,339  INFO    1970: processing game 1300/1945
+2026-03-29 11:43:53,112  INFO    1970: processing game 1400/1945
+2026-03-29 11:45:23,440  INFO    1970: processing game 1500/1945
+2026-03-29 11:47:12,178  INFO    1970: processing game 1600/1945
+2026-03-29 11:50:04,354  INFO    1970: processing game 1700/1945
+2026-03-29 11:51:30,343  INFO    1970: processing game 1800/1945
+2026-03-29 11:53:11,448  INFO    1970: processing game 1900/1945
+2026-03-29 11:53:48,237  INFO  Season 1970 done: 3873 outings inserted
+2026-03-29 11:53:51,239  INFO  Scraping season 1971…
+2026-03-29 11:53:51,240  ERROR    BBRef season 1971 failed: Year must be 2008 or later
+2026-03-29 11:53:52,218  INFO    1971: 1944 completed games found via MLB API
+2026-03-29 11:53:52,219  INFO    1971: processing game 0/1944
+2026-03-29 11:55:53,672  INFO    1971: processing game 100/1944
+2026-03-29 11:57:14,736  INFO    1971: processing game 200/1944
+2026-03-29 11:58:39,990  INFO    1971: processing game 300/1944
+2026-03-29 12:00:00,694  INFO    1971: processing game 400/1944
+2026-03-29 12:01:23,584  INFO    1971: processing game 500/1944
+2026-03-29 12:03:09,893  INFO    1971: processing game 600/1944
+2026-03-29 12:04:33,352  INFO    1971: processing game 700/1944
+2026-03-29 12:05:52,013  INFO    1971: processing game 800/1944
+2026-03-29 12:07:10,539  INFO    1971: processing game 900/1944
+2026-03-29 12:08:39,872  INFO    1971: processing game 1000/1944
+2026-03-29 12:10:15,792  INFO    1971: processing game 1100/1944
+2026-03-29 12:14:00,262  INFO    1971: processing game 1200/1944
+2026-03-29 12:15:37,236  INFO    1971: processing game 1300/1944
+2026-03-29 12:17:19,058  INFO    1971: processing game 1400/1944
+2026-03-29 12:18:44,014  INFO    1971: processing game 1500/1944
+2026-03-29 12:20:23,992  INFO    1971: processing game 1600/1944
+2026-03-29 12:21:48,015  INFO    1971: processing game 1700/1944
+2026-03-29 12:24:12,531  INFO    1971: processing game 1800/1944
+2026-03-29 12:26:02,350  INFO    1971: processing game 1900/1944
+2026-03-29 12:27:16,912  INFO  Season 1971 done: 3873 outings inserted
+2026-03-29 12:27:19,913  INFO  Scraping season 1972…
+2026-03-29 12:27:19,914  ERROR    BBRef season 1972 failed: Year must be 2008 or later
+2026-03-29 12:27:21,028  INFO    1972: 1861 completed games found via MLB API
+2026-03-29 12:27:21,029  INFO    1972: processing game 0/1861
+2026-03-29 12:29:05,140  INFO    1972: processing game 100/1861
+2026-03-29 12:31:44,074  INFO    1972: processing game 200/1861
+2026-03-29 12:33:31,275  INFO    1972: processing game 300/1861
+2026-03-29 12:34:54,223  INFO    1972: processing game 400/1861
+2026-03-29 12:36:45,805  INFO    1972: processing game 500/1861
+2026-03-29 12:38:08,387  INFO    1972: processing game 600/1861
+2026-03-29 12:39:45,415  INFO    1972: processing game 700/1861
+2026-03-29 12:41:46,491  INFO    1972: processing game 800/1861
+2026-03-29 12:43:15,411  INFO    1972: processing game 900/1861
+2026-03-29 12:44:48,626  INFO    1972: processing game 1000/1861
+2026-03-29 12:46:36,511  INFO    1972: processing game 1100/1861
+2026-03-29 12:48:39,412  INFO    1972: processing game 1200/1861
+2026-03-29 12:51:03,730  INFO    1972: processing game 1300/1861
+2026-03-29 12:52:25,184  INFO    1972: processing game 1400/1861
+2026-03-29 12:53:44,635  INFO    1972: processing game 1500/1861
+2026-03-29 12:55:03,489  INFO    1972: processing game 1600/1861
+2026-03-29 12:56:27,846  INFO    1972: processing game 1700/1861
+2026-03-29 12:58:09,781  INFO    1972: processing game 1800/1861
+2026-03-29 12:59:04,375  INFO  Season 1972 done: 3710 outings inserted
+2026-03-29 12:59:07,376  INFO  Scraping season 1973…
+2026-03-29 12:59:07,376  ERROR    BBRef season 1973 failed: Year must be 2008 or later
+2026-03-29 12:59:08,079  INFO    1973: 1947 completed games found via MLB API
+2026-03-29 12:59:08,079  INFO    1973: processing game 0/1947
+2026-03-29 13:00:29,435  INFO    1973: processing game 100/1947
+2026-03-29 13:01:46,593  INFO    1973: processing game 200/1947
+2026-03-29 13:03:17,470  INFO    1973: processing game 300/1947
+2026-03-29 13:04:41,851  INFO    1973: processing game 400/1947
+2026-03-29 13:06:06,100  INFO    1973: processing game 500/1947
+2026-03-29 13:07:28,918  INFO    1973: processing game 600/1947
+2026-03-29 13:09:36,007  INFO    1973: processing game 700/1947
+2026-03-29 13:11:06,423  INFO    1973: processing game 800/1947
+2026-03-29 13:12:43,922  INFO    1973: processing game 900/1947
+2026-03-29 13:14:10,347  INFO    1973: processing game 1000/1947
+2026-03-29 13:15:43,871  INFO    1973: processing game 1100/1947
+2026-03-29 13:17:14,046  INFO    1973: processing game 1200/1947
+2026-03-29 13:19:36,816  INFO    1973: processing game 1300/1947
+2026-03-29 13:20:58,790  INFO    1973: processing game 1400/1947
+2026-03-29 13:22:20,709  INFO    1973: processing game 1500/1947
+2026-03-29 13:24:14,031  INFO    1973: processing game 1600/1947
+2026-03-29 13:25:48,369  INFO    1973: processing game 1700/1947
+2026-03-29 13:27:41,444  INFO    1973: processing game 1800/1947
+2026-03-29 13:29:31,153  INFO    1973: processing game 1900/1947
+2026-03-29 13:30:08,877  INFO  Season 1973 done: 3875 outings inserted
+2026-03-29 13:30:11,878  INFO  Scraping season 1974…
+2026-03-29 13:30:11,879  ERROR    BBRef season 1974 failed: Year must be 2008 or later
+2026-03-29 13:30:12,642  INFO    1974: 1946 completed games found via MLB API
+2026-03-29 13:30:12,642  INFO    1974: processing game 0/1946
+2026-03-29 13:31:39,677  INFO    1974: processing game 100/1946
+2026-03-29 13:33:30,910  INFO    1974: processing game 200/1946
+2026-03-29 13:35:23,419  INFO    1974: processing game 300/1946
+2026-03-29 13:36:48,088  INFO    1974: processing game 400/1946
+2026-03-29 13:38:25,841  INFO    1974: processing game 500/1946
+2026-03-29 13:39:46,031  INFO    1974: processing game 600/1946
+2026-03-29 13:41:04,555  INFO    1974: processing game 700/1946
+2026-03-29 13:42:48,038  INFO    1974: processing game 800/1946
+2026-03-29 13:44:28,185  INFO    1974: processing game 900/1946
+2026-03-29 13:45:55,480  INFO    1974: processing game 1000/1946
+2026-03-29 13:47:40,311  INFO    1974: processing game 1100/1946
+2026-03-29 13:49:15,303  INFO    1974: processing game 1200/1946
+2026-03-29 13:50:54,491  INFO    1974: processing game 1300/1946
+2026-03-29 13:53:44,956  INFO    1974: processing game 1400/1946
+2026-03-29 13:55:40,391  INFO    1974: processing game 1500/1946
+2026-03-29 13:57:37,741  INFO    1974: processing game 1600/1946
+2026-03-29 13:59:08,719  INFO    1974: processing game 1700/1946
+2026-03-29 14:01:18,453  INFO    1974: processing game 1800/1946
+2026-03-29 14:03:51,777  INFO    1974: processing game 1900/1946
+2026-03-29 14:04:30,531  INFO  Season 1974 done: 3872 outings inserted
+2026-03-29 14:04:33,531  INFO  Scraping season 1975…
+2026-03-29 14:04:33,532  ERROR    BBRef season 1975 failed: Year must be 2008 or later
+2026-03-29 14:04:34,691  INFO    1975: 1941 completed games found via MLB API
+2026-03-29 14:04:34,691  INFO    1975: processing game 0/1941
+2026-03-29 14:06:49,005  INFO    1975: processing game 100/1941
+2026-03-29 14:08:46,795  INFO    1975: processing game 200/1941
+2026-03-29 14:10:33,537  INFO    1975: processing game 300/1941
+2026-03-29 14:12:15,694  INFO    1975: processing game 400/1941
+2026-03-29 14:14:12,066  INFO    1975: processing game 500/1941
+2026-03-29 14:15:45,752  INFO    1975: processing game 600/1941
+2026-03-29 14:17:14,349  INFO    1975: processing game 700/1941
+2026-03-29 14:18:50,086  INFO    1975: processing game 800/1941
+2026-03-29 14:20:12,061  INFO    1975: processing game 900/1941
+2026-03-29 14:21:38,820  INFO    1975: processing game 1000/1941
+2026-03-29 14:23:01,999  INFO    1975: processing game 1100/1941
+2026-03-29 14:24:17,787  INFO    1975: processing game 1200/1941
+2026-03-29 14:26:01,507  INFO    1975: processing game 1300/1941
+2026-03-29 14:27:26,805  INFO    1975: processing game 1400/1941
+2026-03-29 14:28:50,509  INFO    1975: processing game 1500/1941
+2026-03-29 14:30:38,286  INFO    1975: processing game 1600/1941
+2026-03-29 14:32:47,898  INFO    1975: processing game 1700/1941
+2026-03-29 14:35:51,688  INFO    1975: processing game 1800/1941
+2026-03-29 14:38:30,014  INFO    1975: processing game 1900/1941
+2026-03-29 14:39:10,590  INFO  Season 1975 done: 3867 outings inserted
+2026-03-29 14:39:13,591  INFO  Scraping season 1976…
+2026-03-29 14:39:13,592  ERROR    BBRef season 1976 failed: Year must be 2008 or later
+2026-03-29 14:39:14,690  INFO    1976: 1941 completed games found via MLB API
+2026-03-29 14:39:14,690  INFO    1976: processing game 0/1941
+2026-03-29 14:40:55,779  INFO    1976: processing game 100/1941
+2026-03-29 14:42:40,469  INFO    1976: processing game 200/1941
+2026-03-29 14:44:00,523  INFO    1976: processing game 300/1941
+2026-03-29 14:45:25,030  INFO    1976: processing game 400/1941
+2026-03-29 14:46:47,861  INFO    1976: processing game 500/1941
+2026-03-29 14:50:26,206  INFO    1976: processing game 600/1941
+2026-03-29 14:52:14,444  INFO    1976: processing game 700/1941
+2026-03-29 14:53:44,879  INFO    1976: processing game 800/1941
+2026-03-29 14:55:19,048  INFO    1976: processing game 900/1941
+2026-03-29 14:56:58,399  INFO    1976: processing game 1000/1941
+2026-03-29 14:58:29,409  INFO    1976: processing game 1100/1941
+2026-03-29 14:59:49,101  INFO    1976: processing game 1200/1941
+2026-03-29 15:01:20,299  INFO    1976: processing game 1300/1941
+2026-03-29 15:02:46,872  INFO    1976: processing game 1400/1941
+2026-03-29 15:04:31,006  INFO    1976: processing game 1500/1941
+2026-03-29 15:07:29,094  INFO    1976: processing game 1600/1941
+2026-03-29 15:10:33,388  INFO    1976: processing game 1700/1941
+2026-03-29 15:13:43,088  INFO    1976: processing game 1800/1941
+2026-03-29 15:16:01,969  INFO    1976: processing game 1900/1941
+2026-03-29 15:16:39,438  INFO  Season 1976 done: 3872 outings inserted
+2026-03-29 15:16:42,439  INFO  Scraping season 1977…
+2026-03-29 15:16:42,439  ERROR    BBRef season 1977 failed: Year must be 2008 or later
+2026-03-29 15:16:43,592  INFO    1977: 2104 completed games found via MLB API
+2026-03-29 15:16:43,592  INFO    1977: processing game 0/2104
+2026-03-29 15:19:35,654  INFO    1977: processing game 100/2104
+2026-03-29 15:21:05,460  INFO    1977: processing game 200/2104
+2026-03-29 15:22:48,585  INFO    1977: processing game 300/2104
+2026-03-29 15:24:20,880  INFO    1977: processing game 400/2104
+2026-03-29 15:26:02,279  INFO    1977: processing game 500/2104
+2026-03-29 15:27:35,400  INFO    1977: processing game 600/2104
+2026-03-29 15:29:18,373  INFO    1977: processing game 700/2104
+2026-03-29 15:32:13,921  INFO    1977: processing game 800/2104
+2026-03-29 15:33:56,786  INFO    1977: processing game 900/2104
+2026-03-29 15:35:47,352  INFO    1977: processing game 1000/2104
+2026-03-29 15:37:22,363  INFO    1977: processing game 1100/2104
+2026-03-29 15:38:41,598  INFO    1977: processing game 1200/2104
+2026-03-29 15:40:13,121  INFO    1977: processing game 1300/2104
+2026-03-29 15:41:57,360  INFO    1977: processing game 1400/2104
+2026-03-29 15:43:22,986  INFO    1977: processing game 1500/2104
+2026-03-29 15:44:45,688  INFO    1977: processing game 1600/2104
+2026-03-29 15:46:52,560  INFO    1977: processing game 1700/2104
+2026-03-29 15:50:20,265  INFO    1977: processing game 1800/2104
+2026-03-29 15:53:19,682  INFO    1977: processing game 1900/2104
+2026-03-29 15:55:39,656  INFO    1977: processing game 2000/2104
+2026-03-29 15:57:02,809  INFO    1977: processing game 2100/2104
+2026-03-29 15:57:06,283  INFO  Season 1977 done: 4190 outings inserted
+2026-03-29 15:57:09,284  INFO  Scraping season 1978…
+2026-03-29 15:57:09,285  ERROR    BBRef season 1978 failed: Year must be 2008 or later
+2026-03-29 15:57:10,457  INFO    1978: 2107 completed games found via MLB API
+2026-03-29 15:57:10,457  INFO    1978: processing game 0/2107
+2026-03-29 15:59:18,054  INFO    1978: processing game 100/2107
+2026-03-29 16:01:08,773  INFO    1978: processing game 200/2107
+2026-03-29 16:03:03,767  INFO    1978: processing game 300/2107
+2026-03-29 16:04:53,987  INFO    1978: processing game 400/2107
+2026-03-29 16:06:50,948  INFO    1978: processing game 500/2107
+2026-03-29 16:08:38,585  INFO    1978: processing game 600/2107
+2026-03-29 16:10:15,330  INFO    1978: processing game 700/2107
+2026-03-29 16:11:48,343  INFO    1978: processing game 800/2107
+2026-03-29 16:14:03,376  INFO    1978: processing game 900/2107
+2026-03-29 16:16:56,536  INFO    1978: processing game 1000/2107
+2026-03-29 16:20:47,327  INFO    1978: processing game 1100/2107
+2026-03-29 16:25:04,882  INFO    1978: processing game 1200/2107
+2026-03-29 16:27:36,896  INFO    1978: processing game 1300/2107
+2026-03-29 16:29:05,546  INFO    1978: processing game 1400/2107
+2026-03-29 16:30:27,094  INFO    1978: processing game 1500/2107
+2026-03-29 16:32:44,235  INFO    1978: processing game 1600/2107
+2026-03-29 16:34:07,168  INFO    1978: processing game 1700/2107
+2026-03-29 16:36:45,614  INFO    1978: processing game 1800/2107
+2026-03-29 16:39:52,090  INFO    1978: processing game 1900/2107
+2026-03-29 16:41:47,403  INFO    1978: processing game 2000/2107
+2026-03-29 16:44:25,287  INFO    1978: processing game 2100/2107
+2026-03-29 16:44:41,540  INFO  Season 1978 done: 4201 outings inserted
+2026-03-29 16:44:44,541  INFO  Scraping season 1979…
+2026-03-29 16:44:44,542  ERROR    BBRef season 1979 failed: Year must be 2008 or later
+2026-03-29 16:44:45,788  INFO    1979: 2103 completed games found via MLB API
+2026-03-29 16:44:45,788  INFO    1979: processing game 0/2103
+2026-03-29 16:46:18,852  INFO    1979: processing game 100/2103
+2026-03-29 16:47:45,412  INFO    1979: processing game 200/2103
+2026-03-29 16:49:03,322  INFO    1979: processing game 300/2103
+2026-03-29 16:51:45,660  INFO    1979: processing game 400/2103
+2026-03-29 16:53:55,138  INFO    1979: processing game 500/2103
+2026-03-29 16:55:23,328  INFO    1979: processing game 600/2103
+2026-03-29 16:56:43,662  INFO    1979: processing game 700/2103
+2026-03-29 16:58:06,080  INFO    1979: processing game 800/2103
+2026-03-29 16:59:57,022  INFO    1979: processing game 900/2103
+2026-03-29 17:02:48,847  INFO    1979: processing game 1000/2103
+2026-03-29 17:04:16,777  INFO    1979: processing game 1100/2103
+2026-03-29 17:06:25,822  INFO    1979: processing game 1200/2103
+2026-03-29 17:08:09,063  INFO    1979: processing game 1300/2103
+2026-03-29 17:09:40,484  INFO    1979: processing game 1400/2103
+2026-03-29 17:11:06,750  INFO    1979: processing game 1500/2103
+2026-03-29 17:12:38,986  INFO    1979: processing game 1600/2103
+2026-03-29 17:14:12,739  INFO    1979: processing game 1700/2103
+2026-03-29 17:16:29,633  INFO    1979: processing game 1800/2103
+2026-03-29 17:18:41,114  INFO    1979: processing game 1900/2103
+2026-03-29 17:20:30,455  INFO    1979: processing game 2000/2103
+2026-03-29 17:23:05,135  INFO    1979: processing game 2100/2103
+2026-03-29 17:23:07,426  INFO  Season 1979 done: 4192 outings inserted
+2026-03-29 17:23:10,427  INFO  Scraping season 1980…
+2026-03-29 17:23:10,428  ERROR    BBRef season 1980 failed: Year must be 2008 or later
+2026-03-29 17:23:11,513  INFO    1980: 2110 completed games found via MLB API
+2026-03-29 17:23:11,513  INFO    1980: processing game 0/2110
+2026-03-29 17:25:36,318  INFO    1980: processing game 100/2110
+2026-03-29 17:27:58,959  INFO    1980: processing game 200/2110
+2026-03-29 17:29:19,234  INFO    1980: processing game 300/2110
+2026-03-29 17:30:38,735  INFO    1980: processing game 400/2110
+2026-03-29 17:32:08,246  INFO    1980: processing game 500/2110
+2026-03-29 17:34:47,272  INFO    1980: processing game 600/2110
+2026-03-29 17:36:44,207  INFO    1980: processing game 700/2110
+2026-03-29 17:38:55,255  INFO    1980: processing game 800/2110
+2026-03-29 17:40:43,105  INFO    1980: processing game 900/2110
+2026-03-29 17:42:00,462  INFO    1980: processing game 1000/2110
+2026-03-29 17:44:22,668  INFO    1980: processing game 1100/2110
+2026-03-29 17:46:51,821  INFO    1980: processing game 1200/2110
+2026-03-29 17:48:20,182  INFO    1980: processing game 1300/2110
+2026-03-29 17:50:35,988  INFO    1980: processing game 1400/2110
+2026-03-29 17:52:54,276  INFO    1980: processing game 1500/2110
+2026-03-29 17:54:12,893  INFO    1980: processing game 1600/2110
+2026-03-29 17:55:46,169  INFO    1980: processing game 1700/2110
+2026-03-29 17:58:21,870  INFO    1980: processing game 1800/2110
+2026-03-29 18:02:07,265  INFO    1980: processing game 1900/2110
+2026-03-29 18:04:20,008  INFO    1980: processing game 2000/2110
+2026-03-29 18:05:45,143  INFO    1980: processing game 2100/2110
+2026-03-29 18:05:57,529  INFO  Season 1980 done: 4207 outings inserted
+2026-03-29 18:06:00,530  INFO  Scraping season 1981…
+2026-03-29 18:06:00,531  ERROR    BBRef season 1981 failed: Year must be 2008 or later
+2026-03-29 18:06:01,323  INFO    1981: 1396 completed games found via MLB API
+2026-03-29 18:06:01,323  INFO    1981: processing game 0/1396
+2026-03-29 18:07:44,948  INFO    1981: processing game 100/1396
+2026-03-29 18:09:51,700  INFO    1981: processing game 200/1396
+2026-03-29 18:11:53,007  INFO    1981: processing game 300/1396
+2026-03-29 18:13:37,884  INFO    1981: processing game 400/1396
+2026-03-29 18:15:03,604  INFO    1981: processing game 500/1396
+2026-03-29 18:16:20,681  INFO    1981: processing game 600/1396
+2026-03-29 18:18:15,600  INFO    1981: processing game 700/1396
+2026-03-29 18:20:41,734  INFO    1981: processing game 800/1396
+2026-03-29 18:22:46,369  INFO    1981: processing game 900/1396
+2026-03-29 18:26:21,259  INFO    1981: processing game 1000/1396
+2026-03-29 18:28:59,109  INFO    1981: processing game 1100/1396
+2026-03-29 18:30:51,793  INFO    1981: processing game 1200/1396
+2026-03-29 18:32:15,352  INFO    1981: processing game 1300/1396
+2026-03-29 18:33:31,329  INFO  Season 1981 done: 2781 outings inserted
+2026-03-29 18:33:34,330  INFO  Scraping season 1982…
+2026-03-29 18:33:34,330  ERROR    BBRef season 1982 failed: Year must be 2008 or later
+2026-03-29 18:33:35,126  INFO    1982: 2112 completed games found via MLB API
+2026-03-29 18:33:35,127  INFO    1982: processing game 0/2112
+2026-03-29 18:35:28,986  INFO    1982: processing game 100/2112
+2026-03-29 18:37:04,031  INFO    1982: processing game 200/2112
+2026-03-29 18:38:24,031  INFO    1982: processing game 300/2112
+2026-03-29 18:39:43,477  INFO    1982: processing game 400/2112
+2026-03-29 18:41:05,706  INFO    1982: processing game 500/2112
+2026-03-29 18:42:26,706  INFO    1982: processing game 600/2112
+2026-03-29 18:44:27,683  INFO    1982: processing game 700/2112
+2026-03-29 18:45:51,637  INFO    1982: processing game 800/2112
+2026-03-29 18:47:08,794  INFO    1982: processing game 900/2112
+2026-03-29 18:50:04,058  INFO    1982: processing game 1000/2112
+2026-03-29 18:51:39,902  INFO    1982: processing game 1100/2112
+2026-03-29 18:54:24,284  INFO    1982: processing game 1200/2112
+2026-03-29 18:55:46,830  INFO    1982: processing game 1300/2112
+2026-03-29 18:57:03,849  INFO    1982: processing game 1400/2112
+2026-03-29 18:58:56,554  INFO    1982: processing game 1500/2112
+2026-03-29 19:01:03,388  INFO    1982: processing game 1600/2112
+2026-03-29 19:03:12,444  INFO    1982: processing game 1700/2112
+2026-03-29 19:05:33,571  INFO    1982: processing game 1800/2112
+2026-03-29 19:09:20,564  INFO    1982: processing game 1900/2112
+2026-03-29 19:11:27,657  INFO    1982: processing game 2000/2112
+2026-03-29 19:14:11,993  INFO    1982: processing game 2100/2112
+2026-03-29 19:14:45,856  INFO  Season 1982 done: 4208 outings inserted
+2026-03-29 19:14:48,857  INFO  Scraping season 1983…
+2026-03-29 19:14:48,858  ERROR    BBRef season 1983 failed: Year must be 2008 or later
+2026-03-29 19:14:49,633  INFO    1983: 2112 completed games found via MLB API
+2026-03-29 19:14:49,633  INFO    1983: processing game 0/2112
+2026-03-29 19:17:06,704  INFO    1983: processing game 100/2112
+2026-03-29 19:20:49,533  INFO    1983: processing game 200/2112
+2026-03-29 19:22:09,296  INFO    1983: processing game 300/2112
+2026-03-29 19:23:49,867  INFO    1983: processing game 400/2112
+2026-03-29 19:25:23,887  INFO    1983: processing game 500/2112
+2026-03-29 19:26:44,538  INFO    1983: processing game 600/2112
+2026-03-29 19:29:04,444  INFO    1983: processing game 700/2112
+2026-03-29 19:31:04,094  INFO    1983: processing game 800/2112
+2026-03-29 19:32:49,104  INFO    1983: processing game 900/2112
+2026-03-29 19:36:06,322  INFO    1983: processing game 1000/2112
+2026-03-29 19:39:14,005  INFO    1983: processing game 1100/2112
+2026-03-29 19:41:39,627  INFO    1983: processing game 1200/2112
+2026-03-29 19:43:10,157  INFO    1983: processing game 1300/2112
+2026-03-29 19:45:08,876  INFO    1983: processing game 1400/2112
+2026-03-29 19:47:03,041  INFO    1983: processing game 1500/2112
+2026-03-29 19:48:33,034  INFO    1983: processing game 1600/2112
+2026-03-29 19:50:46,278  INFO    1983: processing game 1700/2112
+2026-03-29 19:54:10,979  INFO    1983: processing game 1800/2112
+2026-03-29 19:57:03,231  INFO    1983: processing game 1900/2112
+2026-03-29 19:58:56,729  INFO    1983: processing game 2000/2112
+2026-03-29 20:01:41,545  INFO    1983: processing game 2100/2112
+2026-03-29 20:02:06,136  INFO  Season 1983 done: 4212 outings inserted
+2026-03-29 20:02:09,137  INFO  Scraping season 1984…
+2026-03-29 20:02:09,138  ERROR    BBRef season 1984 failed: Year must be 2008 or later
+2026-03-29 20:02:09,919  INFO    1984: 2106 completed games found via MLB API
+2026-03-29 20:02:09,920  INFO    1984: processing game 0/2106
+2026-03-29 20:05:03,134  INFO    1984: processing game 100/2106
+2026-03-29 20:06:48,191  INFO    1984: processing game 200/2106
+2026-03-29 20:09:33,978  INFO    1984: processing game 300/2106
+2026-03-29 20:12:24,609  INFO    1984: processing game 400/2106
+2026-03-29 20:13:52,677  INFO    1984: processing game 500/2106
+2026-03-29 20:16:22,138  INFO    1984: processing game 600/2106
+2026-03-29 20:18:22,805  INFO    1984: processing game 700/2106
+2026-03-29 20:20:31,325  INFO    1984: processing game 800/2106
+2026-03-29 20:22:05,747  INFO    1984: processing game 900/2106
+2026-03-29 20:23:47,057  INFO    1984: processing game 1000/2106
+2026-03-29 20:25:17,070  INFO    1984: processing game 1100/2106
+2026-03-29 20:26:48,649  INFO    1984: processing game 1200/2106
+2026-03-29 20:28:41,613  INFO    1984: processing game 1300/2106
+2026-03-29 20:31:27,439  INFO    1984: processing game 1400/2106
+2026-03-29 20:33:15,813  INFO    1984: processing game 1500/2106
+2026-03-29 20:34:48,876  INFO    1984: processing game 1600/2106
+2026-03-29 20:36:13,606  INFO    1984: processing game 1700/2106
+2026-03-29 20:38:24,955  INFO    1984: processing game 1800/2106
+2026-03-29 20:40:37,299  INFO    1984: processing game 1900/2106
+2026-03-29 20:42:03,115  INFO    1984: processing game 2000/2106
+2026-03-29 20:44:12,797  INFO    1984: processing game 2100/2106
+2026-03-29 20:44:18,332  INFO  Season 1984 done: 4205 outings inserted
+2026-03-29 20:44:21,333  INFO  Scraping season 1985…
+2026-03-29 20:44:21,334  ERROR    BBRef season 1985 failed: Year must be 2008 or later
+2026-03-29 20:44:22,497  INFO    1985: 2104 completed games found via MLB API
+2026-03-29 20:44:22,497  INFO    1985: processing game 0/2104
+2026-03-29 20:46:16,932  INFO    1985: processing game 100/2104
+2026-03-29 20:48:03,438  INFO    1985: processing game 200/2104
+2026-03-29 20:50:13,285  INFO    1985: processing game 300/2104
+2026-03-29 20:51:48,566  INFO    1985: processing game 400/2104
+2026-03-29 20:54:16,503  INFO    1985: processing game 500/2104
+2026-03-29 20:56:00,695  INFO    1985: processing game 600/2104
+2026-03-29 20:57:35,993  INFO    1985: processing game 700/2104
+2026-03-29 20:58:53,802  INFO    1985: processing game 800/2104
+2026-03-29 21:00:16,637  INFO    1985: processing game 900/2104
+2026-03-29 21:02:46,449  INFO    1985: processing game 1000/2104
+2026-03-29 21:04:54,864  INFO    1985: processing game 1100/2104
+2026-03-29 21:06:52,746  INFO    1985: processing game 1200/2104
+2026-03-29 21:09:22,563  INFO    1985: processing game 1300/2104
+2026-03-29 21:10:55,900  INFO    1985: processing game 1400/2104
+2026-03-29 21:14:24,338  INFO    1985: processing game 1500/2104
+2026-03-29 21:17:13,381  INFO    1985: processing game 1600/2104
+2026-03-29 21:18:33,322  INFO    1985: processing game 1700/2104
+2026-03-29 21:20:21,082  INFO    1985: processing game 1800/2104
+2026-03-29 21:21:52,704  INFO    1985: processing game 1900/2104
+2026-03-29 21:23:58,155  INFO    1985: processing game 2000/2104
+2026-03-29 21:25:38,747  INFO    1985: processing game 2100/2104
+2026-03-29 21:25:42,121  INFO  Season 1985 done: 4200 outings inserted
+2026-03-29 21:25:45,122  INFO  Scraping season 1986…
+2026-03-29 21:25:45,122  ERROR    BBRef season 1986 failed: Year must be 2008 or later
+2026-03-29 21:25:45,943  INFO    1986: 2109 completed games found via MLB API
+2026-03-29 21:25:45,944  INFO    1986: processing game 0/2109
+2026-03-29 21:27:31,036  INFO    1986: processing game 100/2109
+2026-03-29 21:29:00,051  INFO    1986: processing game 200/2109
+2026-03-29 21:30:39,805  INFO    1986: processing game 300/2109
+2026-03-29 21:32:33,455  INFO    1986: processing game 400/2109
+2026-03-29 21:34:13,596  INFO    1986: processing game 500/2109
+2026-03-29 21:35:33,598  INFO    1986: processing game 600/2109
+2026-03-29 21:37:05,885  INFO    1986: processing game 700/2109
+2026-03-29 21:38:35,412  INFO    1986: processing game 800/2109
+2026-03-29 21:41:12,316  INFO    1986: processing game 900/2109
+2026-03-29 21:42:43,516  INFO    1986: processing game 1000/2109
+2026-03-29 21:44:32,856  INFO    1986: processing game 1100/2109
+2026-03-29 21:45:59,255  INFO    1986: processing game 1200/2109
+2026-03-29 21:47:33,680  INFO    1986: processing game 1300/2109
+2026-03-29 21:49:05,694  INFO    1986: processing game 1400/2109
+2026-03-29 21:50:41,775  INFO    1986: processing game 1500/2109
+2026-03-29 21:52:42,907  INFO    1986: processing game 1600/2109
+2026-03-29 21:54:07,522  INFO    1986: processing game 1700/2109
+2026-03-29 21:55:33,975  INFO    1986: processing game 1800/2109
+2026-03-29 21:56:54,389  INFO    1986: processing game 1900/2109
+2026-03-29 21:58:26,747  INFO    1986: processing game 2000/2109
+2026-03-29 21:59:45,403  INFO    1986: processing game 2100/2109
+2026-03-29 21:59:54,517  INFO  Season 1986 done: 4201 outings inserted
+2026-03-29 21:59:57,518  INFO  Scraping season 1987…
+2026-03-29 21:59:57,518  ERROR    BBRef season 1987 failed: Year must be 2008 or later
+2026-03-29 21:59:58,328  INFO    1987: 2108 completed games found via MLB API
+2026-03-29 21:59:58,328  INFO    1987: processing game 0/2108
+2026-03-29 22:01:21,207  INFO    1987: processing game 100/2108
+2026-03-29 22:02:52,270  INFO    1987: processing game 200/2108
+2026-03-29 22:04:37,727  INFO    1987: processing game 300/2108
+2026-03-29 22:06:04,493  INFO    1987: processing game 400/2108
+2026-03-29 22:07:32,516  INFO    1987: processing game 500/2108
+2026-03-29 22:09:23,244  INFO    1987: processing game 600/2108
+2026-03-29 22:10:58,445  INFO    1987: processing game 700/2108
+2026-03-29 22:12:18,453  INFO    1987: processing game 800/2108
+2026-03-29 22:15:47,105  INFO    1987: processing game 900/2108
+2026-03-29 22:17:08,873  INFO    1987: processing game 1000/2108
+2026-03-29 22:19:26,121  INFO    1987: processing game 1100/2108
+2026-03-29 22:21:25,086  INFO    1987: processing game 1200/2108
+2026-03-29 22:22:49,143  INFO    1987: processing game 1300/2108
+2026-03-29 22:24:41,887  INFO    1987: processing game 1400/2108
+2026-03-29 22:26:27,430  INFO    1987: processing game 1500/2108
+2026-03-29 22:28:19,834  INFO    1987: processing game 1600/2108
+2026-03-29 22:29:59,016  INFO    1987: processing game 1700/2108
+2026-03-29 22:31:33,121  INFO    1987: processing game 1800/2108
+2026-03-29 22:33:55,634  INFO    1987: processing game 1900/2108
+2026-03-29 22:36:33,793  INFO    1987: processing game 2000/2108
+2026-03-29 22:37:57,512  INFO    1987: processing game 2100/2108
+2026-03-29 22:38:03,722  INFO  Season 1987 done: 4205 outings inserted
+2026-03-29 22:38:06,723  INFO  Scraping season 1988…
+2026-03-29 22:38:06,724  ERROR    BBRef season 1988 failed: Year must be 2008 or later
+2026-03-29 22:38:07,725  INFO    1988: 2100 completed games found via MLB API
+2026-03-29 22:38:07,726  INFO    1988: processing game 0/2100
+2026-03-29 22:40:41,983  INFO    1988: processing game 100/2100
+2026-03-29 22:42:09,772  INFO    1988: processing game 200/2100
+2026-03-29 22:44:37,650  INFO    1988: processing game 300/2100
+2026-03-29 22:47:46,851  INFO    1988: processing game 400/2100
+2026-03-29 22:49:37,411  INFO    1988: processing game 500/2100
+2026-03-29 22:51:09,490  INFO    1988: processing game 600/2100
+2026-03-29 22:52:39,011  INFO    1988: processing game 700/2100
+2026-03-29 22:54:10,787  INFO    1988: processing game 800/2100
+2026-03-29 22:56:02,363  INFO    1988: processing game 900/2100
+2026-03-29 22:58:10,478  INFO    1988: processing game 1000/2100
+2026-03-29 22:59:37,037  INFO    1988: processing game 1100/2100
+2026-03-29 23:00:57,731  INFO    1988: processing game 1200/2100
+2026-03-29 23:03:18,713  INFO    1988: processing game 1300/2100
+2026-03-29 23:05:22,440  INFO    1988: processing game 1400/2100
+2026-03-29 23:07:30,064  INFO    1988: processing game 1500/2100
+2026-03-29 23:09:41,610  INFO    1988: processing game 1600/2100
+2026-03-29 23:11:17,343  INFO    1988: processing game 1700/2100
+2026-03-29 23:13:25,873  INFO    1988: processing game 1800/2100
+2026-03-29 23:14:52,570  INFO    1988: processing game 1900/2100
+2026-03-29 23:16:21,708  INFO    1988: processing game 2000/2100
+2026-03-29 23:17:46,419  INFO  Season 1988 done: 4193 outings inserted
+2026-03-29 23:17:49,419  INFO  Scraping season 1989…
+2026-03-29 23:17:49,420  ERROR    BBRef season 1989 failed: Year must be 2008 or later
+2026-03-29 23:17:50,236  INFO    1989: 2107 completed games found via MLB API
+2026-03-29 23:17:50,237  INFO    1989: processing game 0/2107
+2026-03-29 23:19:54,175  INFO    1989: processing game 100/2107
+2026-03-29 23:21:40,204  INFO    1989: processing game 200/2107
+2026-03-29 23:23:02,563  INFO    1989: processing game 300/2107
+2026-03-29 23:24:59,803  INFO    1989: processing game 400/2107
+2026-03-29 23:26:36,811  INFO    1989: processing game 500/2107
+2026-03-29 23:28:35,772  INFO    1989: processing game 600/2107
+2026-03-29 23:30:06,181  INFO    1989: processing game 700/2107
+2026-03-29 23:31:46,824  INFO    1989: processing game 800/2107
+2026-03-29 23:33:56,580  INFO    1989: processing game 900/2107
+2026-03-29 23:36:34,227  INFO    1989: processing game 1000/2107
+2026-03-29 23:39:22,508  INFO    1989: processing game 1100/2107
+2026-03-29 23:41:25,701  INFO    1989: processing game 1200/2107
+2026-03-29 23:43:12,472  INFO    1989: processing game 1300/2107
+2026-03-29 23:44:28,407  INFO    1989: processing game 1400/2107
+2026-03-29 23:45:51,022  INFO    1989: processing game 1500/2107
+2026-03-29 23:47:22,520  INFO    1989: processing game 1600/2107
+2026-03-29 23:48:43,056  INFO    1989: processing game 1700/2107
+2026-03-29 23:50:21,149  INFO    1989: processing game 1800/2107
+2026-03-29 23:51:59,258  INFO    1989: processing game 1900/2107
+2026-03-29 23:54:15,668  INFO    1989: processing game 2000/2107
+2026-03-29 23:55:48,999  INFO    1989: processing game 2100/2107
+2026-03-29 23:55:54,797  INFO  Season 1989 done: 4201 outings inserted
+2026-03-29 23:55:57,798  INFO  Scraping season 1990…
+2026-03-29 23:55:57,799  ERROR    BBRef season 1990 failed: Year must be 2008 or later
+2026-03-29 23:55:58,634  INFO    1990: 2106 completed games found via MLB API
+2026-03-29 23:55:58,634  INFO    1990: processing game 0/2106
+2026-03-29 23:57:47,849  INFO    1990: processing game 100/2106
+2026-03-29 23:59:12,941  INFO    1990: processing game 200/2106
+2026-03-30 00:01:25,541  INFO    1990: processing game 300/2106
+2026-03-30 00:02:57,294  INFO    1990: processing game 400/2106
+2026-03-30 00:04:50,649  INFO    1990: processing game 500/2106
+2026-03-30 00:06:49,174  INFO    1990: processing game 600/2106
+2026-03-30 00:08:09,502  INFO    1990: processing game 700/2106
+2026-03-30 00:09:34,172  INFO    1990: processing game 800/2106
+2026-03-30 00:11:02,762  INFO    1990: processing game 900/2106
+2026-03-30 00:12:38,660  INFO    1990: processing game 1000/2106
+2026-03-30 00:15:06,589  INFO    1990: processing game 1100/2106
+2026-03-30 00:16:55,070  INFO    1990: processing game 1200/2106
+2026-03-30 00:19:29,938  INFO    1990: processing game 1300/2106
+2026-03-30 00:20:56,090  INFO    1990: processing game 1400/2106
+2026-03-30 00:22:32,166  INFO    1990: processing game 1500/2106
+2026-03-30 00:25:04,135  INFO    1990: processing game 1600/2106
+2026-03-30 00:27:33,320  INFO    1990: processing game 1700/2106
+2026-03-30 00:28:49,277  INFO    1990: processing game 1800/2106
+2026-03-30 00:31:10,943  INFO    1990: processing game 1900/2106
+2026-03-30 00:33:25,533  INFO    1990: processing game 2000/2106
+2026-03-30 00:34:45,485  INFO    1990: processing game 2100/2106
+2026-03-30 00:34:50,053  INFO  Season 1990 done: 4203 outings inserted
+2026-03-30 00:34:53,054  INFO  Scraping season 1991…
+2026-03-30 00:34:53,055  ERROR    BBRef season 1991 failed: Year must be 2008 or later
+2026-03-30 00:34:53,897  INFO    1991: 2104 completed games found via MLB API
+2026-03-30 00:34:53,898  INFO    1991: processing game 0/2104
+2026-03-30 00:37:14,826  INFO    1991: processing game 100/2104
+2026-03-30 00:39:00,920  INFO    1991: processing game 200/2104
+2026-03-30 00:41:15,486  INFO    1991: processing game 300/2104
+2026-03-30 00:43:15,736  INFO    1991: processing game 400/2104
+2026-03-30 00:44:34,741  INFO    1991: processing game 500/2104
+2026-03-30 00:46:15,861  INFO    1991: processing game 600/2104
+2026-03-30 00:47:54,721  INFO    1991: processing game 700/2104
+2026-03-30 00:49:34,508  INFO    1991: processing game 800/2104
+2026-03-30 00:52:28,857  INFO    1991: processing game 900/2104
+2026-03-30 00:55:39,383  INFO    1991: processing game 1000/2104
+2026-03-30 00:57:30,300  INFO    1991: processing game 1100/2104
+2026-03-30 01:00:50,197  INFO    1991: processing game 1200/2104
+2026-03-30 01:03:06,957  INFO    1991: processing game 1300/2104
+2026-03-30 01:05:07,526  INFO    1991: processing game 1400/2104
+2026-03-30 01:07:38,239  INFO    1991: processing game 1500/2104
+2026-03-30 01:10:57,285  INFO    1991: processing game 1600/2104
+2026-03-30 01:12:58,520  INFO    1991: processing game 1700/2104
+2026-03-30 01:14:46,162  INFO    1991: processing game 1800/2104
+2026-03-30 01:16:13,626  INFO    1991: processing game 1900/2104
+2026-03-30 01:17:42,262  INFO    1991: processing game 2000/2104
+2026-03-30 01:19:05,577  INFO    1991: processing game 2100/2104
+2026-03-30 01:19:08,653  INFO  Season 1991 done: 4195 outings inserted
+2026-03-30 01:19:11,654  INFO  Scraping season 1992…
+2026-03-30 01:19:11,655  ERROR    BBRef season 1992 failed: Year must be 2008 or later
+2026-03-30 01:19:12,782  INFO    1992: 2106 completed games found via MLB API
+2026-03-30 01:19:12,782  INFO    1992: processing game 0/2106
+2026-03-30 01:20:45,514  INFO    1992: processing game 100/2106
+2026-03-30 01:22:38,853  INFO    1992: processing game 200/2106
+2026-03-30 01:25:07,266  INFO    1992: processing game 300/2106
+2026-03-30 01:26:43,276  INFO    1992: processing game 400/2106
+2026-03-30 01:28:30,797  INFO    1992: processing game 500/2106
+2026-03-30 01:31:19,230  INFO    1992: processing game 600/2106
+2026-03-30 01:33:23,825  INFO    1992: processing game 700/2106
+2026-03-30 01:34:48,261  INFO    1992: processing game 800/2106
+2026-03-30 01:37:05,018  INFO    1992: processing game 900/2106
+2026-03-30 01:39:46,900  INFO    1992: processing game 1000/2106
+2026-03-30 01:42:28,758  INFO    1992: processing game 1100/2106
+2026-03-30 01:44:20,069  INFO    1992: processing game 1200/2106
+2026-03-30 01:46:06,343  INFO    1992: processing game 1300/2106
+2026-03-30 01:48:36,630  INFO    1992: processing game 1400/2106
+2026-03-30 01:50:14,074  INFO    1992: processing game 1500/2106
+2026-03-30 01:52:04,650  INFO    1992: processing game 1600/2106
+2026-03-30 01:54:46,191  INFO    1992: processing game 1700/2106
+2026-03-30 01:57:00,815  INFO    1992: processing game 1800/2106
+2026-03-30 01:59:39,520  INFO    1992: processing game 1900/2106
+2026-03-30 02:01:57,777  INFO    1992: processing game 2000/2106
+2026-03-30 02:03:16,835  INFO    1992: processing game 2100/2106
+2026-03-30 02:03:21,452  INFO  Season 1992 done: 4201 outings inserted
+2026-03-30 02:03:24,453  INFO  Scraping season 1993…
+2026-03-30 02:03:24,454  ERROR    BBRef season 1993 failed: Year must be 2008 or later
+2026-03-30 02:03:25,450  INFO    1993: 2269 completed games found via MLB API
+2026-03-30 02:03:25,450  INFO    1993: processing game 0/2269
+2026-03-30 02:05:13,013  INFO    1993: processing game 100/2269
+2026-03-30 02:07:47,387  INFO    1993: processing game 200/2269
+2026-03-30 02:09:56,357  INFO    1993: processing game 300/2269
+2026-03-30 02:11:23,845  INFO    1993: processing game 400/2269
+2026-03-30 02:12:54,760  INFO    1993: processing game 500/2269
+2026-03-30 02:14:56,222  INFO    1993: processing game 600/2269
+2026-03-30 02:16:13,898  INFO    1993: processing game 700/2269
+2026-03-30 02:17:28,407  INFO    1993: processing game 800/2269
+2026-03-30 02:18:53,144  INFO    1993: processing game 900/2269
+2026-03-30 02:20:12,611  INFO    1993: processing game 1000/2269
+2026-03-30 02:21:40,097  INFO    1993: processing game 1100/2269
+2026-03-30 02:23:44,497  INFO    1993: processing game 1200/2269
+2026-03-30 02:26:04,901  INFO    1993: processing game 1300/2269
+2026-03-30 02:29:11,883  INFO    1993: processing game 1400/2269
+2026-03-30 02:30:28,351  INFO    1993: processing game 1500/2269
+2026-03-30 02:31:42,147  INFO    1993: processing game 1600/2269
+2026-03-30 02:33:56,423  INFO    1993: processing game 1700/2269
+2026-03-30 02:37:05,326  INFO    1993: processing game 1800/2269
+2026-03-30 02:39:41,820  INFO    1993: processing game 1900/2269
+2026-03-30 02:41:53,074  INFO    1993: processing game 2000/2269
+2026-03-30 02:44:27,794  INFO    1993: processing game 2100/2269
+2026-03-30 02:45:42,600  INFO    1993: processing game 2200/2269
+2026-03-30 02:46:37,252  INFO  Season 1993 done: 4529 outings inserted
+2026-03-30 02:46:40,252  INFO  Scraping season 1994…
+2026-03-30 02:46:40,253  ERROR    BBRef season 1994 failed: Year must be 2008 or later
+2026-03-30 02:46:41,214  INFO    1994: 1603 completed games found via MLB API
+2026-03-30 02:46:41,215  INFO    1994: processing game 0/1603
+2026-03-30 02:48:40,077  INFO    1994: processing game 100/1603
+2026-03-30 02:50:54,376  INFO    1994: processing game 200/1603
+2026-03-30 02:52:15,194  INFO    1994: processing game 300/1603
+2026-03-30 02:53:54,806  INFO    1994: processing game 400/1603
+2026-03-30 02:55:28,589  INFO    1994: processing game 500/1603
+2026-03-30 02:57:38,196  INFO    1994: processing game 600/1603
+2026-03-30 02:59:41,730  INFO    1994: processing game 700/1603
+2026-03-30 03:01:30,120  INFO    1994: processing game 800/1603
+2026-03-30 03:03:00,130  INFO    1994: processing game 900/1603
+2026-03-30 03:04:30,170  INFO    1994: processing game 1000/1603
+2026-03-30 03:05:56,997  INFO    1994: processing game 1100/1603
+2026-03-30 03:09:10,729  INFO    1994: processing game 1200/1603
+2026-03-30 03:11:31,474  INFO    1994: processing game 1300/1603
+2026-03-30 03:12:47,604  INFO    1994: processing game 1400/1603
+2026-03-30 03:14:28,682  INFO    1994: processing game 1500/1603
+2026-03-30 03:15:48,953  INFO    1994: processing game 1600/1603
+2026-03-30 03:15:51,250  INFO  Season 1994 done: 3203 outings inserted
+2026-03-30 03:15:54,251  INFO  Scraping season 1995…
+2026-03-30 03:15:54,251  ERROR    BBRef season 1995 failed: Year must be 2008 or later
+2026-03-30 03:15:55,427  INFO    1995: 2019 completed games found via MLB API
+2026-03-30 03:15:55,428  INFO    1995: processing game 0/2019
+2026-03-30 03:17:32,047  INFO    1995: processing game 100/2019
+2026-03-30 03:18:56,266  INFO    1995: processing game 200/2019
+2026-03-30 03:20:24,665  INFO    1995: processing game 300/2019
+2026-03-30 03:21:57,096  INFO    1995: processing game 400/2019
+2026-03-30 03:23:28,434  INFO    1995: processing game 500/2019
+2026-03-30 03:24:50,966  INFO    1995: processing game 600/2019
+2026-03-30 03:26:04,977  INFO    1995: processing game 700/2019
+2026-03-30 03:27:18,381  INFO    1995: processing game 800/2019
+2026-03-30 03:28:37,741  INFO    1995: processing game 900/2019
+2026-03-30 03:29:51,444  INFO    1995: processing game 1000/2019
+2026-03-30 03:31:09,153  INFO    1995: processing game 1100/2019
+2026-03-30 03:32:48,064  INFO    1995: processing game 1200/2019
+2026-03-30 03:34:16,670  INFO    1995: processing game 1300/2019
+2026-03-30 03:35:49,022  INFO    1995: processing game 1400/2019
+2026-03-30 03:37:41,548  INFO    1995: processing game 1500/2019
+2026-03-30 03:39:02,635  INFO    1995: processing game 1600/2019
+2026-03-30 03:40:47,730  INFO    1995: processing game 1700/2019
+2026-03-30 03:42:41,447  INFO    1995: processing game 1800/2019
+2026-03-30 03:44:01,117  INFO    1995: processing game 1900/2019
+2026-03-30 03:45:17,795  INFO    1995: processing game 2000/2019
+2026-03-30 03:45:32,072  INFO  Season 1995 done: 4031 outings inserted
+2026-03-30 03:45:35,073  INFO  Scraping season 1996…
+2026-03-30 03:45:35,073  ERROR    BBRef season 1996 failed: Year must be 2008 or later
+2026-03-30 03:45:36,092  INFO    1996: 2270 completed games found via MLB API
+2026-03-30 03:45:36,092  INFO    1996: processing game 0/2270
+2026-03-30 03:46:57,546  INFO    1996: processing game 100/2270
+2026-03-30 03:48:12,322  INFO    1996: processing game 200/2270
+2026-03-30 03:50:04,593  INFO    1996: processing game 300/2270
+2026-03-30 03:51:29,783  INFO    1996: processing game 400/2270
+2026-03-30 03:52:45,832  INFO    1996: processing game 500/2270
+2026-03-30 03:54:16,003  INFO    1996: processing game 600/2270
+2026-03-30 03:55:40,441  INFO    1996: processing game 700/2270
+2026-03-30 03:56:55,959  INFO    1996: processing game 800/2270
+2026-03-30 03:58:13,911  INFO    1996: processing game 900/2270
+2026-03-30 03:59:27,256  INFO    1996: processing game 1000/2270
+2026-03-30 04:00:40,797  INFO    1996: processing game 1100/2270
+2026-03-30 04:03:10,827  INFO    1996: processing game 1200/2270
+2026-03-30 04:04:50,266  INFO    1996: processing game 1300/2270
+2026-03-30 04:06:38,758  INFO    1996: processing game 1400/2270
+2026-03-30 04:07:52,291  INFO    1996: processing game 1500/2270
+2026-03-30 04:09:05,786  INFO    1996: processing game 1600/2270
+2026-03-30 04:10:55,751  INFO    1996: processing game 1700/2270
+2026-03-30 04:12:53,065  INFO    1996: processing game 1800/2270
+2026-03-30 04:15:08,323  INFO    1996: processing game 1900/2270
+2026-03-30 04:17:01,238  INFO    1996: processing game 2000/2270
+2026-03-30 04:18:30,948  INFO    1996: processing game 2100/2270
+2026-03-30 04:19:52,804  INFO    1996: processing game 2200/2270
+2026-03-30 04:20:45,110  INFO  Season 1996 done: 4537 outings inserted
+2026-03-30 04:20:48,111  INFO  Scraping season 1997…
+2026-03-30 04:20:48,112  ERROR    BBRef season 1997 failed: Year must be 2008 or later
+2026-03-30 04:20:48,903  INFO    1997: 2267 completed games found via MLB API
+2026-03-30 04:20:48,904  INFO    1997: processing game 0/2267
+2026-03-30 04:22:11,016  INFO    1997: processing game 100/2267
+2026-03-30 04:24:27,781  INFO    1997: processing game 200/2267
+2026-03-30 04:26:27,413  INFO    1997: processing game 300/2267
+2026-03-30 04:29:14,063  INFO    1997: processing game 400/2267
+2026-03-30 04:30:46,517  INFO    1997: processing game 500/2267
+2026-03-30 04:32:29,790  INFO    1997: processing game 600/2267
+2026-03-30 04:35:04,019  INFO    1997: processing game 700/2267
+2026-03-30 04:37:14,859  INFO    1997: processing game 800/2267
+2026-03-30 04:39:05,724  INFO    1997: processing game 900/2267
+2026-03-30 04:40:31,580  INFO    1997: processing game 1000/2267
+2026-03-30 04:42:40,931  INFO    1997: processing game 1100/2267
+2026-03-30 04:44:04,879  INFO    1997: processing game 1200/2267
+2026-03-30 04:46:27,964  INFO    1997: processing game 1300/2267
+2026-03-30 04:48:37,025  INFO    1997: processing game 1400/2267
+2026-03-30 04:50:14,898  INFO    1997: processing game 1500/2267
+2026-03-30 04:51:28,099  INFO    1997: processing game 1600/2267
+2026-03-30 04:52:54,948  INFO    1997: processing game 1700/2267
+2026-03-30 04:54:35,989  INFO    1997: processing game 1800/2267
+2026-03-30 04:56:16,281  INFO    1997: processing game 1900/2267
+2026-03-30 04:57:52,217  INFO    1997: processing game 2000/2267
+2026-03-30 05:00:12,690  INFO    1997: processing game 2100/2267
+2026-03-30 05:02:49,011  INFO    1997: processing game 2200/2267
+2026-03-30 05:03:37,473  INFO  Season 1997 done: 4529 outings inserted
+2026-03-30 05:03:40,474  INFO  Scraping season 1998…
+2026-03-30 05:03:40,475  ERROR    BBRef season 1998 failed: Year must be 2008 or later
+2026-03-30 05:03:41,299  INFO    1998: 2433 completed games found via MLB API
+2026-03-30 05:03:41,299  INFO    1998: processing game 0/2433
+2026-03-30 05:05:00,630  INFO    1998: processing game 100/2433
+2026-03-30 05:06:11,953  INFO    1998: processing game 200/2433
+2026-03-30 05:07:40,044  INFO    1998: processing game 300/2433
+2026-03-30 05:08:56,199  INFO    1998: processing game 400/2433
+2026-03-30 05:11:40,883  INFO    1998: processing game 500/2433
+2026-03-30 05:15:12,104  INFO    1998: processing game 600/2433
+2026-03-30 05:17:16,872  INFO    1998: processing game 700/2433
+2026-03-30 05:19:13,116  INFO    1998: processing game 800/2433
+2026-03-30 05:21:34,724  INFO    1998: processing game 900/2433
+2026-03-30 05:23:17,217  INFO    1998: processing game 1000/2433
+2026-03-30 05:24:41,517  INFO    1998: processing game 1100/2433
+2026-03-30 05:25:59,971  INFO    1998: processing game 1200/2433
+2026-03-30 05:27:23,069  INFO    1998: processing game 1300/2433
+2026-03-30 05:28:35,100  INFO    1998: processing game 1400/2433
+2026-03-30 05:30:10,765  INFO    1998: processing game 1500/2433
+2026-03-30 05:31:41,207  INFO    1998: processing game 1600/2433
+2026-03-30 05:33:27,800  INFO    1998: processing game 1700/2433
+2026-03-30 05:34:41,551  INFO    1998: processing game 1800/2433
+2026-03-30 05:36:06,414  INFO    1998: processing game 1900/2433
+2026-03-30 05:38:23,715  INFO    1998: processing game 2000/2433
+2026-03-30 05:40:57,965  INFO    1998: processing game 2100/2433
+2026-03-30 05:42:36,510  INFO    1998: processing game 2200/2433
+2026-03-30 05:44:07,068  INFO    1998: processing game 2300/2433
+2026-03-30 05:45:20,174  INFO    1998: processing game 2400/2433
+2026-03-30 05:45:46,589  INFO  Season 1998 done: 4858 outings inserted
+2026-03-30 05:45:49,589  INFO  Scraping season 1999…
+2026-03-30 05:45:49,590  ERROR    BBRef season 1999 failed: Year must be 2008 or later
+2026-03-30 05:45:50,623  INFO    1999: 2432 completed games found via MLB API
+2026-03-30 05:45:50,623  INFO    1999: processing game 0/2432
+2026-03-30 05:47:18,624  INFO    1999: processing game 100/2432
+2026-03-30 05:49:11,710  INFO    1999: processing game 200/2432
+2026-03-30 05:50:58,997  INFO    1999: processing game 300/2432
+2026-03-30 05:52:30,753  INFO    1999: processing game 400/2432
+2026-03-30 05:53:52,274  INFO    1999: processing game 500/2432
+2026-03-30 05:55:11,146  INFO    1999: processing game 600/2432
+2026-03-30 05:56:30,669  INFO    1999: processing game 700/2432
+2026-03-30 05:57:51,919  INFO    1999: processing game 800/2432
+2026-03-30 05:59:13,766  INFO    1999: processing game 900/2432
+2026-03-30 06:00:26,944  INFO    1999: processing game 1000/2432
+2026-03-30 06:02:22,647  INFO    1999: processing game 1100/2432
+2026-03-30 06:03:56,320  INFO    1999: processing game 1200/2432
+2026-03-30 06:05:42,556  INFO    1999: processing game 1300/2432
+2026-03-30 06:07:22,189  INFO    1999: processing game 1400/2432
+2026-03-30 06:08:45,022  INFO    1999: processing game 1500/2432
+2026-03-30 06:11:04,339  INFO    1999: processing game 1600/2432
+2026-03-30 06:13:11,361  INFO    1999: processing game 1700/2432
+2026-03-30 06:14:33,280  INFO    1999: processing game 1800/2432
+2026-03-30 06:15:55,863  INFO    1999: processing game 1900/2432
+2026-03-30 06:17:31,693  INFO    1999: processing game 2000/2432
+2026-03-30 06:18:54,974  INFO    1999: processing game 2100/2432
+2026-03-30 06:21:28,645  INFO    1999: processing game 2200/2432
+2026-03-30 06:23:10,364  INFO    1999: processing game 2300/2432
+2026-03-30 06:24:21,446  INFO    1999: processing game 2400/2432
+2026-03-30 06:24:44,135  INFO  Season 1999 done: 4858 outings inserted
+2026-03-30 06:24:47,136  INFO  Scraping season 2000…
+2026-03-30 06:24:47,136  ERROR    BBRef season 2000 failed: Year must be 2008 or later
+2026-03-30 06:24:48,431  INFO    2000: 2475 completed games found via MLB API
+2026-03-30 06:24:48,432  INFO    2000: processing game 0/2475
+2026-03-30 06:26:13,102  INFO    2000: processing game 100/2475
+2026-03-30 06:28:47,176  INFO    2000: processing game 200/2475
+2026-03-30 06:29:57,045  INFO    2000: processing game 300/2475
+2026-03-30 06:31:14,785  INFO    2000: processing game 400/2475
+2026-03-30 06:33:02,320  INFO    2000: processing game 500/2475
+2026-03-30 06:34:47,024  INFO    2000: processing game 600/2475
+2026-03-30 06:36:26,141  INFO    2000: processing game 700/2475
+2026-03-30 06:37:51,797  INFO    2000: processing game 800/2475
+2026-03-30 06:39:05,049  INFO    2000: processing game 900/2475
+2026-03-30 06:40:16,746  INFO    2000: processing game 1000/2475
+2026-03-30 06:42:03,806  INFO    2000: processing game 1100/2475
+2026-03-30 06:44:07,382  INFO    2000: processing game 1200/2475
+2026-03-30 06:45:37,892  INFO    2000: processing game 1300/2475
+2026-03-30 06:47:11,326  INFO    2000: processing game 1400/2475
+2026-03-30 06:48:28,762  INFO    2000: processing game 1500/2475
+2026-03-30 06:49:58,584  INFO    2000: processing game 1600/2475
+2026-03-30 06:52:41,781  INFO    2000: processing game 1700/2475
+2026-03-30 06:54:06,045  INFO    2000: processing game 1800/2475
+2026-03-30 06:55:45,644  INFO    2000: processing game 1900/2475
+2026-03-30 06:57:10,202  INFO    2000: processing game 2000/2475
+2026-03-30 06:58:45,504  INFO    2000: processing game 2100/2475
+2026-03-30 07:00:56,777  INFO    2000: processing game 2200/2475
+2026-03-30 07:02:56,188  INFO    2000: processing game 2300/2475
+2026-03-30 07:05:28,885  INFO    2000: processing game 2400/2475
+2026-03-30 07:07:25,007  INFO  Season 2000 done: 4863 outings inserted
+2026-03-30 07:07:28,008  INFO  Scraping season 2001…
+2026-03-30 07:07:28,008  ERROR    BBRef season 2001 failed: Year must be 2008 or later
+2026-03-30 07:07:29,033  INFO    2001: 2554 completed games found via MLB API
+2026-03-30 07:07:29,033  INFO    2001: processing game 0/2554
+2026-03-30 07:09:05,984  INFO    2001: processing game 100/2554
+2026-03-30 07:11:30,820  INFO    2001: processing game 200/2554
+2026-03-30 07:12:58,172  INFO    2001: processing game 300/2554
+2026-03-30 07:15:07,514  INFO    2001: processing game 400/2554
+2026-03-30 07:17:23,268  INFO    2001: processing game 500/2554
+2026-03-30 07:19:28,983  INFO    2001: processing game 600/2554
+2026-03-30 07:21:53,553  INFO    2001: processing game 700/2554
+2026-03-30 07:24:06,860  INFO    2001: processing game 800/2554
+2026-03-30 07:26:23,075  INFO    2001: processing game 900/2554
+2026-03-30 07:28:28,730  INFO    2001: processing game 1000/2554
+2026-03-30 07:30:42,554  INFO    2001: processing game 1100/2554
+2026-03-30 07:32:27,000  INFO    2001: processing game 1200/2554
+2026-03-30 07:35:02,436  INFO    2001: processing game 1300/2554
+2026-03-30 07:37:17,764  INFO    2001: processing game 1400/2554
+2026-03-30 07:38:42,720  INFO    2001: processing game 1500/2554
+2026-03-30 07:41:02,731  INFO    2001: processing game 1600/2554
+2026-03-30 07:42:53,685  INFO    2001: processing game 1700/2554
+2026-03-30 07:44:57,186  INFO    2001: processing game 1800/2554
+2026-03-30 07:47:29,834  INFO    2001: processing game 1900/2554
+2026-03-30 07:50:05,163  INFO    2001: processing game 2000/2554
+2026-03-30 07:52:24,933  INFO    2001: processing game 2100/2554
+2026-03-30 07:54:21,787  INFO    2001: processing game 2200/2554
+2026-03-30 07:55:45,955  INFO    2001: processing game 2300/2554
+2026-03-30 07:57:35,719  INFO    2001: processing game 2400/2554
+2026-03-30 07:58:58,784  INFO    2001: processing game 2500/2554
+2026-03-30 07:59:37,462  INFO  Season 2001 done: 4862 outings inserted
+2026-03-30 07:59:40,463  INFO  Scraping season 2002…
+2026-03-30 07:59:40,463  ERROR    BBRef season 2002 failed: Year must be 2008 or later
+2026-03-30 07:59:41,267  INFO    2002: 2458 completed games found via MLB API
+2026-03-30 07:59:41,267  INFO    2002: processing game 0/2458
+2026-03-30 08:01:51,819  INFO    2002: processing game 100/2458
+2026-03-30 08:04:20,518  INFO    2002: processing game 200/2458
+2026-03-30 08:06:06,650  INFO    2002: processing game 300/2458
+2026-03-30 08:07:31,476  INFO    2002: processing game 400/2458
+2026-03-30 08:09:12,285  INFO    2002: processing game 500/2458
+2026-03-30 08:10:46,183  INFO    2002: processing game 600/2458
+2026-03-30 08:13:01,360  INFO    2002: processing game 700/2458
+2026-03-30 08:14:26,218  INFO    2002: processing game 800/2458
+2026-03-30 08:15:36,622  INFO    2002: processing game 900/2458
+2026-03-30 08:17:01,735  INFO    2002: processing game 1000/2458
+2026-03-30 08:18:48,636  INFO    2002: processing game 1100/2458
+2026-03-30 08:21:12,001  INFO    2002: processing game 1200/2458
+2026-03-30 08:22:54,144  INFO    2002: processing game 1300/2458
+2026-03-30 08:24:22,868  INFO    2002: processing game 1400/2458
+2026-03-30 08:26:23,242  INFO    2002: processing game 1500/2458
+2026-03-30 08:28:26,033  INFO    2002: processing game 1600/2458
+2026-03-30 08:30:28,789  INFO    2002: processing game 1700/2458
+2026-03-30 08:32:40,648  INFO    2002: processing game 1800/2458
+2026-03-30 08:35:12,276  INFO    2002: processing game 1900/2458
+2026-03-30 08:36:53,218  INFO    2002: processing game 2000/2458
+2026-03-30 08:39:00,921  INFO    2002: processing game 2100/2458
+2026-03-30 08:40:51,270  INFO    2002: processing game 2200/2458
+2026-03-30 08:42:10,928  INFO    2002: processing game 2300/2458
+2026-03-30 08:43:22,270  INFO    2002: processing game 2400/2458
+2026-03-30 08:44:12,606  INFO  Season 2002 done: 4906 outings inserted
+2026-03-30 08:44:15,606  INFO  Scraping season 2003…
+2026-03-30 08:44:15,607  ERROR    BBRef season 2003 failed: Year must be 2008 or later
+2026-03-30 08:44:16,691  INFO    2003: 2473 completed games found via MLB API
+2026-03-30 08:44:16,691  INFO    2003: processing game 0/2473
+2026-03-30 08:45:37,680  INFO    2003: processing game 100/2473
+2026-03-30 08:47:17,667  INFO    2003: processing game 200/2473
+2026-03-30 08:48:45,157  INFO    2003: processing game 300/2473
+2026-03-30 08:50:44,494  INFO    2003: processing game 400/2473
+2026-03-30 08:52:15,736  INFO    2003: processing game 500/2473
+2026-03-30 08:53:55,058  INFO    2003: processing game 600/2473
+2026-03-30 08:55:58,029  INFO    2003: processing game 700/2473
+2026-03-30 08:57:28,795  INFO    2003: processing game 800/2473
+2026-03-30 08:59:26,719  INFO    2003: processing game 900/2473
+2026-03-30 09:01:28,349  INFO    2003: processing game 1000/2473
+2026-03-30 09:03:19,132  INFO    2003: processing game 1100/2473
+2026-03-30 09:05:00,760  INFO    2003: processing game 1200/2473
+2026-03-30 09:06:41,362  INFO    2003: processing game 1300/2473
+2026-03-30 09:08:22,073  INFO    2003: processing game 1400/2473
+2026-03-30 09:09:58,873  INFO    2003: processing game 1500/2473
+2026-03-30 09:12:07,382  INFO    2003: processing game 1600/2473
+2026-03-30 09:13:39,378  INFO    2003: processing game 1700/2473
+2026-03-30 09:15:13,143  INFO    2003: processing game 1800/2473
+2026-03-30 09:17:07,602  INFO    2003: processing game 1900/2473
+2026-03-30 09:18:41,679  INFO    2003: processing game 2000/2473
+2026-03-30 09:20:25,189  INFO    2003: processing game 2100/2473
+2026-03-30 09:21:54,734  INFO    2003: processing game 2200/2473
+2026-03-30 09:23:47,242  INFO    2003: processing game 2300/2473
+2026-03-30 09:25:26,169  INFO    2003: processing game 2400/2473
+2026-03-30 09:27:04,726  INFO  Season 2003 done: 4938 outings inserted
+2026-03-30 09:27:07,727  INFO  Scraping season 2004…
+2026-03-30 09:27:07,727  ERROR    BBRef season 2004 failed: Year must be 2008 or later
+2026-03-30 09:27:08,580  INFO    2004: 2479 completed games found via MLB API
+2026-03-30 09:27:08,580  INFO    2004: processing game 0/2479
+2026-03-30 09:28:31,363  INFO    2004: processing game 100/2479
+2026-03-30 09:30:06,595  INFO    2004: processing game 200/2479
+2026-03-30 09:31:30,611  INFO    2004: processing game 300/2479
+2026-03-30 09:33:18,233  INFO    2004: processing game 400/2479
+2026-03-30 09:35:11,934  INFO    2004: processing game 500/2479
+2026-03-30 09:36:41,090  INFO    2004: processing game 600/2479
+2026-03-30 09:38:21,013  INFO    2004: processing game 700/2479
+2026-03-30 09:39:47,004  INFO    2004: processing game 800/2479
+2026-03-30 09:41:12,090  INFO    2004: processing game 900/2479
+2026-03-30 09:42:49,379  INFO    2004: processing game 1000/2479
+2026-03-30 09:44:39,826  INFO    2004: processing game 1100/2479
+2026-03-30 09:46:11,283  INFO    2004: processing game 1200/2479
+2026-03-30 09:47:37,763  INFO    2004: processing game 1300/2479
+2026-03-30 09:48:50,272  INFO    2004: processing game 1400/2479
+2026-03-30 09:50:03,472  INFO    2004: processing game 1500/2479
+2026-03-30 09:51:27,811  INFO    2004: processing game 1600/2479
+2026-03-30 09:52:53,343  INFO    2004: processing game 1700/2479
+2026-03-30 09:54:25,555  INFO    2004: processing game 1800/2479
+2026-03-30 09:55:59,200  INFO    2004: processing game 1900/2479
+2026-03-30 09:57:51,549  INFO    2004: processing game 2000/2479
+2026-03-30 09:59:03,165  INFO    2004: processing game 2100/2479
+2026-03-30 10:00:23,671  INFO    2004: processing game 2200/2479
+2026-03-30 10:02:43,046  INFO    2004: processing game 2300/2479
+2026-03-30 10:04:10,276  INFO    2004: processing game 2400/2479
+2026-03-30 10:05:07,503  INFO  Season 2004 done: 4949 outings inserted
+2026-03-30 10:05:10,504  INFO  Scraping season 2005…
+2026-03-30 10:05:10,505  ERROR    BBRef season 2005 failed: Year must be 2008 or later
+2026-03-30 10:05:11,458  INFO    2005: 2457 completed games found via MLB API
+2026-03-30 10:05:11,458  INFO    2005: processing game 0/2457
+2026-03-30 10:06:22,829  INFO    2005: processing game 100/2457
+2026-03-30 10:07:35,006  INFO    2005: processing game 200/2457
+2026-03-30 10:08:48,104  INFO    2005: processing game 300/2457
+2026-03-30 10:09:59,692  INFO    2005: processing game 400/2457
+2026-03-30 10:11:11,030  INFO    2005: processing game 500/2457
+2026-03-30 10:12:26,709  INFO    2005: processing game 600/2457
+2026-03-30 10:13:41,934  INFO    2005: processing game 700/2457
+2026-03-30 10:14:53,873  INFO    2005: processing game 800/2457
+2026-03-30 10:16:09,766  INFO    2005: processing game 900/2457
+2026-03-30 10:17:42,299  INFO    2005: processing game 1000/2457
+2026-03-30 10:18:59,353  INFO    2005: processing game 1100/2457
+2026-03-30 10:20:17,172  INFO    2005: processing game 1200/2457
+2026-03-30 10:21:30,127  INFO    2005: processing game 1300/2457
+2026-03-30 10:22:43,025  INFO    2005: processing game 1400/2457
+2026-03-30 10:23:56,012  INFO    2005: processing game 1500/2457
+2026-03-30 10:25:08,667  INFO    2005: processing game 1600/2457
+2026-03-30 10:26:26,547  INFO    2005: processing game 1700/2457
+2026-03-30 10:27:41,875  INFO    2005: processing game 1800/2457
+2026-03-30 10:28:54,094  INFO    2005: processing game 1900/2457
+2026-03-30 10:30:14,298  INFO    2005: processing game 2000/2457
+2026-03-30 10:31:33,631  INFO    2005: processing game 2100/2457
+2026-03-30 10:33:40,288  INFO    2005: processing game 2200/2457
+2026-03-30 10:35:27,437  INFO    2005: processing game 2300/2457
+2026-03-30 10:36:40,425  INFO    2005: processing game 2400/2457
+2026-03-30 10:37:27,192  INFO  Season 2005 done: 4910 outings inserted
+2026-03-30 10:37:30,193  INFO  Scraping season 2006…
+2026-03-30 10:37:30,193  ERROR    BBRef season 2006 failed: Year must be 2008 or later
+2026-03-30 10:37:31,000  INFO    2006: 2464 completed games found via MLB API
+2026-03-30 10:37:31,000  INFO    2006: processing game 0/2464
+2026-03-30 10:38:48,686  INFO    2006: processing game 100/2464
+2026-03-30 10:40:00,961  INFO    2006: processing game 200/2464
+2026-03-30 10:41:18,935  INFO    2006: processing game 300/2464
+2026-03-30 10:42:31,523  INFO    2006: processing game 400/2464
+2026-03-30 10:43:44,405  INFO    2006: processing game 500/2464
+2026-03-30 10:44:58,244  INFO    2006: processing game 600/2464
+2026-03-30 10:46:12,460  INFO    2006: processing game 700/2464
+2026-03-30 10:47:28,081  INFO    2006: processing game 800/2464
+2026-03-30 10:48:41,253  INFO    2006: processing game 900/2464
+2026-03-30 10:49:56,326  INFO    2006: processing game 1000/2464
+2026-03-30 10:51:09,850  INFO    2006: processing game 1100/2464
+2026-03-30 10:52:23,321  INFO    2006: processing game 1200/2464
+2026-03-30 10:53:38,643  INFO    2006: processing game 1300/2464
+2026-03-30 10:54:53,774  INFO    2006: processing game 1400/2464
+2026-03-30 10:56:11,271  INFO    2006: processing game 1500/2464
+2026-03-30 10:57:26,771  INFO    2006: processing game 1600/2464
+2026-03-30 10:58:41,315  INFO    2006: processing game 1700/2464
+2026-03-30 10:59:58,950  INFO    2006: processing game 1800/2464
+2026-03-30 11:01:13,057  INFO    2006: processing game 1900/2464
+2026-03-30 11:02:27,150  INFO    2006: processing game 2000/2464
+2026-03-30 11:03:42,242  INFO    2006: processing game 2100/2464
+2026-03-30 11:04:56,853  INFO    2006: processing game 2200/2464
+2026-03-30 11:06:12,032  INFO    2006: processing game 2300/2464
+2026-03-30 11:07:26,423  INFO    2006: processing game 2400/2464
+2026-03-30 11:08:17,561  INFO  Season 2006 done: 4920 outings inserted
+2026-03-30 11:08:20,561  INFO  Scraping season 2007…
+2026-03-30 11:08:20,562  ERROR    BBRef season 2007 failed: Year must be 2008 or later
+2026-03-30 11:08:21,426  INFO    2007: 2473 completed games found via MLB API
+2026-03-30 11:08:21,427  INFO    2007: processing game 0/2473
+2026-03-30 11:09:32,703  INFO    2007: processing game 100/2473
+2026-03-30 11:10:44,081  INFO    2007: processing game 200/2473
+2026-03-30 11:11:56,329  INFO    2007: processing game 300/2473
+2026-03-30 11:13:16,978  INFO    2007: processing game 400/2473
+2026-03-30 11:14:30,644  INFO    2007: processing game 500/2473
+2026-03-30 11:15:43,035  INFO    2007: processing game 600/2473
+2026-03-30 11:16:55,543  INFO    2007: processing game 700/2473
+2026-03-30 11:18:08,197  INFO    2007: processing game 800/2473
+2026-03-30 11:19:20,776  INFO    2007: processing game 900/2473
+2026-03-30 11:20:33,819  INFO    2007: processing game 1000/2473
+2026-03-30 11:21:47,422  INFO    2007: processing game 1100/2473
+2026-03-30 11:23:00,172  INFO    2007: processing game 1200/2473
+2026-03-30 11:24:12,266  INFO    2007: processing game 1300/2473
+2026-03-30 11:25:26,574  INFO    2007: processing game 1400/2473
+2026-03-30 11:26:38,345  INFO    2007: processing game 1500/2473
+2026-03-30 11:27:50,108  INFO    2007: processing game 1600/2473
+2026-03-30 11:29:02,255  INFO    2007: processing game 1700/2473
+2026-03-30 11:30:14,192  INFO    2007: processing game 1800/2473
+2026-03-30 11:31:27,675  INFO    2007: processing game 1900/2473
+2026-03-30 11:32:40,982  INFO    2007: processing game 2000/2473
+2026-03-30 11:33:54,807  INFO    2007: processing game 2100/2473
+2026-03-30 11:35:13,666  INFO    2007: processing game 2200/2473
+2026-03-30 11:37:43,998  INFO    2007: processing game 2300/2473
+2026-03-30 11:39:10,893  INFO    2007: processing game 2400/2473
+2026-03-30 11:40:22,667  INFO  Season 2007 done: 4935 outings inserted
+2026-03-30 11:40:25,667  INFO  Scraping season 2008…
+2026-03-30 11:40:27,730  ERROR    BBRef season 2008 failed: list index out of range
+2026-03-30 11:40:28,805  INFO    2008: 2471 completed games found via MLB API
+2026-03-30 11:40:28,811  INFO    2008: processing game 0/2471
+2026-03-30 11:41:47,249  INFO    2008: processing game 100/2471
+2026-03-30 11:43:03,413  INFO    2008: processing game 200/2471
+2026-03-30 11:44:15,995  INFO    2008: processing game 300/2471
+2026-03-30 11:45:37,020  INFO    2008: processing game 400/2471
+2026-03-30 11:46:50,551  INFO    2008: processing game 500/2471
+2026-03-30 11:48:03,726  INFO    2008: processing game 600/2471
+2026-03-30 11:49:18,814  INFO    2008: processing game 700/2471
+2026-03-30 11:50:33,259  INFO    2008: processing game 800/2471
+2026-03-30 11:51:47,678  INFO    2008: processing game 900/2471
+2026-03-30 11:53:05,461  INFO    2008: processing game 1000/2471
+2026-03-30 11:54:20,941  INFO    2008: processing game 1100/2471
+2026-03-30 11:55:37,074  INFO    2008: processing game 1200/2471
+2026-03-30 11:56:54,323  INFO    2008: processing game 1300/2471
+2026-03-30 11:58:11,852  INFO    2008: processing game 1400/2471
+2026-03-30 11:59:27,489  INFO    2008: processing game 1500/2471
+2026-03-30 12:00:45,490  INFO    2008: processing game 1600/2471
+2026-03-30 12:02:03,518  INFO    2008: processing game 1700/2471
+2026-03-30 12:03:20,175  INFO    2008: processing game 1800/2471
+2026-03-30 12:04:33,743  INFO    2008: processing game 1900/2471
+2026-03-30 12:05:47,541  INFO    2008: processing game 2000/2471
+2026-03-30 12:07:12,164  INFO    2008: processing game 2100/2471
+2026-03-30 12:08:27,053  INFO    2008: processing game 2200/2471
+2026-03-30 12:09:42,116  INFO    2008: processing game 2300/2471
+2026-03-30 12:11:01,014  INFO    2008: processing game 2400/2471
+2026-03-30 12:11:54,255  INFO  Season 2008 done: 4931 outings inserted
+2026-03-30 12:11:57,256  INFO  Scraping season 2009…
+2026-03-30 12:11:57,304  ERROR    BBRef season 2009 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-30 12:11:58,144  INFO    2009: 2468 completed games found via MLB API
+2026-03-30 12:11:58,144  INFO    2009: processing game 0/2468
+2026-03-30 12:13:10,926  INFO    2009: processing game 100/2468
+2026-03-30 12:14:24,391  INFO    2009: processing game 200/2468
+2026-03-30 12:15:40,457  INFO    2009: processing game 300/2468
+2026-03-30 12:16:53,802  INFO    2009: processing game 400/2468
+2026-03-30 12:18:08,254  INFO    2009: processing game 500/2468
+2026-03-30 12:19:21,021  INFO    2009: processing game 600/2468
+2026-03-30 12:20:34,530  INFO    2009: processing game 700/2468
+2026-03-30 12:21:49,983  INFO    2009: processing game 800/2468
+2026-03-30 12:23:03,614  INFO    2009: processing game 900/2468
+2026-03-30 12:24:20,236  INFO    2009: processing game 1000/2468
+2026-03-30 12:25:34,186  INFO    2009: processing game 1100/2468
+2026-03-30 12:26:49,145  INFO    2009: processing game 1200/2468
+2026-03-30 12:28:02,602  INFO    2009: processing game 1300/2468
+2026-03-30 12:29:18,777  INFO    2009: processing game 1400/2468
+2026-03-30 12:30:32,917  INFO    2009: processing game 1500/2468
+2026-03-30 12:31:55,822  INFO    2009: processing game 1600/2468
+2026-03-30 12:33:13,231  INFO    2009: processing game 1700/2468
+2026-03-30 12:34:28,526  INFO    2009: processing game 1800/2468
+2026-03-30 12:35:43,396  INFO    2009: processing game 1900/2468
+2026-03-30 12:37:03,894  INFO    2009: processing game 2000/2468
+2026-03-30 12:38:18,983  INFO    2009: processing game 2100/2468
+2026-03-30 12:39:34,587  INFO    2009: processing game 2200/2468
+2026-03-30 12:40:54,122  INFO    2009: processing game 2300/2468
+2026-03-30 12:42:29,137  INFO    2009: processing game 2400/2468
+2026-03-30 12:43:24,129  INFO  Season 2009 done: 4932 outings inserted
+2026-03-30 12:43:27,130  INFO  Scraping season 2010…
+2026-03-30 12:43:27,836  ERROR    BBRef season 2010 failed: list index out of range
+2026-03-30 12:43:28,712  INFO    2010: 2453 completed games found via MLB API
+2026-03-30 12:43:28,713  INFO    2010: processing game 0/2453
+2026-03-30 12:44:41,009  INFO    2010: processing game 100/2453
+2026-03-30 12:45:55,867  INFO    2010: processing game 200/2453
+2026-03-30 12:47:12,093  INFO    2010: processing game 300/2453
+2026-03-30 12:48:27,775  INFO    2010: processing game 400/2453
+2026-03-30 12:49:42,971  INFO    2010: processing game 500/2453
+2026-03-30 12:50:59,125  INFO    2010: processing game 600/2453
+2026-03-30 12:52:17,257  INFO    2010: processing game 700/2453
+2026-03-30 12:53:33,992  INFO    2010: processing game 800/2453
+2026-03-30 12:54:46,356  INFO    2010: processing game 900/2453
+2026-03-30 12:55:59,173  INFO    2010: processing game 1000/2453
+2026-03-30 12:57:16,095  INFO    2010: processing game 1100/2453
+2026-03-30 12:58:30,173  INFO    2010: processing game 1200/2453
+2026-03-30 12:59:49,129  INFO    2010: processing game 1300/2453
+2026-03-30 13:01:02,734  INFO    2010: processing game 1400/2453
+2026-03-30 13:02:17,659  INFO    2010: processing game 1500/2453
+2026-03-30 13:03:36,065  INFO    2010: processing game 1600/2453
+2026-03-30 13:04:50,792  INFO    2010: processing game 1700/2453
+2026-03-30 13:06:10,757  INFO    2010: processing game 1800/2453
+2026-03-30 13:07:27,636  INFO    2010: processing game 1900/2453
+2026-03-30 13:08:59,608  INFO    2010: processing game 2000/2453
+2026-03-30 13:10:21,769  INFO    2010: processing game 2100/2453
+2026-03-30 13:11:39,976  INFO    2010: processing game 2200/2453
+2026-03-30 13:13:05,882  INFO    2010: processing game 2300/2453
+2026-03-30 13:14:25,613  INFO    2010: processing game 2400/2453
+2026-03-30 13:15:11,739  INFO  Season 2010 done: 4899 outings inserted
+2026-03-30 13:15:14,740  INFO  Scraping season 2011…
+2026-03-30 13:15:14,785  ERROR    BBRef season 2011 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-30 13:15:15,637  INFO    2011: 2481 completed games found via MLB API
+2026-03-30 13:15:15,637  INFO    2011: processing game 0/2481
+2026-03-30 13:16:34,105  INFO    2011: processing game 100/2481
+2026-03-30 13:17:46,906  INFO    2011: processing game 200/2481
+2026-03-30 13:19:01,915  INFO    2011: processing game 300/2481
+2026-03-30 13:20:24,887  INFO    2011: processing game 400/2481
+2026-03-30 13:21:41,724  INFO    2011: processing game 500/2481
+2026-03-30 13:22:55,852  INFO    2011: processing game 600/2481
+2026-03-30 13:24:12,081  INFO    2011: processing game 700/2481
+2026-03-30 13:25:26,239  INFO    2011: processing game 800/2481
+2026-03-30 13:26:40,076  INFO    2011: processing game 900/2481
+2026-03-30 13:27:53,397  INFO    2011: processing game 1000/2481
+2026-03-30 13:29:09,049  INFO    2011: processing game 1100/2481
+2026-03-30 13:30:26,831  INFO    2011: processing game 1200/2481
+2026-03-30 13:31:42,160  INFO    2011: processing game 1300/2481
+2026-03-30 13:32:55,708  INFO    2011: processing game 1400/2481
+2026-03-30 13:34:09,236  INFO    2011: processing game 1500/2481
+2026-03-30 13:35:23,824  INFO    2011: processing game 1600/2481
+2026-03-30 13:36:37,648  INFO    2011: processing game 1700/2481
+2026-03-30 13:37:51,474  INFO    2011: processing game 1800/2481
+2026-03-30 13:39:06,130  INFO    2011: processing game 1900/2481
+2026-03-30 13:40:25,811  INFO    2011: processing game 2000/2481
+2026-03-30 13:41:50,416  INFO    2011: processing game 2100/2481
+2026-03-30 13:43:10,743  INFO    2011: processing game 2200/2481
+2026-03-30 13:44:30,294  INFO    2011: processing game 2300/2481
+2026-03-30 13:45:46,719  INFO    2011: processing game 2400/2481
+2026-03-30 13:46:50,412  INFO  Season 2011 done: 4953 outings inserted
+2026-03-30 13:46:53,413  INFO  Scraping season 2012…
+2026-03-30 13:46:54,120  ERROR    BBRef season 2012 failed: list index out of range
+2026-03-30 13:46:55,285  INFO    2012: 2451 completed games found via MLB API
+2026-03-30 13:46:55,285  INFO    2012: processing game 0/2451
+2026-03-30 13:48:16,795  INFO    2012: processing game 100/2451
+2026-03-30 13:49:36,024  INFO    2012: processing game 200/2451
+2026-03-30 13:50:52,032  INFO    2012: processing game 300/2451
+2026-03-30 13:52:11,210  INFO    2012: processing game 400/2451
+2026-03-30 13:53:28,509  INFO    2012: processing game 500/2451
+2026-03-30 13:54:44,241  INFO    2012: processing game 600/2451
+2026-03-30 13:55:57,833  INFO    2012: processing game 700/2451
+2026-03-30 13:57:11,127  INFO    2012: processing game 800/2451
+2026-03-30 13:58:23,753  INFO    2012: processing game 900/2451
+2026-03-30 13:59:38,591  INFO    2012: processing game 1000/2451
+2026-03-30 14:00:56,603  INFO    2012: processing game 1100/2451
+2026-03-30 14:02:18,008  INFO    2012: processing game 1200/2451
+2026-03-30 14:03:40,330  INFO    2012: processing game 1300/2451
+2026-03-30 14:04:54,408  INFO    2012: processing game 1400/2451
+2026-03-30 14:06:12,252  INFO    2012: processing game 1500/2451
+2026-03-30 14:07:30,114  INFO    2012: processing game 1600/2451
+2026-03-30 14:08:44,231  INFO    2012: processing game 1700/2451
+2026-03-30 14:10:07,695  INFO    2012: processing game 1800/2451
+2026-03-30 14:11:27,212  INFO    2012: processing game 1900/2451
+2026-03-30 14:12:40,834  INFO    2012: processing game 2000/2451
+2026-03-30 14:13:56,453  INFO    2012: processing game 2100/2451
+2026-03-30 14:15:13,067  INFO    2012: processing game 2200/2451
+2026-03-30 14:16:28,643  INFO    2012: processing game 2300/2451
+2026-03-30 14:18:05,432  INFO    2012: processing game 2400/2451
+2026-03-30 14:18:44,628  INFO  Season 2012 done: 4896 outings inserted
+2026-03-30 14:18:47,629  INFO  Scraping season 2013…
+2026-03-30 14:18:47,667  ERROR    BBRef season 2013 failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-30 14:18:48,521  INFO    2013: 2470 completed games found via MLB API
+2026-03-30 14:18:48,521  INFO    2013: processing game 0/2470
+2026-03-30 14:20:00,402  INFO    2013: processing game 100/2470
+2026-03-30 14:21:14,483  INFO    2013: processing game 200/2470
+2026-03-30 14:22:34,095  INFO    2013: processing game 300/2470
+2026-03-30 14:23:47,135  INFO    2013: processing game 400/2470
+2026-03-30 14:24:59,401  INFO    2013: processing game 500/2470
+2026-03-30 14:26:16,637  INFO    2013: processing game 600/2470
+2026-03-30 14:27:31,543  INFO    2013: processing game 700/2470
+2026-03-30 14:28:49,121  INFO    2013: processing game 800/2470
+2026-03-30 14:30:06,575  INFO    2013: processing game 900/2470
+2026-03-30 14:31:23,803  INFO    2013: processing game 1000/2470
+2026-03-30 14:32:41,418  INFO    2013: processing game 1100/2470
+2026-03-30 14:33:55,359  INFO    2013: processing game 1200/2470
+2026-03-30 14:35:09,747  INFO    2013: processing game 1300/2470
+2026-03-30 14:36:25,363  INFO    2013: processing game 1400/2470
+2026-03-30 14:37:45,911  INFO    2013: processing game 1500/2470
+2026-03-30 14:39:09,798  INFO    2013: processing game 1600/2470
+2026-03-30 14:40:24,630  INFO    2013: processing game 1700/2470
+2026-03-30 14:41:39,458  INFO    2013: processing game 1800/2470
+2026-03-30 14:43:00,770  INFO    2013: processing game 1900/2470
+2026-03-30 14:44:16,775  INFO    2013: processing game 2000/2470
+2026-03-30 14:45:34,323  INFO    2013: processing game 2100/2470
+2026-03-30 14:46:52,910  INFO    2013: processing game 2200/2470
+2026-03-30 14:48:21,139  INFO    2013: processing game 2300/2470
+2026-03-30 14:49:37,958  INFO    2013: processing game 2400/2470
+2026-03-30 14:50:31,037  INFO  Season 2013 done: 4937 outings inserted
+2026-03-30 14:50:34,037  INFO  Scraping season 2014…
+2026-03-30 14:50:34,755  ERROR    BBRef season 2014 failed: list index out of range
+2026-03-30 14:50:39,789  INFO    2014: 2471 completed games found via MLB API
+2026-03-30 14:50:39,790  INFO    2014: processing game 0/2471
+2026-03-30 14:51:51,612  INFO    2014: processing game 100/2471
+2026-03-30 14:53:07,294  INFO    2014: processing game 200/2471
+2026-03-30 14:54:24,247  INFO    2014: processing game 300/2471
+2026-03-30 14:55:37,871  INFO    2014: processing game 400/2471
+2026-03-30 14:56:51,164  INFO    2014: processing game 500/2471
+2026-03-30 14:58:05,993  INFO    2014: processing game 600/2471
+2026-03-30 14:59:19,254  INFO    2014: processing game 700/2471
+2026-03-30 15:00:34,066  INFO    2014: processing game 800/2471
+2026-03-30 15:01:56,671  INFO    2014: processing game 900/2471
+2026-03-30 15:03:17,037  INFO    2014: processing game 1000/2471
+2026-03-30 15:04:31,553  INFO    2014: processing game 1100/2471
+2026-03-30 15:05:48,697  INFO    2014: processing game 1200/2471
+2026-03-30 15:07:06,120  INFO    2014: processing game 1300/2471
+2026-03-30 15:08:22,710  INFO    2014: processing game 1400/2471
+2026-03-30 15:09:38,748  INFO    2014: processing game 1500/2471
+2026-03-30 15:11:08,866  INFO    2014: processing game 1600/2471
+2026-03-30 15:12:23,658  INFO    2014: processing game 1700/2471
+2026-03-30 15:13:42,648  INFO    2014: processing game 1800/2471
+2026-03-30 15:14:59,363  INFO    2014: processing game 1900/2471
+2026-03-30 15:16:16,506  INFO    2014: processing game 2000/2471
+2026-03-30 15:17:32,528  INFO    2014: processing game 2100/2471
+2026-03-30 15:18:49,868  INFO    2014: processing game 2200/2471
+2026-03-30 15:20:15,246  INFO    2014: processing game 2300/2471
+2026-03-30 15:21:31,287  INFO    2014: processing game 2400/2471
+2026-03-30 15:22:24,817  INFO  Season 2014 done: 4938 outings inserted
+2026-03-30 15:22:27,818  INFO  Scraping season 2015…
+2026-03-30 15:22:28,715  INFO    2015: 2471 completed games found via MLB API
+2026-03-30 15:22:28,715  INFO    2015: processing game 0/2471
+2026-03-30 15:23:41,108  INFO    2015: processing game 100/2471
+2026-03-30 15:24:54,147  INFO    2015: processing game 200/2471
+2026-03-30 15:26:07,855  INFO    2015: processing game 300/2471
+2026-03-30 15:27:23,887  INFO    2015: processing game 400/2471
+2026-03-30 15:28:37,401  INFO    2015: processing game 500/2471
+2026-03-30 15:29:51,178  INFO    2015: processing game 600/2471
+2026-03-30 15:31:04,999  INFO    2015: processing game 700/2471
+2026-03-30 15:32:19,032  INFO    2015: processing game 800/2471
+2026-03-30 15:33:32,491  INFO    2015: processing game 900/2471
+2026-03-30 15:34:45,883  INFO    2015: processing game 1000/2471
+2026-03-30 15:35:59,761  INFO    2015: processing game 1100/2471
+2026-03-30 15:37:14,039  INFO    2015: processing game 1200/2471
+2026-03-30 15:38:28,730  INFO    2015: processing game 1300/2471
+2026-03-30 15:39:43,115  INFO    2015: processing game 1400/2471
+2026-03-30 15:40:57,533  INFO    2015: processing game 1500/2471
+2026-03-30 15:42:12,057  INFO    2015: processing game 1600/2471
+2026-03-30 15:43:26,648  INFO    2015: processing game 1700/2471
+2026-03-30 15:44:40,885  INFO    2015: processing game 1800/2471
+2026-03-30 15:45:55,195  INFO    2015: processing game 1900/2471
+2026-03-30 15:47:09,680  INFO    2015: processing game 2000/2471
+2026-03-30 15:48:25,430  INFO    2015: processing game 2100/2471
+2026-03-30 15:49:41,873  INFO    2015: processing game 2200/2471
+2026-03-30 15:50:58,823  INFO    2015: processing game 2300/2471
+2026-03-30 15:52:15,335  INFO    2015: processing game 2400/2471
+2026-03-30 15:53:09,941  INFO  Season 2015 done: 4937 outings inserted
+2026-03-30 15:53:12,942  INFO  Scraping season 2016…
+2026-03-30 15:53:13,850  INFO    2016: 2456 completed games found via MLB API
+2026-03-30 15:53:13,851  INFO    2016: processing game 0/2456
+2026-03-30 15:54:25,480  INFO    2016: processing game 100/2456
+2026-03-30 15:55:38,440  INFO    2016: processing game 200/2456
+2026-03-30 15:56:54,913  INFO    2016: processing game 300/2456
+2026-03-30 15:58:09,343  INFO    2016: processing game 400/2456
+2026-03-30 15:59:28,084  INFO    2016: processing game 500/2456
+2026-03-30 16:00:41,642  INFO    2016: processing game 600/2456
+2026-03-30 16:01:58,629  INFO    2016: processing game 700/2456
+2026-03-30 16:03:23,246  INFO    2016: processing game 800/2456
+2026-03-30 16:04:37,167  INFO    2016: processing game 900/2456
+2026-03-30 16:06:07,240  INFO    2016: processing game 1000/2456
+2026-03-30 16:07:28,197  INFO    2016: processing game 1100/2456
+2026-03-30 16:08:48,633  INFO    2016: processing game 1200/2456
+2026-03-30 16:10:06,407  INFO    2016: processing game 1300/2456
+2026-03-30 16:11:21,835  INFO    2016: processing game 1400/2456
+2026-03-30 16:12:35,942  INFO    2016: processing game 1500/2456
+2026-03-30 16:13:54,639  INFO    2016: processing game 1600/2456
+2026-03-30 16:15:11,024  INFO    2016: processing game 1700/2456
+2026-03-30 16:16:32,521  INFO    2016: processing game 1800/2456
+2026-03-30 16:17:58,163  INFO    2016: processing game 1900/2456
+2026-03-30 16:19:12,005  INFO    2016: processing game 2000/2456
+2026-03-30 16:20:31,089  INFO    2016: processing game 2100/2456
+2026-03-30 16:21:52,167  INFO    2016: processing game 2200/2456
+2026-03-30 16:23:21,225  INFO    2016: processing game 2300/2456
+2026-03-30 16:24:41,583  INFO    2016: processing game 2400/2456
+2026-03-30 16:25:24,744  INFO  Season 2016 done: 4902 outings inserted
+2026-03-30 16:25:27,745  INFO  Scraping season 2017…
+2026-03-30 16:25:28,544  INFO    2017: 2469 completed games found via MLB API
+2026-03-30 16:25:28,545  INFO    2017: processing game 0/2469
+2026-03-30 16:26:45,075  INFO    2017: processing game 100/2469
+2026-03-30 16:27:58,279  INFO    2017: processing game 200/2469
+2026-03-30 16:29:12,863  INFO    2017: processing game 300/2469
+2026-03-30 16:30:31,211  INFO    2017: processing game 400/2469
+2026-03-30 16:31:45,654  INFO    2017: processing game 500/2469
+2026-03-30 16:33:03,502  INFO    2017: processing game 600/2469
+2026-03-30 16:34:17,541  INFO    2017: processing game 700/2469
+2026-03-30 16:35:32,102  INFO    2017: processing game 800/2469
+2026-03-30 16:36:52,888  INFO    2017: processing game 900/2469
+2026-03-30 16:38:08,473  INFO    2017: processing game 1000/2469
+2026-03-30 16:39:24,515  INFO    2017: processing game 1100/2469
+2026-03-30 16:40:41,592  INFO    2017: processing game 1200/2469
+2026-03-30 16:41:56,607  INFO    2017: processing game 1300/2469
+2026-03-30 16:43:10,521  INFO    2017: processing game 1400/2469
+2026-03-30 16:44:26,971  INFO    2017: processing game 1500/2469
+2026-03-30 16:45:46,935  INFO    2017: processing game 1600/2469
+2026-03-30 16:47:04,060  INFO    2017: processing game 1700/2469
+2026-03-30 16:48:19,124  INFO    2017: processing game 1800/2469
+2026-03-30 16:49:33,925  INFO    2017: processing game 1900/2469
+2026-03-30 16:50:51,140  INFO    2017: processing game 2000/2469
+2026-03-30 16:52:07,505  INFO    2017: processing game 2100/2469
+2026-03-30 16:53:33,266  INFO    2017: processing game 2200/2469
+2026-03-30 16:54:53,419  INFO    2017: processing game 2300/2469
+2026-03-30 16:56:12,628  INFO    2017: processing game 2400/2469
+2026-03-30 16:57:05,214  INFO  Season 2017 done: 4936 outings inserted
+2026-03-30 16:57:08,215  INFO  Scraping season 2018…
+2026-03-30 16:57:09,220  INFO    2018: 2487 completed games found via MLB API
+2026-03-30 16:57:09,221  INFO    2018: processing game 0/2487
+2026-03-30 16:58:19,877  INFO    2018: processing game 100/2487
+2026-03-30 16:59:33,345  INFO    2018: processing game 200/2487
+2026-03-30 17:00:46,076  INFO    2018: processing game 300/2487
+2026-03-30 17:02:00,300  INFO    2018: processing game 400/2487
+2026-03-30 17:03:18,439  INFO    2018: processing game 500/2487
+2026-03-30 17:04:37,408  INFO    2018: processing game 600/2487
+2026-03-30 17:05:57,693  INFO    2018: processing game 700/2487
+2026-03-30 17:07:16,046  INFO    2018: processing game 800/2487
+2026-03-30 17:08:33,268  INFO    2018: processing game 900/2487
+2026-03-30 17:09:51,202  INFO    2018: processing game 1000/2487
+2026-03-30 17:11:09,264  INFO    2018: processing game 1100/2487
+2026-03-30 17:12:26,056  INFO    2018: processing game 1200/2487
+2026-03-30 17:13:43,160  INFO    2018: processing game 1300/2487
+2026-03-30 17:15:02,399  INFO    2018: processing game 1400/2487
+2026-03-30 17:16:21,571  INFO    2018: processing game 1500/2487
+2026-03-30 17:17:40,623  INFO    2018: processing game 1600/2487
+2026-03-30 17:19:00,471  INFO    2018: processing game 1700/2487
+2026-03-30 17:20:17,043  INFO    2018: processing game 1800/2487
+2026-03-30 17:21:32,094  INFO    2018: processing game 1900/2487
+2026-03-30 17:22:46,617  INFO    2018: processing game 2000/2487
+2026-03-30 17:24:02,790  INFO    2018: processing game 2100/2487
+2026-03-30 17:25:18,696  INFO    2018: processing game 2200/2487
+2026-03-30 17:26:36,909  INFO    2018: processing game 2300/2487
+2026-03-30 17:27:53,920  INFO    2018: processing game 2400/2487
+2026-03-30 17:29:01,674  INFO  Season 2018 done: 4965 outings inserted
+2026-03-30 17:29:04,674  INFO  Scraping season 2019…
+2026-03-30 17:29:05,601  INFO    2019: 2472 completed games found via MLB API
+2026-03-30 17:29:05,601  INFO    2019: processing game 0/2472
+2026-03-30 17:30:16,578  INFO    2019: processing game 100/2472
+2026-03-30 17:31:28,895  INFO    2019: processing game 200/2472
+2026-03-30 17:32:41,700  INFO    2019: processing game 300/2472
+2026-03-30 17:33:54,537  INFO    2019: processing game 400/2472
+2026-03-30 17:35:07,458  INFO    2019: processing game 500/2472
+2026-03-30 17:36:20,803  INFO    2019: processing game 600/2472
+2026-03-30 17:37:33,808  INFO    2019: processing game 700/2472
+2026-03-30 17:38:47,361  INFO    2019: processing game 800/2472
+2026-03-30 17:40:02,353  INFO    2019: processing game 900/2472
+2026-03-30 17:41:15,326  INFO    2019: processing game 1000/2472
+2026-03-30 17:42:28,769  INFO    2019: processing game 1100/2472
+2026-03-30 17:43:42,794  INFO    2019: processing game 1200/2472
+2026-03-30 17:44:57,431  INFO    2019: processing game 1300/2472
+2026-03-30 17:46:11,215  INFO    2019: processing game 1400/2472
+2026-03-30 17:47:25,345  INFO    2019: processing game 1500/2472
+2026-03-30 17:48:39,797  INFO    2019: processing game 1600/2472
+2026-03-30 17:49:54,304  INFO    2019: processing game 1700/2472
+2026-03-30 17:51:08,077  INFO    2019: processing game 1800/2472
+2026-03-30 17:52:22,600  INFO    2019: processing game 1900/2472
+2026-03-30 17:53:37,115  INFO    2019: processing game 2000/2472
+2026-03-30 17:54:51,878  INFO    2019: processing game 2100/2472
+2026-03-30 17:56:07,738  INFO    2019: processing game 2200/2472
+2026-03-30 17:57:23,606  INFO    2019: processing game 2300/2472
+2026-03-30 17:58:39,355  INFO    2019: processing game 2400/2472
+2026-03-30 17:59:33,928  INFO  Season 2019 done: 4936 outings inserted
+2026-03-30 17:59:36,929  INFO  Scraping season 2020…
+2026-03-30 17:59:37,674  INFO    2020: 973 completed games found via MLB API
+2026-03-30 17:59:37,675  INFO    2020: processing game 0/973
+2026-03-30 18:00:49,085  INFO    2020: processing game 100/973
+2026-03-30 18:02:01,391  INFO    2020: processing game 200/973
+2026-03-30 18:03:14,510  INFO    2020: processing game 300/973
+2026-03-30 18:04:27,565  INFO    2020: processing game 400/973
+2026-03-30 18:05:40,637  INFO    2020: processing game 500/973
+2026-03-30 18:06:53,984  INFO    2020: processing game 600/973
+2026-03-30 18:08:08,460  INFO    2020: processing game 700/973
+2026-03-30 18:09:21,750  INFO    2020: processing game 800/973
+2026-03-30 18:10:35,131  INFO    2020: processing game 900/973
+2026-03-30 18:11:28,950  INFO  Season 2020 done: 1931 outings inserted
+2026-03-30 18:11:31,951  INFO  Scraping season 2021…
+2026-03-30 18:11:32,847  INFO    2021: 2512 completed games found via MLB API
+2026-03-30 18:11:32,847  INFO    2021: processing game 0/2512
+2026-03-30 18:12:44,285  INFO    2021: processing game 100/2512
+2026-03-30 18:13:56,732  INFO    2021: processing game 200/2512
+2026-03-30 18:15:09,168  INFO    2021: processing game 300/2512
+2026-03-30 18:16:21,808  INFO    2021: processing game 400/2512
+2026-03-30 18:17:34,057  INFO    2021: processing game 500/2512
+2026-03-30 18:18:47,137  INFO    2021: processing game 600/2512
+2026-03-30 18:20:00,498  INFO    2021: processing game 700/2512
+2026-03-30 18:21:14,934  INFO    2021: processing game 800/2512
+2026-03-30 18:22:28,537  INFO    2021: processing game 900/2512
+2026-03-30 18:23:42,377  INFO    2021: processing game 1000/2512
+2026-03-30 18:24:56,282  INFO    2021: processing game 1100/2512
+2026-03-30 18:26:09,881  INFO    2021: processing game 1200/2512
+2026-03-30 18:27:23,155  INFO    2021: processing game 1300/2512
+2026-03-30 18:28:36,660  INFO    2021: processing game 1400/2512
+2026-03-30 18:29:49,933  INFO    2021: processing game 1500/2512
+2026-03-30 18:31:03,471  INFO    2021: processing game 1600/2512
+2026-03-30 18:32:17,525  INFO    2021: processing game 1700/2512
+2026-03-30 18:33:31,330  INFO    2021: processing game 1800/2512
+2026-03-30 18:34:45,627  INFO    2021: processing game 1900/2512
+2026-03-30 18:36:04,640  INFO    2021: processing game 2000/2512
+2026-03-30 18:37:18,871  INFO    2021: processing game 2100/2512
+2026-03-30 18:38:34,058  INFO    2021: processing game 2200/2512
+2026-03-30 18:39:49,735  INFO    2021: processing game 2300/2512
+2026-03-30 18:41:06,580  INFO    2021: processing game 2400/2512
+2026-03-30 18:42:21,865  INFO    2021: processing game 2500/2512
+2026-03-30 18:42:30,942  INFO  Season 2021 done: 5017 outings inserted
+2026-03-30 18:42:33,943  INFO  Scraping season 2022…
+2026-03-30 18:42:34,821  INFO    2022: 2479 completed games found via MLB API
+2026-03-30 18:42:34,821  INFO    2022: processing game 0/2479
+2026-03-30 18:43:47,270  INFO    2022: processing game 100/2479
+2026-03-30 18:44:59,599  INFO    2022: processing game 200/2479
+2026-03-30 18:46:12,797  INFO    2022: processing game 300/2479
+2026-03-30 18:47:25,412  INFO    2022: processing game 400/2479
+2026-03-30 18:48:37,907  INFO    2022: processing game 500/2479
+2026-03-30 18:49:50,847  INFO    2022: processing game 600/2479
+2026-03-30 18:51:04,620  INFO    2022: processing game 700/2479
+2026-03-30 18:52:18,057  INFO    2022: processing game 800/2479
+2026-03-30 18:53:31,370  INFO    2022: processing game 900/2479
+2026-03-30 18:54:45,998  INFO    2022: processing game 1000/2479
+2026-03-30 18:55:59,637  INFO    2022: processing game 1100/2479
+2026-03-30 18:57:14,134  INFO    2022: processing game 1200/2479
+2026-03-30 18:58:27,829  INFO    2022: processing game 1300/2479
+2026-03-30 18:59:41,733  INFO    2022: processing game 1400/2479
+2026-03-30 19:00:55,508  INFO    2022: processing game 1500/2479
+2026-03-30 19:02:09,314  INFO    2022: processing game 1600/2479
+2026-03-30 19:03:23,219  INFO    2022: processing game 1700/2479
+2026-03-30 19:04:36,979  INFO    2022: processing game 1800/2479
+2026-03-30 19:05:52,262  INFO    2022: processing game 1900/2479
+2026-03-30 19:07:06,514  INFO    2022: processing game 2000/2479
+2026-03-30 19:08:20,754  INFO    2022: processing game 2100/2479
+2026-03-30 19:09:35,211  INFO    2022: processing game 2200/2479
+2026-03-30 19:10:50,355  INFO    2022: processing game 2300/2479
+2026-03-30 19:12:05,427  INFO    2022: processing game 2400/2479
+2026-03-30 19:13:05,185  INFO  Season 2022 done: 4951 outings inserted
+2026-03-30 19:13:08,186  INFO  Season 2023 already scraped — skipping
+2026-03-30 19:13:08,187  INFO  Scraping season 2024…
+2026-03-30 19:13:08,998  INFO    2024: 2469 completed games found via MLB API
+2026-03-30 19:13:08,998  INFO    2024: processing game 0/2469
+2026-03-30 19:14:20,246  INFO    2024: processing game 100/2469
+2026-03-30 19:15:32,413  INFO    2024: processing game 200/2469
+2026-03-30 19:16:45,258  INFO    2024: processing game 300/2469
+2026-03-30 19:17:57,938  INFO    2024: processing game 400/2469
+2026-03-30 19:19:10,642  INFO    2024: processing game 500/2469
+2026-03-30 19:20:23,982  INFO    2024: processing game 600/2469
+2026-03-30 19:21:36,852  INFO    2024: processing game 700/2469
+2026-03-30 19:22:50,096  INFO    2024: processing game 800/2469
+2026-03-30 19:24:03,292  INFO    2024: processing game 900/2469
+2026-03-30 19:25:16,743  INFO    2024: processing game 1000/2469
+2026-03-30 19:26:29,787  INFO    2024: processing game 1100/2469
+2026-03-30 19:27:43,148  INFO    2024: processing game 1200/2469
+2026-03-30 19:28:56,292  INFO    2024: processing game 1300/2469
+2026-03-30 19:30:10,074  INFO    2024: processing game 1400/2469
+2026-03-30 19:31:23,920  INFO    2024: processing game 1500/2469
+2026-03-30 19:32:38,640  INFO    2024: processing game 1600/2469
+2026-03-30 19:33:52,811  INFO    2024: processing game 1700/2469
+2026-03-30 19:35:07,204  INFO    2024: processing game 1800/2469
+2026-03-30 19:36:21,028  INFO    2024: processing game 1900/2469
+2026-03-30 19:37:34,981  INFO    2024: processing game 2000/2469
+2026-03-30 19:38:48,831  INFO    2024: processing game 2100/2469
+2026-03-30 19:40:03,028  INFO    2024: processing game 2200/2469
+2026-03-30 19:41:17,105  INFO    2024: processing game 2300/2469
+2026-03-30 19:42:31,501  INFO    2024: processing game 2400/2469
+2026-03-30 19:43:22,609  INFO  Season 2024 done: 4931 outings inserted
+2026-03-30 19:43:25,610  INFO  Scraping season 2025…
+2026-03-30 19:43:26,440  INFO    2025: 2464 completed games found via MLB API
+2026-03-30 19:43:26,441  INFO    2025: processing game 0/2464
+2026-03-30 19:44:37,686  INFO    2025: processing game 100/2464
+2026-03-30 19:45:50,756  INFO    2025: processing game 200/2464
+2026-03-30 19:47:03,236  INFO    2025: processing game 300/2464
+2026-03-30 19:48:15,718  INFO    2025: processing game 400/2464
+2026-03-30 19:49:28,115  INFO    2025: processing game 500/2464
+2026-03-30 19:50:40,583  INFO    2025: processing game 600/2464
+2026-03-30 19:51:53,437  INFO    2025: processing game 700/2464
+2026-03-30 19:53:06,794  INFO    2025: processing game 800/2464
+2026-03-30 19:54:20,080  INFO    2025: processing game 900/2464
+2026-03-30 19:55:33,154  INFO    2025: processing game 1000/2464
+2026-03-30 19:56:46,525  INFO    2025: processing game 1100/2464
+2026-03-30 19:57:59,745  INFO    2025: processing game 1200/2464
+2026-03-30 19:59:13,438  INFO    2025: processing game 1300/2464
+2026-03-30 20:00:26,869  INFO    2025: processing game 1400/2464
+2026-03-30 20:01:40,446  INFO    2025: processing game 1500/2464
+2026-03-30 20:02:54,558  INFO    2025: processing game 1600/2464
+2026-03-30 20:04:08,545  INFO    2025: processing game 1700/2464
+2026-03-30 20:05:22,958  INFO    2025: processing game 1800/2464
+2026-03-30 20:06:38,225  INFO    2025: processing game 1900/2464
+2026-03-30 20:07:52,063  INFO    2025: processing game 2000/2464
+2026-03-30 20:09:06,486  INFO    2025: processing game 2100/2464
+2026-03-30 20:10:20,841  INFO    2025: processing game 2200/2464
+2026-03-30 20:11:35,634  INFO    2025: processing game 2300/2464
+2026-03-30 20:12:50,060  INFO    2025: processing game 2400/2464
+2026-03-30 20:13:37,570  INFO  Season 2025 done: 4924 outings inserted
+2026-03-30 20:13:40,581  INFO  Build complete. Total outings in DB: 404,549 (399,601 new)
